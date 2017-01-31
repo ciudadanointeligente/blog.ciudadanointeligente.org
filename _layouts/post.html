@@ -1,9 +1,15 @@
 ---
-layout: default
+layout: fb_instant_articles
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-header">
+    <figure data-feedback="fb:likes, fb:comments">
+      {% for image in page.single_image %}
+      <img src="{{ image.img }}" />
+      <figcaption>{{ image.caption }}</figcaption>
+      {% endfor %}
+    </figure>
+
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
@@ -11,5 +17,17 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  <!-- The author of your article -->
+  <address>
+    {% for author in page.authors %}
+      {{author.name}}
+    {% endfor %}
+  </address>
+
+  <!-- The published and last modified time stamps -->
+
+  [<time class="op-published" dateTime="{{ page.created_at | date: '%Y-%m-%dT%T' }}">{{ page.created_at | date: "%A %e %B, %Y" }}</time>]
+  [<time class="op-modified" dateTime="{{ page.updated_at | date: '%Y-%m-%dT%T'}}">{{ page.updated_at | date: "%A %e %B, %Y" }}</time>]
 
 </article>
