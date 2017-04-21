@@ -23,15 +23,15 @@ layout: null
             <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://example.com/article.html">
+                <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
                 <article>
                   <header>
-                    {{ post.title | xml_escape }}
+                    {{ post.title }}
                   </header>
-                  {{ post.content | xml_escape }}
+                  {{ post.content }}
                   <footer>
                     <time class="op-published" dateTime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%A %e %B, %Y" }}</time>
                     <time class="op-modified" dateTime="{{ page.date | date: '%Y-%m-%dT%T'}}">{{ page.date | date: "%A %e %B, %Y" }}</time>
