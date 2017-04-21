@@ -28,13 +28,13 @@ layout: null
               </head>
               <body>
                 <article>
-                  <header>
-                    {{ post.title }}
-                  </header>
+                  <header>{{ post.title }}</header>
+                  <!-- content -->
                   {{ post.content }}
+                  <!-- content -->
                   <footer>
-                    <time class="op-published" dateTime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%A %e %B, %Y" }}</time>
-                    <time class="op-modified" dateTime="{{ page.date | date: '%Y-%m-%dT%T'}}">{{ page.date | date: "%A %e %B, %Y" }}</time>
+                    <time class="op-published" dateTime="{{ post.date | date: '%Y-%m-%dT%T' }}">{{ post.date | date: "%A %e %B, %Y" }}</time>
+                    <time class="op-modified" dateTime="{{ post.date | date: '%Y-%m-%dT%T'}}">{{ post.date | date: "%A %e %B, %Y" }}</time>
                   </footer>
                 </article>
               </body>
