@@ -27,7 +27,7 @@ layout: fb_instant_articles
 
   <!-- The published and last modified time stamps -->
 
-  [<time class="op-published" dateTime="{{ page.created_at | date: '%Y-%m-%dT%T' }}">{{ page.created_at | date: "%A %e %B, %Y" }}</time>]
-  [<time class="op-modified" dateTime="{{ page.updated_at | date: '%Y-%m-%dT%T'}}">{{ page.updated_at | date: "%A %e %B, %Y" }}</time>]
+  [<time class="op-published" dateTime="{{ page.date | date: '%Y-%m-%dT%T' }}">{{ page.date | date: "%A %e %B, %Y" }}</time>]
+  [<time class="op-modified" dateTime="{{ page.date | date: '%Y-%m-%dT%T'}}">{{ page.date | date: "%A %e %B, %Y" }}</time>]
 
 </article>
