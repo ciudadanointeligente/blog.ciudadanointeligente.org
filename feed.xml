@@ -25,17 +25,23 @@ layout: null
                 <meta charset="utf-8">
                 <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
                 <meta property="op:markup_version" content="v1.0">
+                <meta property="fb:article_style" content="default">
               </head>
               <body>
                 <article>
-                  <header>{{ post.title }}</header>
+                  <header>
+                    <figure>
+                      <img src="{{ post.single_image[0].img }}" />
+                      <figcaption>{{ post.single_image[0].caption }}</figcaption>
+                    </figure>
+                    <h1 class="title">{{ post.title }}</h1>
+                    <time class="op-published" dateTime="{{ post.date | date: '%Y-%m-%dT%T' }}">{{ post.date | date: "%A %e %B, %Y" }}</time>
+                    <time class="op-modified" dateTime="{{ post.date | date: '%Y-%m-%dT%T'}}">{{ post.date | date: "%A %e %B, %Y" }}</time>
+                  </header>
                   <!-- content -->
                   {{ post.content }}
                   <!-- content -->
-                  <footer>
-                    <time class="op-published" dateTime="{{ post.date | date: '%Y-%m-%dT%T' }}">{{ post.date | date: "%A %e %B, %Y" }}</time>
-                    <time class="op-modified" dateTime="{{ post.date | date: '%Y-%m-%dT%T'}}">{{ post.date | date: "%A %e %B, %Y" }}</time>
-                  </footer>
+                  <footer>Fundación Ciudadano Inteligente</footer>
                 </article>
               </body>
             </html>
