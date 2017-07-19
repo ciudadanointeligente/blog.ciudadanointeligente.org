@@ -5,7 +5,7 @@ intro: "En Ciudadano Inteligente tuvimos nuestro propio Encuentro Local. En el s
 date:   2017-05-26 12:00:00 -0300
 categories: Chile, Nueva Constitución, 
 single_image:
-  - img: "<iframe src="https://player.vimeo.com/video/167187339" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
     caption: "lorem caption ipsum"
 ---
 Por:Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente
