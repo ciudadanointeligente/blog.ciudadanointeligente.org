@@ -8,6 +8,8 @@ single_image:
   - img: "<iframe src="https://player.vimeo.com/video/167187339" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
     caption: "lorem caption ipsum"
 ---
+Por:Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente
+
 Hace unas semanas se dio por iniciada la etapa participativa del tan esperado Proceso Constituyente. Desde Ciudadano Inteligente no dudamos en sumarnos y como parte del equipo de talleres y capacitaciones de la fundación,  me tocó organizar nuestro primer Encuentro Local (sí, tendremos un segundo encuentro local en Villarrica el 3 de junio), junto con asumir con mucho orgullo ser la moderadora de la instancia.
 
 Como sabrán, para realizar un Encuentro Local se debe revisar inicialmente la “Guía para organizar encuentros locales” proporcionada por el Gobierno, en la cual se encuentran los pasos necesarios para que un encuentro sea considerado como válido. Respecto a esta guía hay que decir un par de cosas:
