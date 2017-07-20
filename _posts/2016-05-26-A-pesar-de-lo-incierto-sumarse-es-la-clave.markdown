@@ -10,8 +10,6 @@ single_image:
 ---
 *Por: Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente*
 
-[![Little red ridning hood](http://imgur.com/a/VWE3b)](https://vimeo.com/167187339 "Little red riding hood - Click to Watch!")
-
 Hace unas semanas se dio por iniciada la etapa participativa del tan esperado Proceso Constituyente. Desde Ciudadano Inteligente no dudamos en sumarnos y como parte del equipo de talleres y capacitaciones de la fundación,  me tocó organizar nuestro primer Encuentro Local (sí, tendremos un segundo encuentro local en Villarrica el 3 de junio), junto con asumir con mucho orgullo ser la moderadora de la instancia.
 
 Como sabrán, para realizar un Encuentro Local se debe revisar inicialmente la “Guía para organizar encuentros locales” proporcionada por el Gobierno, en la cual se encuentran los pasos necesarios para que un encuentro sea considerado como válido. Respecto a esta guía hay que decir un par de cosas:
