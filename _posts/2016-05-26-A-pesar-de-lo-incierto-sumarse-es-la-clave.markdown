@@ -5,8 +5,7 @@ intro: "En Ciudadano Inteligente tuvimos nuestro propio Encuentro Local. En el s
 date:   2017-05-26 12:00:00 -0300
 categories: Chile, Nueva Constitución, 
 single_image:
-  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
-    caption: "lorem caption ipsum"
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/167187339 "Little red riding hood - Click to Watch!")
 ---
 *Por: Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente*
 
