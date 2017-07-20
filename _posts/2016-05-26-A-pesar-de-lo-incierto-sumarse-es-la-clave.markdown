@@ -8,7 +8,7 @@ single_image:
   - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
     caption: "lorem caption ipsum"
 ---
-''Por:Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente''
+*Por:Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente*
 
 Hace unas semanas se dio por iniciada la etapa participativa del tan esperado Proceso Constituyente. Desde Ciudadano Inteligente no dudamos en sumarnos y como parte del equipo de talleres y capacitaciones de la fundación,  me tocó organizar nuestro primer Encuentro Local (sí, tendremos un segundo encuentro local en Villarrica el 3 de junio), junto con asumir con mucho orgullo ser la moderadora de la instancia.
 
