@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A pesar de lo incierto, sumarse es la clave"
+title:  "Encuentro Regional de la Alianza para el Gobierno Abierto: Historias que contar desde Montevideo"
 intro: "Encuentro Regional de la Alianza para el Gobierno Abierto: Historias que contar desde Montevideo"
 date:   2016-06-03 12:00:00 -0300
 categories: 
