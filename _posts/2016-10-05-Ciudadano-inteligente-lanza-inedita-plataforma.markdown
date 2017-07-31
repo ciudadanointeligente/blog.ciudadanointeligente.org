@@ -7,7 +7,7 @@ categories:
 single_image:
   - img: "//youtu.be/CZ-Y-1rMwBU"
  caption: "lorem caption ipsum"
- ---
+---
 Se trata de una herramienta nunca antes vista en la historia de la política chilena, que permitirá reunir y visualizar de forma simple toda la información que la nueva ley de partidos exige a las colectividades. Partidospublicos.cl, ya cuenta con el compromiso de Amplitud, Ciudadanos, el Partido Comunista, la Democracia Cristiana, Evópoli, el Partido Liberal, PPD, Revolución Democrática y el Partido Socialista. Estos partidos subirán voluntariamente a la plataforma toda su información a partir de octubre. En el caso de aquellas colectividades que no han subido información aún, los datos provendrán en la medida en que empiecen a cargarlos al portal de transparencia del Consejo para la Transparencia.
 
 La plataforma permitirá visualizar fácilmente información sobre los afiliados de los partidos a nivel nacional y por región, permitiendo filtrarlos por género y edad. También hay disponible información sobre cómo se financian los partidos, explicando si los ingresos vienen de fondos públicos o privados, y por qué concepto se recibieron. También será posible revisar cómo se gastaron esos dineros.
