@@ -23,7 +23,7 @@ Finalmente, al laboratorio asistieron miembros de Red Ciudadana, Congreso Transp
 
 El primer día de taller fue crucial, ya que luego de una ronda de presentaciones se dio paso a la definición en conjunto del problema a abordar en el laboratorio. En esta definición, los asistentes pudieron comprobar que a pesar de sus diferencias iniciales, coincidían en las distintas características que le asignaban al problema. Finalmente, las organizaciones asistentes tenían una clara problemática en común y pudieron acordar una definición conjunta de un problema a enfrentar.
  
- - img: "//68.media.tumblr.com/0f347e1b0027088ee013eef10f1b1fbc/tumblr_inline_ocw9ttZ7yV1r9usgg_500.jpg"
+ [//68.media.tumblr.com/0f347e1b0027088ee013eef10f1b1fbc/tumblr_inline_ocw9ttZ7yV1r9usgg_500.jpg]
  
 El segundo día estuvo lleno de acuerdos, de conversaciones largas y de distintas formas en las cuales es posible enfrentar el problema definido de forma conjunta y colaborativa. Para nosotros fue reconfortante presenciar la bajada de la aprehensión inicial, quedando claro que es sumamente posible que todo trabajaran alineados, ya que todos buscan atacar el mismo problema y  que juntos somos más fuertes.     
 
