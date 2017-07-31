@@ -2,7 +2,7 @@
 layout: post
 title:  'Ciudadano Inteligente en #CityLabMIA'
 intro: "lorem intro ipsum."
-date:   2016-06-13 14:30:00 -0300
+date:   2016-11-11 14:30:00 -0300
 categories: 
 single_image:
   - img: "//68.media.tumblr.com/d745f1e3db3ab7e0e951be4dfd0ff244/tumblr_inline_oghksloXeT1uz8ttg_500.png"
