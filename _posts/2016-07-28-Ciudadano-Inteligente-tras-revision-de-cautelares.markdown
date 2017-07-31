@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'Ciudadano Inteligente tras revisión de cautelares de Jaime Orpis: ivo que tiene para nosostros la presentación de recurso de apelación, es que se respete el principio de igualdad ante la ley '"el único objet
-intro: "La organización junto a la Fiscalía y el resto de los querellantes del caso apelarán por arresto domiciliario de Jaime Orpis."
-date:   2016-07-28 14:30:00 -0300
+title:'Ciudadano Inteligente tras revisión de cautelares de Jaime Orpis: ivo que tiene para nosostros la presentación de recurso de apelación, es que se respete el principio de igualdad ante la ley '"el único objet
+intro:"La organización junto a la Fiscalía y el resto de los querellantes del caso apelarán por arresto domiciliario de Jaime Orpis."
+date:2016-07-28 14:30:00 -0300
 categories: 
 single_image:
 img: "//68.media.tumblr.com/ad7f445cc24a958977897845ba068511/tumblr_inline_ob1whd23Ke1r9usgg_500.png"
