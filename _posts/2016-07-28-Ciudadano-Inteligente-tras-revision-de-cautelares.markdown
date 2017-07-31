@@ -1,6 +1,6 @@
 ---
 layout: post
-title:'Ciudadano Inteligente tras revisión de cautelares de Jaime Orpis: ivo que tiene para nosostros la presentación de recurso de apelación, es que se respete el principio de igualdad ante la ley '"el único objet
+title:"Ciudadano Inteligente tras revisión de cautelares de Jaime Orpis: el único objetivo que tiene para nosostros la presentación de recurso de apelación, es que se respete el principio de igualdad ante la ley"
 intro:"La organización junto a la Fiscalía y el resto de los querellantes del caso apelarán por arresto domiciliario de Jaime Orpis."
 date:2016-07-28 14:30:00 -0300
 categories: 
