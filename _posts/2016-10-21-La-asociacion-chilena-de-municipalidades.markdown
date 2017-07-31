@@ -2,7 +2,7 @@
 layout: post
 title:  'La Asociación Chilena de Municipalidades se suma a darle seguimiento a las propuestas ciudadanas y compromisos adquiridos por parte de los candidatos a través de votainteligente.cl'
 intro: "La plataforma www.votainteligente.cl de la Fundación Ciudadano Inteligente logró un total de 3.615 propuestas ciudadanas y 2.696 compromisos por parte de candidatos a alcalde y concejal."
-date:   2016-19-21 14:30:00 -0300
+date:   2016-10-21 14:30:00 -0300
 categories: 
 single_image:
   - img: "//68.media.tumblr.com/bd7cf3dcade3437373002aa5fb4700e9/tumblr_inline_ofevokEhQW1r9usgg_500.jpg"
