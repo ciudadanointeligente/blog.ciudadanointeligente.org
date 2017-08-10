@@ -2,21 +2,48 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<div id="main" class="container">
+  <div class="row">
+    <div class="col-md-12">
+      {% assign destacadas = site.posts | where:"highlighted",true %}
+      {% for destacada in destacadas %}
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2>
+            <a class="post-link" href="{{ destacada.url | prepend: site.baseurl }}">{{ destacada.title }}</a>
+          </h2>
+        </div>
+        <div class="panel-body">
+          <p>{{ destacada.intro }}</p>
+          <span class="post-meta">{{ destacada.date | date: "%b %-d, %Y" }}</span>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% assign counter = 1 %}
+    <div class="row">
+  {% assign articulos = site.posts | where:"highlighted","" %}
+  {% for post in articulos %}
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+          </div>
+          <div class="panel-body">
+            <p>{{ post.intro }}</p>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
+        </div>
+      </div>
+    {% assign cnt = counter|modulo:3 %}
+    {% if cnt == 0 %}</div><div class="row">
+    {% endif %}
+      {% assign counter = counter | plus:1 %}
+  {% endfor %}
+    </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

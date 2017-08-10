@@ -1,9 +1,9 @@
 ---
 layout: post
-  title:  'Lab Cívico: La experiencia chilena de colaboración, tecnología, e incidencia para el cambio social'
+title: "Lab Cívico: La experiencia chilena de colaboración, tecnología, e incidencia para el cambio social"
 intro: "Los talleres se realizarán los días 10 y 11 de agosto en Ciudad de Guatemala."
-date:   2016-08-19 14:30:00 -0300
-categories: 
+date: 2016-08-19 14:30:00 -0300
+categories:
 single_image:
   - img: "//68.media.tumblr.com/421394aafec9d454962927f5cba05090/tumblr_inline_obno3lC5MS1r9usgg_500.png"
     caption: "lorem caption ipsum"
@@ -17,6 +17,8 @@ Gracias al apoyo de Hivos, LabCívico llega hasta Ciudad de Guatemala para reali
 Al respecto, Pablo Collada, Director ejecutivo de Fundación Ciudadano Inteligente se refirió a la importancia de ser parte de esta experiencia de conocimiento: “América Latina está llena de desafíos y no es sorpresa encontrar grupos  enojados e incluso desesperanzados con sus autoridades o con la situación en la que están. El desafío para nosotros en Ciudadano Inteligente tiene que ver con construir herramientas de participación que acompañen ese enojo y lo conviertan en planes de acción, en objetivos de incidencia, en una sociedad organizada, comprometida y capaz de articularse para mejorar su entorno.”
 
 Además, Marcelo Pérez, Coordinador de LabCívico agregó: “A partir de la entrega de diversas herramientas metodológicas de planificación buscamos empoderar a diversos sectores de la sociedad civil, para que en su conjunto avancen en la consecución de los cambios sociales que deseen, utilizando de mejor forma el tiempo y recursos en miras a un objetivo común.”
+
+![Poster LabCivico Guatemala](//68.media.tumblr.com/421394aafec9d454962927f5cba05090/tumblr_inline_obno3lC5MS1r9usgg_500.png)
 
 Sobre Ciudadano Inteligente
 
