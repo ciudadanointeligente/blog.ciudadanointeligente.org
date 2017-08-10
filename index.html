@@ -23,7 +23,7 @@ layout: default
   </div>
   {% assign counter = 1 %}
     <div class="row">
-  {% assign articulos = site.posts | where:"highlighted","" %}
+  {% assign articulos = site.posts | where:"highlighted",false %}
   {% for post in articulos %}
       <div class="col-md-4">
         <div class="panel panel-default">
