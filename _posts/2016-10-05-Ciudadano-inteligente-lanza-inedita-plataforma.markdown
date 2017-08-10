@@ -4,6 +4,7 @@ title: "Ciudadano Inteligente lanza inédita plataforma de transparencia para pa
 intro: "Partidospúblicos.cl fija nuevos estándares para acceder a la información sobre colectividades, que buscan acercar a la gente a la política. En la plataforma se podrá revisar y comparar partidos por afiliación, financiamiento, entidades en las que participan sus miembros, entre otros."
 date: 2016-10-05 14:30:00 -0300
 categories:
+highlighted: false
 single_image:
   - img: "//youtu.be/CZ-Y-1rMwBU"
     caption: "lorem caption ipsum"

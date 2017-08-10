@@ -4,6 +4,7 @@ title: "Lab Cívico: La experiencia chilena de colaboración, tecnología, e inc
 intro: "Los talleres se realizarán los días 10 y 11 de agosto en Ciudad de Guatemala."
 date: 2016-08-19 14:30:00 -0300
 categories:
+highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/421394aafec9d454962927f5cba05090/tumblr_inline_obno3lC5MS1r9usgg_500.png"
     caption: "lorem caption ipsum"

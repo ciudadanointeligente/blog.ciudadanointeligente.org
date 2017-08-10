@@ -3,7 +3,8 @@ layout: post
 title: 'A días de las elecciones municipales: diputados Vallejo y Bellolio enfrentan posiciones sobre baja participación ciudadana'
 intro: "Pérdida de legitimidad de la clase política, fortalecimiento de la democracia y participación ciudadana, fueron parte del diálogo que se instaló este 14 de octubre en el foro “Si Nadie Vota, ¿Cómo Cambiamos Las Cosas?”, organizado por Vicerrectoría de Extensión y Comunicaciones de la Universidad de Chile y la Fundación Ciudadano Inteligente. Más de un centenar de jóvenes de cuarto medio de la Región Metropolitana, los diputados Camila Vallejo y Jaime Bellolio y los académicos de nuestro plantel, Fernando Atria y Claudia Heiss, ofrecieron sus visiones sobre el tema y plantearon los desafío país que hoy nos convocan en este ámbito."
 date:   2016-10-14 14:30:00 -0300
-categories: 
+categories:
+highlighted: false
 single_image:
   - img: "https://68.media.tumblr.com/1cd266302b5f3de1c6bd0fe562581e92/tumblr_inline_of1zwygbnY1r9usgg_500.jpg"
     caption: "lorem caption ipsum"
@@ -20,7 +21,7 @@ También intentando dar una explicación al fenómeno, el diputado Jaime Belloli
 
 El voto voluntario dividió a los diputados. Mientras Vallejo señaló que dado que el poder hoy lo tienen los grupos económicos y que el mensaje de los medios de comunicación responde a esos intereses, “tiene mucho sentido que el voto sea obligatorio (…) En la medida que nosotros no entendemos el problema que está detrás de la concentración del poder, al final, los que sí tienen consciencia de clase, que sí saben sí cómo proteger sus intereses, son los que van a ir a votar. Ellos siempre votan. ¿Dónde están los niveles de participación más altos? En los barrios altos”.
 
-Por el contrario, Bellolio se planteó cerradamente contra la vuelta al voto obligatorio y contradijo a Vallejo respecto al sector con más abstención en los comicios. “Según la última elección, la gente que más se abstiene es de centro derecha. La última vez se abstuvieron cerca de 800 mil personas de las cuales 600 mil eran más bien de centro derecha”.  
+Por el contrario, Bellolio se planteó cerradamente contra la vuelta al voto obligatorio y contradijo a Vallejo respecto al sector con más abstención en los comicios. “Según la última elección, la gente que más se abstiene es de centro derecha. La última vez se abstuvieron cerca de 800 mil personas de las cuales 600 mil eran más bien de centro derecha”.
 
 Claudia Heiss, académica del Instituto de Asuntos Públicos, amplió más allá de los comicios el tema de la participación ciudadana. “Es verdad que no basta con tener elecciones limpias, periódicas y competitivas. También es necesaria una sociedad civil, que esté en permanente interacción con las instituciones. La democracia necesita participación, necesita deliberación y necesita representación. Las tres cosas juntas. Ustedes pueden criticar a los candidatos, pueden rechazar las opciones que les ofrecer el sistema político, pueden decir ‘no me gusta ninguno’, por ejemplo, pueden ir y anular el voto, pero también tienen que participar, también tienen que proponer alternativas, porque sin demos no hay democracia, y el demos somos todos los ciudadanos”, dijo Heiss.
 

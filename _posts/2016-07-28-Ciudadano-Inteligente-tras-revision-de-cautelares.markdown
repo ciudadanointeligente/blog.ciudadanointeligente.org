@@ -4,6 +4,7 @@ title: "Ciudadano Inteligente tras revisión de cautelares de Jaime Orpis: el ú
 intro: "La organización junto a la Fiscalía y el resto de los querellantes del caso apelarán por arresto domiciliario de Jaime Orpis."
 date: 2016-07-28 14:30:00 -0300
 categories:
+highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/ad7f445cc24a958977897845ba068511/tumblr_inline_ob1whd23Ke1r9usgg_500.png"
     caption: "lorem caption ipsum"

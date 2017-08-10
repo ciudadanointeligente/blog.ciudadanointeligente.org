@@ -3,7 +3,8 @@ layout: post
 title:  'Tras rectificación de Corte de Apelaciones Fundación Ciudadano Inteligente: "Estos procesos judiciales son valiosos para la democracia de nuestro país"'
 intro: "Corte de Apelaciones de Santiago modificó cautelar de arresto domiciliario y decreta prisión preventiva al Senador Jaime Orpis."
 date:   2016-06-16 14:30:00 -0300
-categories: 
+categories:
+highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/ad7f445cc24a958977897845ba068511/tumblr_inline_o8vs56ziux1r9usgg_500.png"
 ---

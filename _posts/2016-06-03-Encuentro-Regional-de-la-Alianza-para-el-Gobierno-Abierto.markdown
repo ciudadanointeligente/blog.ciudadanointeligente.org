@@ -3,12 +3,13 @@ layout: post
 title:  "Encuentro Regional de la Alianza para el Gobierno Abierto: Historias que contar desde Montevideo"
 intro: "Encuentro Regional de la Alianza para el Gobierno Abierto: Historias que contar desde Montevideo"
 date:   2016-06-03 12:00:00 -0300
-categories: 
+categories:
+highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/ccee27207ead99fc7b606670ff80b39a/tumblr_inline_o879wqbazZ1r9usgg_500.jpg"
     caption: "lorem caption ipsum"
 ---
-*Por: Manuel Barros, Coordinador de Proyectos de Ciudadano Inteligente* 
+*Por: Manuel Barros, Coordinador de Proyectos de Ciudadano Inteligente*
 
 ¿Está la sociedad civil participando realmente en la creación y monitoreo de políticas públicas? ¿Estamos co-creando con los gobiernos? ¿Cómo podemos establecer estándares para abrir y transparentar nuestros parlamentos? ¿Cómo podemos darle un uso relevante a los datos abiertos en materia gubernamental?
 
