@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Declaración pública para promover una mayor transparencia del Congreso Nacional y una participación efectiva de la ciudadanía y organizaciones de la sociedad civil en la actividad legislativa'
-intro: #lorem intro ipsum"
-date:   2016-07-04 14:30:00 -0300
-categories:
+title: 'Declaración pública para promover una mayor transparencia del Congreso Nacional y una participación efectiva de la ciudadanía y organizaciones de la sociedad civil en la actividad legislativa'
+intro: "#lorem intro ipsum"
+date: 2016-07-04 14:30:00 -0300
+category:
 highlighted: false
 single_image:
   - img: "lorem img ipsum"

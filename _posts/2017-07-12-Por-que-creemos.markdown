@@ -3,7 +3,7 @@ layout: post
 title:  'Por qué creemos en la neutralidad en la red'
 intro: "Hoy 12 de julio es un día importante para Internet. El día ha sido escogido por usuarios y comunidades para luchar contra la censura de empresas que quieren terminar con la neutralidad en la red. Servicios como Amazon, Cloudflare, Twitter, Netflix y Reddit hacen un llamado a compartir el mensaje para que la neutralidad en la red siga existiendo."
 date:   2016-07-12 14:30:00 -0300
-categories:
+category:
 highlighted: false
 single_image:
   - img: "https://68.media.tumblr.com/e1046a9c4e5c1df7f381a7eecdea2daf/tumblr_inline_ot017cICMU1uz8ttg_500.jpg"

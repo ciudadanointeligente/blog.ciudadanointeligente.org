@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  '"A ponerse con propuestas", la nueva a puesta de Vota Inteligente'
+title: '"A ponerse con propuestas", la nueva a puesta de Vota Inteligente'
 intro: "El proyecto de Ciudadano Inteligente aparece por cuarta vez y para las Municipales 2016 debutará con una nueva sección de propuestas ciudadanas para los programas comunales. El lanzamiento será el próximo viernes 19 de agosto en un evento abierto a toda la ciudadanía."
-date:   2016-08-09 14:30:00 -0300
-categories:
+date: 2016-08-09 14:30:00 -0300
+category:
 highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/7ffa88fcb985907fc0807feac2a06607/tumblr_inline_obpkweHpwm1r9usgg_500.png"

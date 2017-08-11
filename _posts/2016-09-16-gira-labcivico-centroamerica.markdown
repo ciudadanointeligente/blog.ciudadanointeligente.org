@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Así nos fue en nuestra gira LabCívico por Centroámerica '
+title: 'Así nos fue en nuestra gira LabCívico por Centroámerica '
 intro: "Durante el mes de agosto tuvimos la posibilidad de viajar a Centroamérica para compartir con distintas organizaciones, activistas y medios de comunicación nuestro taller LabCívico. En el presente post les contamos como nos fue en Guatemala, Honduras y Costa Rica, respectivamente y que cosas interesantes aprendimos."
-date:   2016-09-16 14:30:00 -0300
-categories:
+date: 2016-09-16 14:30:00 -0300
+category:
 highlighted: false
 single_image:
     caption: "lorem caption ipsum"
@@ -24,7 +24,7 @@ Finalmente, al laboratorio asistieron miembros de Red Ciudadana, Congreso Transp
 
 El primer día de taller fue crucial, ya que luego de una ronda de presentaciones se dio paso a la definición en conjunto del problema a abordar en el laboratorio. En esta definición, los asistentes pudieron comprobar que a pesar de sus diferencias iniciales, coincidían en las distintas características que le asignaban al problema. Finalmente, las organizaciones asistentes tenían una clara problemática en común y pudieron acordar una definición conjunta de un problema a enfrentar.
 
- [//68.media.tumblr.com/0f347e1b0027088ee013eef10f1b1fbc/tumblr_inline_ocw9ttZ7yV1r9usgg_500.jpg]
+![](//68.media.tumblr.com/0f347e1b0027088ee013eef10f1b1fbc/tumblr_inline_ocw9ttZ7yV1r9usgg_500.jpg)
 
 El segundo día estuvo lleno de acuerdos, de conversaciones largas y de distintas formas en las cuales es posible enfrentar el problema definido de forma conjunta y colaborativa. Para nosotros fue reconfortante presenciar la bajada de la aprehensión inicial, quedando claro que es sumamente posible que todo trabajaran alineados, ya que todos buscan atacar el mismo problema y  que juntos somos más fuertes.
 
@@ -38,7 +38,7 @@ El primer día de taller, nos reunimos a caracterizar la temática de género co
 
 En el segundo día de taller quedaron muy claras las ganas de comenzar prontamente a definir un plan de acción frente a la problemática. A pesar de tener un contexto político desfavorable hacia iniciativas sociales, el equipo que se conformó en Honduras logró visualizar un trabajo en conjunto utilizando las habilidades específicas de cada participante, a modo de contribuir a cambiar su entorno y el trato hacia las personas.
 
- - img: "//68.media.tumblr.com/ad528352396266adf54fadfc970966f4/tumblr_inline_ocw9ugX0001r9usgg_500.jpg"
+![](//68.media.tumblr.com/ad528352396266adf54fadfc970966f4/tumblr_inline_ocw9ugX0001r9usgg_500.jpg)
 
 Tercera parada: San José, Costa Rica
 
@@ -50,8 +50,8 @@ El laboratorio en Costa Rica se llevó a cabo los días 20 y 21 de agosto en la 
 
 Es importante destacar de esta experiencia que todos los asistentes al taller se encontraban profundamente motivados y muy bien informados respecto al tema del transporte público en la ciudad de San José desde sus respectivas disciplinas, lo que decantó en que al segundo día del laboratorio se dividieran en dos grupos temáticos para desarrollar dos proyectos diferentes, pero complementarios.
 
- - img: "68.media.tumblr.com/a31b254f214ba4a63d5a03c48ea92e4e/tumblr_inline_ocw9vdR1pY1r9usgg_500.jpg"
+![](68.media.tumblr.com/a31b254f214ba4a63d5a03c48ea92e4e/tumblr_inline_ocw9vdR1pY1r9usgg_500.jpg)
 
- Sin duda que fue una gira inolvidable, donde nos llevamos enormes aprendizajes y desafíos que solo vendrán a fortalecer el trabajo colectivo y colaborativo que necesitamos en la ciudadanía y en la sociedad civil.
+Sin duda que fue una gira inolvidable, donde nos llevamos enormes aprendizajes y desafíos que solo vendrán a fortalecer el trabajo colectivo y colaborativo que necesitamos en la ciudadanía y en la sociedad civil.
 
 ¡Pronto tendrán nuevas novedades de nuestros pasos!

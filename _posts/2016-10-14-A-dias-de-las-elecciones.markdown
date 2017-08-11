@@ -3,7 +3,7 @@ layout: post
 title: 'A días de las elecciones municipales: diputados Vallejo y Bellolio enfrentan posiciones sobre baja participación ciudadana'
 intro: "Pérdida de legitimidad de la clase política, fortalecimiento de la democracia y participación ciudadana, fueron parte del diálogo que se instaló este 14 de octubre en el foro “Si Nadie Vota, ¿Cómo Cambiamos Las Cosas?”, organizado por Vicerrectoría de Extensión y Comunicaciones de la Universidad de Chile y la Fundación Ciudadano Inteligente. Más de un centenar de jóvenes de cuarto medio de la Región Metropolitana, los diputados Camila Vallejo y Jaime Bellolio y los académicos de nuestro plantel, Fernando Atria y Claudia Heiss, ofrecieron sus visiones sobre el tema y plantearon los desafío país que hoy nos convocan en este ámbito."
 date:   2016-10-14 14:30:00 -0300
-categories:
+category:
 highlighted: false
 single_image:
   - img: "https://68.media.tumblr.com/1cd266302b5f3de1c6bd0fe562581e92/tumblr_inline_of1zwygbnY1r9usgg_500.jpg"

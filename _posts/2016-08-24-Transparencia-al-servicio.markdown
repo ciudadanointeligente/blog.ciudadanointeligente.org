@@ -2,8 +2,8 @@
 layout: post
 title:  'Transparencia al servicio de la democracia'
 intro: "Columna de Rodrigo Echecopar, subdirector de Fundación Ciudadano Inteligente en La Segunda"
-date:   2016-08-14 14:30:00 -0300
-categories:
+date: 2016-08-14 14:30:00 -0300
+category:
 highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/dea564c6678a56b9e76f7e5144ef9da0/tumblr_inline_ocfm17qnlI1r9usgg_500.png"

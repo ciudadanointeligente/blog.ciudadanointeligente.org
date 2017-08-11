@@ -3,7 +3,7 @@ layout: post
 title:  "AbreLatam y ConDatos: conversamos sobre apertura en América Latina"
 intro: "El 2, 3, y 4 de noviembre pasados estuvimos en Bogotá para dos de los eventos latinoamericanos que esperamos con más ansias en el año. Se trata de AbreLatam y ConDatos, eventos en los que se reúne la comunidad latinoamericana que trabaja temas de apertura y datos abiertos."
 date:   2016-11-16 14:30:00 -0300
-categories:
+category:
 highlighted: false
 single_image:
   - img: "https://68.media.tumblr.com/7d5f05d695398a75e88fc0e74b3f1137/tumblr_inline_ogr89dUTvs1uz8ttg_500.png"

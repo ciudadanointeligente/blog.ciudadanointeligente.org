@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  'Ciudadano Inteligente: "Con cada paso que avanzan las investigaciones, se construyen mejores condiciones para que la ciudadanía pueda confiar en la política y nuestras instituciones"'
+title: 'Ciudadano Inteligente: "Con cada paso que avanzan las investigaciones, se construyen mejores condiciones para que la ciudadanía pueda confiar en la política y nuestras instituciones"'
 intro: "El 8° Juzgado de Garantía de Santiago decretó arresto domiciliario nocturno con arraigo nacional mientras dure la investigación."
-date:   2016-06-23 14:30:00 -0300
+date: 2016-06-23 14:30:00 -0300
 highlighted: false
-categories:
+category:
 single_image:
   - img : "//68.media.tumblr.com/ad7f445cc24a958977897845ba068511/tumblr_inline_o989q7lnUQ1r9usgg_500.png"
     caption: ""

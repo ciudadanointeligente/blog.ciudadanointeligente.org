@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  'Nuevo proyecto de Ciudadano Inteligente
+title: 'Nuevo proyecto de Ciudadano Inteligente
 Semáforo electoral: la plataforma que da luz verde a la nueva democracia'
 intro: "La plataforma invita a conocer los cuatro periodos de campaña electoral y a revisar lo que permite la ley para cada uno de ellos. Además, se hace un llamado a la ciudadanía a frenar las irregularidades a través del canal de denuncias del Servel."
-date:   2016-07-12 14:30:00 -0300
-categories:
+date: 2016-07-12 14:30:00 -0300
+category:
 highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/0326e754bc88b98ea9791b7d9298c880/tumblr_inline_oa82r7ktiX1r9usgg_500.png"

@@ -3,7 +3,7 @@ layout: post
 title:  "A pesar de lo incierto, sumarse es la clave"
 intro: "En Ciudadano Inteligente tuvimos nuestro propio Encuentro Local. En el siguiente post te compartimos nuestra experiencia y aprendizajes."
 date:   2016-05-26 12:00:00 -0300
-categories:
+category: politica
 highlighted: false
 single_image:
   - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"

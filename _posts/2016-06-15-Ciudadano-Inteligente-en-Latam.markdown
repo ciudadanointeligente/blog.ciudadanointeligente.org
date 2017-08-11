@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Ciudadano Inteligente en Latam chequea y Global Fact 3'
+title: 'Ciudadano Inteligente en Latam chequea y Global Fact 3'
 intro: "El ejercicio de factcheking busca elevar la calidad del discurso público, que el debate se centre en los aspectos de fondo de las decisiones que se pretenden adoptar y que se tenga en cuenta información precisa y veraz respecto a los problemas que se buscan solucionar."
-date:   2016-06-13 14:30:00 -0300
-categories:
+date: 2016-06-13 14:30:00 -0300
+category:
 highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/beef10f46f8c0955eb1e2e982d9a40a8/tumblr_inline_o8q3bmSXEh1r9usgg_540.jpg"
