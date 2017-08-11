@@ -30,7 +30,7 @@ layout: default
     <div class="row">
   {% assign articulos = site.posts | where:"highlighted",false %}
   {% for post in articulos %}
-      <div class="col-md-4">
+      <div class="col-sm-4 col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading article-news">
             <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">

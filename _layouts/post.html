@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="main" class="container">
-  <article class="container">
+  <article>
     <header>
       <h1 class="page-header">{{ page.title }}</h1>
     </header>
@@ -53,11 +53,19 @@ layout: default
       {% endif %}
     </figure>
 
-    <ul class="list-unstyled list-inline">
-      {% for category in page.categories %}
-        <li class="label label-default">{{category}}</li>
-      {% endfor %}
-    </ul>
+    <div class="row">
+      <div class="col-sm-6 col-md-6">
+        <ul class="list-unstyled list-inline">
+          <li class="label label-default">{{page.category}}</li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-md-6">
+        <ul class="list-inline text-right">
+          <li><i class="fa fa-twitter fa-2x"></i></li>
+          <li><i class="fa fa-facebook fa-2x"></i></li>
+        </ul>
+      </div>
+    </div>
     <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span>{{ page.author }}</span>{% endif %}</p>
 
     <div>
