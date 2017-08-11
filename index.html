@@ -8,14 +8,19 @@ layout: default
       {% assign destacadas = site.posts | where:"highlighted",true %}
       {% for destacada in destacadas %}
       <div class="panel panel-default">
-        <div class="panel-heading">
-          <h2>
-            <a class="post-link" href="{{ destacada.url | prepend: site.baseurl }}">{{ destacada.title }}</a>
-          </h2>
-        </div>
         <div class="panel-body">
-          <p>{{ destacada.intro }}</p>
-          <span class="post-meta">{{ destacada.date | date: "%b %-d, %Y" }}</span>
+          <div class="row">
+            <div class="col-md-6">
+              <img src="{{ destacada.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+            </div>
+            <div class="col-md-6">
+              <h2>
+                <a class="post-link" href="{{ destacada.url | prepend: site.baseurl }}">{{ destacada.title }}</a>
+              </h2>
+              <p>{{ destacada.intro }}</p>
+              <span class="post-meta">{{ destacada.date | date: "%b %-d, %Y" }}</span>
+            </div>
+          </div>
         </div>
       </div>
       {% endfor %}
@@ -27,12 +32,13 @@ layout: default
   {% for post in articulos %}
       <div class="col-md-4">
         <div class="panel panel-default">
-          <div class="panel-heading">
+          <div class="panel-heading article-news">
+            <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+          </div>
+          <div class="panel-body">
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-          </div>
-          <div class="panel-body">
             <p>{{ post.intro }}</p>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           </div>
