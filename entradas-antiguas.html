@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div id="main" class="container">
+  <h1>Entradas antiguas</h1>
+  {% assign counter = 1 %}
+    <div class="row">
+  {% assign articulos = site.posts | where:"highlighted",false | shift:12 %}
+  {% for post in articulos %}
+      <div class="col-sm-4 col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading article-news">
+            {% if post.single_image[0].img %}
+            <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+            {% else %}
+            <div class="no-image-header"></div>
+            {% endif %}
+          </div>
+          <div class="panel-body">
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <p>{{ post.intro }}</p>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
+        </div>
+      </div>
+    {% assign cnt = counter|modulo:3 %}
+    {% if cnt == 0 %}</div><div class="row">
+    {% endif %}
+      {% assign counter = counter | plus:1 %}
+  {% endfor %}
+    </div>
+</div>

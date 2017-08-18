@@ -6,8 +6,6 @@ date: 2016-07-04 14:30:00 -0300
 category:
 highlighted: false
 single_image:
-  - img: "lorem img ipsum"
-    caption: "lorem caption ipsum"
 ---
 En un momento marcado por la desconfianza y la baja evaluación ciudadana hacia las instituciones involucradas en la construcción de las políticas públicas urge abrir espacios de participación para volver a legitimar estos procesos. Para revertir esta situación, el papel de la sociedad civil organizada y la ciudadanía en general es fundamental, así como acercar y transparentar los procesos de toma de decisión: un Congreso que trabaja en la opacidad, está condenado a seguir con bajos niveles de aprobación ciudadana.
 

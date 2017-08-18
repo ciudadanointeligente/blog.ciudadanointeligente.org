@@ -29,11 +29,15 @@ layout: default
   {% assign counter = 1 %}
     <div class="row">
   {% assign articulos = site.posts | where:"highlighted",false %}
-  {% for post in articulos %}
+  {% for post in articulos | limit:12 %}
       <div class="col-sm-4 col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading article-news">
+            {% if post.single_image[0].img %}
             <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+            {% else %}
+            <div class="no-image-header"></div>
+            {% endif %}
           </div>
           <div class="panel-body">
             <h2>
@@ -51,6 +55,7 @@ layout: default
   {% endfor %}
     </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <div class="text-center">
+    <a class="btn btn-default" href="/entradas-antiguas.html">ver artículos anteriores</a>
+  </div>
 </div>

@@ -4,7 +4,9 @@ layout: default
 <div id="main" class="container">
   <article>
     <header>
+      <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
       <h1 class="page-header">{{ page.title }}</h1>
+      <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
     </header>
 
     <figure>
@@ -48,28 +50,43 @@ layout: default
 
       {% if img_cnt == 0 %}
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="{{page.video}}" frameborder="0" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
       </div>
       {% endif %}
     </figure>
 
     <div class="row">
-      <div class="col-sm-6 col-md-6">
-        <ul class="list-unstyled list-inline">
-          <li class="label label-default">{{page.category}}</li>
-        </ul>
-      </div>
-      <div class="col-sm-6 col-md-6">
-        <ul class="list-inline text-right">
-          <li><i class="fa fa-twitter fa-2x"></i></li>
-          <li><i class="fa fa-facebook fa-2x"></i></li>
-        </ul>
+      <div class="col-sm-12 col-md-12">
       </div>
     </div>
-    <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span>{{ page.author }}</span>{% endif %}</p>
 
     <div>
+      {% capture words %}
+        {{ page.content | number_of_words | minus: 250 }}
+      {% endcapture %}
+
+      {% unless words contains "-" %}
+      <ul class="list-inline list-unstyled">
+          <li><i class="fa fa-clock-o"></i> Tiempo estimado de lectura, {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}</li>
+      </ul>
+      {% endunless %}
+
       {{ content }}
+    </div>
+
+    <div>
+      <ul class="list-inline text-center">
+        <li>
+          <a href="#" onclick="window.open('https://twitter.com/share?url={{ page.url }}&text={{ page.title | smartify }}', 'twitter-share-dialog', 'width=626,height=436');">
+            <i class="fa fa-twitter fa-2x"></i>
+          </a>
+        </li>
+        <li>
+          <a onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
+            <i class="fa fa-facebook fa-2x"></i>
+          </a>
+        </li>
+      </ul>
     </div>
 
     <address>

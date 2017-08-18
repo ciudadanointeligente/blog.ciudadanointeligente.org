@@ -5,9 +5,8 @@ intro: "En Ciudadano Inteligente tuvimos nuestro propio Encuentro Local. En el s
 date:   2016-05-26 12:00:00 -0300
 category: politica
 highlighted: false
+video: ebqcMx55qn8
 single_image:
-  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
-    caption: "lorem caption ipsum"
 ---
 *Por: Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente*
 
