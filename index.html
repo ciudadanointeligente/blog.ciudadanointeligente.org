@@ -29,7 +29,7 @@ layout: default
   {% assign counter = 1 %}
     <div class="row">
   {% assign articulos = site.posts | where:"highlighted",false %}
-  {% for post in articulos | limit:12 %}
+  {% for post in articulos limit:9 %}
       <div class="col-sm-4 col-md-4">
         <div class="panel panel-default">
           <div class="panel-heading article-news">
