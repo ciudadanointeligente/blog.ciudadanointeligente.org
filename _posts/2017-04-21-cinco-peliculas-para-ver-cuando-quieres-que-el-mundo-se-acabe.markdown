@@ -1,56 +1,50 @@
 ---
 layout: post
 title:  "Cinco películas para ver cuando quieres que el mundo se acabe"
-intro: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+intro: "Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida."
 date:   2017-04-21 12:00:00 -0300
 category: peliculas
 highlighted: false
 single_image:
-  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
-    caption: "lorem caption ipsum"
+  - img: "https://cdn.pixabay.com/photo/2017/04/15/23/57/film-2233658_960_720.jpg"
+    caption: 
 ---
-Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.
-
-<!--foto-->
-
+(//upload.wikimedia.org/wikipedia/commons/3/3f/Rainbow_Flag_Twin_Cities_Pride_Parade_Minneapolis_9178644107.jpg)
 ## Pride
 
 Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, todos estamos juntos. Alerta de pañuelos desechables, te puede hacer llorar.
 
 Ranking Ciudadano Inteligente en ganas de vivir: 4/5
 
-<!--foto-->
-
+(//upload.wikimedia.org/wikipedia/commons/7/73/Abraham-lincoln-b.jpg)
 ## Lincoln
 
 ¿Has sentido que para conseguir tus ideales debes hacer algo que no es correcto? ¿Así como cuando quieres un chocolate, pero tu azúcar ya está lo suficientemente alta? A Abraham Lincoln (Daniel Day Lewis) le pasa lo mismo, pero su chocolate es terminar con la esclavitud, y el azúcar los políticos que quieren favores sucios.
 
 Ranking Ciudadano Inteligente en ganas de vivir: 3/5
 
-<!--foto-->
-
+(//upload.wikimedia.org/wikipedia/commons/e/e7/Scott_Neeson_on_the_set_of_Braveheart%2C_1995.jpg)
 ## Corazón Valiente
 
 Recordemos a Mel Gibson antes de los escándalos. Recordémoslo en su mejor momento: como William Wallace, con la cara pintada, corriendo furiosamente hacia la batalla por la liberación de su pueblo. La película es un clásico de fin de semana, que ha envejecido como el vino. Maridaje recomendado: whisky escocés.
 
 Ranking Ciudadano Inteligente en ganas de vivir: 4/5
 
-<!--foto-->
-
+(//cdn.pixabay.com/photo/2016/05/11/19/03/man-1386235_960_720.jpg)
 ## The Help
 
 Ay, si no lloras con ésta, no sabemos con qué. La historia de la relación entre la periodista blanca “Skeeter” Phelan y su relación con las trabajadoras domésticas afroamericanas Aibileen Clark y Minny Jackson. Amistad. Derechos civiles. Justicia. Esperanza.
 
 Ranking Ciudadano Inteligente en ganas de vivir: 5/5
 
-<!--foto-->
-
+(//cdn.pixabay.com/photo/2016/06/13/04/40/gay-1453594_960_720.jpg)
 ## Milk
 
 Harvey Milk fue un político y activista por los derechos homosexuales en Estados Unidos. Alerta de spoiler: Lo mataron. Pero no te enojes, esta película que cuenta su vida es mucho más que el desenlace, y la historia de Milk te hará decir: sí se puede.
 
 Ranking Ciudadano Inteligente en ganas de vivir: 5/5
 
+(//cdn.pixabay.com/photo/2014/03/24/17/06/orca-295051_960_720.png)
 ## BONUS TRACK: LIBEREN A WILLY
 
 ¡ #TodossomosWilly !
