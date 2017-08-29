@@ -6,7 +6,7 @@ date:   2017-08-29 14:30:00 -0300
 category:
 highlighted: false
 single_image:
-  - img: "//http://i.imgur.com/qfkkl71.jpg"
+  - img: "//i.imgur.com/qfkkl71.jpg"
     caption: "lorem caption ipsum"
 ---
 Con la colaboración de Data Campfire logramos un evento muy entretenido con un resultado espectacular: dos días de intenso trabajo que terminaron en seis proyectos de visualización de información que, con información del CPLT, la Cámara de Diputados y el Servel, no solo abordan de manera brillante muchos de los datos disponibles, sino que los hacen entendibles y amigables para la mayoría de la ciudadanía. ¡El verdadero propósito de la transparencia!
