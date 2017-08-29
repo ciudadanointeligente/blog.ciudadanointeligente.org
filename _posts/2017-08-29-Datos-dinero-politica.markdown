@@ -4,7 +4,7 @@ title:  'Datos dinero y política'
 intro: "Los pasados sábado 22 y domingo 23 de julio llevamos a cabo nuestro desafío “Datos, Dinero y Partidos”, una hackathon en el que reunimos a 50 dater@s, diseñadores, periodistas y desarrolladores a trabajar en torno a la información que los partidos políticos de Chile están liberando a raíz de la nueva Ley de Partidos."
 date:   2017-08-29 14:30:00 -0300
 category:
-highlighted: false
+highlighted: true
 single_image:
   - img: "http://i.imgur.com/12T5sGp.jpg"
     caption: 
