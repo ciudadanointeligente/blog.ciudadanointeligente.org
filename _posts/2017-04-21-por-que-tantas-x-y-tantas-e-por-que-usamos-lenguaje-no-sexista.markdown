@@ -6,8 +6,8 @@ date:   2017-04-21 12:00:00 -0300
 category: sexismo
 highlighted: false
 single_image:
-  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
-    caption: "lorem caption ipsum"
+  - img: "https://68.media.tumblr.com/f9ea519555ba39dcb927732dc2155c0d/tumblr_inline_ookiyfdIoP1uz8ttg_500.gif"
+    caption: 
 ---
 Amigues, compañerxs, latinoamericanxs todxs: Sabemos que, a muchas y muchos, esta forma de escribir les molesta. Es rara. ¿Por qué cambiar algo que lleva siglos funcionando? ¿Por qué, si sabemos que el plural masculino incluye a hombres y mujeres, usamos otras formas para expresarnos? Queremos explicar aquí este cambio que estamos aplicando en nuestras comunicaciones, y por qué decidimos implementarlo.
 
