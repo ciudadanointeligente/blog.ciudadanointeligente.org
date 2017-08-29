@@ -9,9 +9,8 @@ single_image:
   - img: "https://cdn.pixabay.com/photo/2017/04/15/23/57/film-2233658_960_720.jpg"
     caption: 
 ---
-
 ## Pride
-![Película](//upload.wikimedia.org/wikipedia/commons/3/3f/Rainbow_Flag_Twin_Cities_Pride_Parade_Minneapolis_9178644107.jpg)
+![Película](//cdn.pixabay.com/photo/2016/06/13/04/40/gay-1453594_960_720.jpg)
 
 Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, todos estamos juntos. Alerta de pañuelos desechables, te puede hacer llorar.
 
