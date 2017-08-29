@@ -1,16 +1,14 @@
 ---
 layout: post
 title:  'Ciudadano Inteligente y decisión del SII: "Es una señal lamentable para la ciudadanía"'
-intro: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+intro: "La Fundación Ciudadano Inteligente mira con preocupación la decisión del Servicio de Impuestos Internos respecto de no tomar acciones penales en casos no investigados de financiamiento ilegal de la política. “Se pierde una oportunidad de demostrar a la ciudadanía que en Chile no hay intocables”, señaló Pablo Collada, director ejecutivo de la organización."
 date:   2017-04-21 14:30:00 -0300
-category: politica
+category: política
 highlighted: false
 single_image:
-  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
-    caption: "lorem caption ipsum"
+  - img: "https://cdn.pixabay.com/photo/2016/05/03/22/51/ruble-1370418_960_720.jpg"
+    caption: 
 ---
-La Fundación Ciudadano Inteligente mira con preocupación la decisión del Servicio de Impuestos Internos respecto de no tomar acciones penales en casos no investigados de financiamiento ilegal de la política. “Se pierde una oportunidad de demostrar a la ciudadanía que en Chile no hay intocables”, señaló Pablo Collada, director ejecutivo de la organización.
-
 A raíz del reportaje publicado este fin de semana por La Tercera, la Fundación Ciudadano Inteligente -querellante en los casos Penta, SQM, y Corpesca- manifiesta su preocupación por la decisión del SII que cerraría nuevas indagatorias de financiamiento ilegal de la política.
 
 "Cuando enfrentamos la crisis de confianza más grave en la historia reciente de Chile, se requieren instituciones que estén a la altura del desafío de recuperar la democracia. Si el Servicio de Impuestos Internos decide no investigar a empresas que pudieron haber influido irregularmente en la política, se pierde una oportunidad de demostrar a la ciudadanía que en Chile no hay intocables", dijo Pablo Collada, director ejecutivo de la ONG.
