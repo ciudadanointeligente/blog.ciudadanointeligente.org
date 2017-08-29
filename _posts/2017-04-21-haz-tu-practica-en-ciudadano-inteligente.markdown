@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '¡Haz tu práctica en Ciudadano Inteligente!'
-intro: 
+intro: "Necesitamos estudiantes de carreras ligadas a las Ciencias Sociales, Comunicaciones, Computación, e Informática (Desarrollo Web), apasionados por contribuir a mejorar las democracias en Chile y el mundo, en un momento en el que el futuro de la política requiere más que nunca de nosotros."
 date:   2017-04-21 14:30:00 -0300
 category: practicantes
 highlighted: false
@@ -9,7 +9,6 @@ single_image:
   - img: "https://68.media.tumblr.com/0a5e09007d4811b3782307e804e62048/tumblr_inline_ohiw9onwHH1r9usgg_500.png"
     caption: 
 ---
-Se acerca el verano y con ya nos alistamos para recibir a una nueva generación de practicantes en nuestro equipo. Necesitamos estudiantes de carreras ligadas a las Ciencias Sociales, Comunicaciones, Computación, e Informática (Desarrollo Web), apasionados por contribuir a mejorar las democracias en Chile y el mundo, en un momento en el que el futuro de la política requiere más que nunca de nosotros.
 En Ciudadano Inteligente podrás participar en el desarrollo e implementación de proyectos, asumiendo gradualmente responsabilidades importantes, donde además encontrarás un espacio formativo desafiante y acogedor. Somos una organización sin fines de lucro que trabaja el uso de tecnologías para transparentar y participar en la democracia. Trabajamos para trasladar el poder desde los pocos hacia los muchos. Creemos que el crear mejores democracias y fomentar la participación en procesos políticos es vital para conseguir países y vidas mejores.
 Si quieres saber más sobre cómo es hacer tu práctica con nosotros, revisa el testimonio de Martín Corvera, actual Coordinador de Contenidos y Redes de la Fundación, quien hizo su práctica entre julio y octubre de 2013:
 
