@@ -4,7 +4,7 @@ title:  'Alcaldes electos adhirieron a propuestas ciudadanas y se comprometen a 
 intro: "A través de plataforma Vota inteligente (www.votainteligente.cl) de la Fundación Ciudadano Inteligente se lograron recolectar más de 3600 propuestas ciudadanas durante el periodo de elecciones municipales con el apoyo de ciudadanos y de  instituciones de la sociedad civil; de estas sólo quince alcaldes electos se comprometieron con las propuestas y este martes estaremos invitando a que se comprometan públicamente."
 date:   2016-12-06 14:30:00 -0300
 category: politica
-highlighted: true
+highlighted: false
 video: "//www.youtube-nocookie.com/embed/ogrneU5q5L4?rel=0&amp;controls=0&amp;showinfo=0"
 single_image:
   - img: "//c1.staticflickr.com/3/2007/2427735853_0b9ddef9f3_o.jpg"
