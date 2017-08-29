@@ -16,8 +16,8 @@ Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener na
 
 Ranking Ciudadano Inteligente en ganas de vivir: 4/5
 
-(//upload.wikimedia.org/wikipedia/commons/7/73/Abraham-lincoln-b.jpg)
 ## Lincoln
+![Película](//upload.wikimedia.org/wikipedia/commons/7/73/Abraham-lincoln-b.jpg)
 
 ¿Has sentido que para conseguir tus ideales debes hacer algo que no es correcto? ¿Así como cuando quieres un chocolate, pero tu azúcar ya está lo suficientemente alta? A Abraham Lincoln (Daniel Day Lewis) le pasa lo mismo, pero su chocolate es terminar con la esclavitud, y el azúcar los políticos que quieren favores sucios.
 
