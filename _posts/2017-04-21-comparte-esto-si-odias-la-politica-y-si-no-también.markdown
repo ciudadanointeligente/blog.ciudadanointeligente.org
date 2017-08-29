@@ -1,19 +1,15 @@
 ---
 layout: post
 title:  "¡Comparte esto si odias la política! (y si no, también)"
-intro: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+intro: "Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla"
 date:   2017-04-21 12:00:00 -0300
 category: politica
 highlighted: false
 single_image:
-  - img: "//placeholdit.imgix.net/~text?txtsize=85&txt=1024%C3%97768&w=1024&h=768"
-    caption: "lorem caption ipsum"
+  - img: "http://i.imgur.com/JdpO4NT.jpg"
+    caption: 
 ---
-Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla:
-
 ## Porque política no es lo mismo que políticos
-
-<!--Imagen pop con caras de Trump, político corrupto mexicano, brasileño, Berlusconi-->
 
 Si decimos política probablemente se te vengan a la cabeza ejemplares de la raza humana que dejan mucho que desear. Esos por los cuales los extraterrestres aún no hacen contacto con nosotros. Pero la política es mucho más que algunas personas que se dedican a ella. Por cada presidente, congresista, gobernador, que se ha descubierto robando, faltando a la ley, haciendo lo que no corresponde, hay miles de otros representantes, funcionarios, organizaciones que hacen las cosas como corresponde y luchan por defender el interés de todos. Conversar con amigos o familia de lo que nos preocupa o molesta respecto a la sociedad ya es política, así que si crees que no eres político o política, piénsalo dos veces.
 
