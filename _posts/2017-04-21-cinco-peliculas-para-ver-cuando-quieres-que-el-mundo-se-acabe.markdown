@@ -9,8 +9,9 @@ single_image:
   - img: "https://cdn.pixabay.com/photo/2017/04/15/23/57/film-2233658_960_720.jpg"
     caption: 
 ---
+
 ## Pride
-![Película](//cdn.pixabay.com/photo/2016/06/13/04/40/gay-1453594_960_720.jpg)
+![Película](//c1.staticflickr.com/3/2721/4068006454_8e945b93a9_b.jpg)
 
 Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, todos estamos juntos. Alerta de pañuelos desechables, te puede hacer llorar.
 
@@ -24,7 +25,7 @@ Ranking Ciudadano Inteligente en ganas de vivir: 4/5
 Ranking Ciudadano Inteligente en ganas de vivir: 3/5
 
 ## Corazón Valiente
-![Película](//upload.wikimedia.org/wikipedia/commons/e/e7/Scott_Neeson_on_the_set_of_Braveheart%2C_1995.jpg)
+![Película](//)
 
 Recordemos a Mel Gibson antes de los escándalos. Recordémoslo en su mejor momento: como William Wallace, con la cara pintada, corriendo furiosamente hacia la batalla por la liberación de su pueblo. La película es un clásico de fin de semana, que ha envejecido como el vino. Maridaje recomendado: whisky escocés.
 
