@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Cinco películas para ver cuando quieres que el mundo se acabe"
-intro: "Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida."
+title: 'Cinco películas para ver cuando quieres que el mundo se acabe'
+intro: 'Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.'
 date: 2017-04-21 12:00:00 -0300
 category: peliculas
 highlighted: false
 single_image:
   - img: "http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg"
-    caption: "Foto de www.usm.cl"
+    caption: 'Foto de www.usm.cl'
 ---
 ## Pride
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/bb/Pride_poster.jpg)
