@@ -25,7 +25,7 @@ Ranking Ciudadano Inteligente en ganas de vivir: 4/5
 Ranking Ciudadano Inteligente en ganas de vivir: 3/5
 
 ## Corazón Valiente
-![Película](//)
+![Película](http://3.bp.blogspot.com/-aM3aVLIca54/VWDD9r21CgI/AAAAAAAAAiY/ABxgYTHRiE4/s1600/braveheart-battle-2.jpg)
 
 Recordemos a Mel Gibson antes de los escándalos. Recordémoslo en su mejor momento: como William Wallace, con la cara pintada, corriendo furiosamente hacia la batalla por la liberación de su pueblo. La película es un clásico de fin de semana, que ha envejecido como el vino. Maridaje recomendado: whisky escocés.
 
