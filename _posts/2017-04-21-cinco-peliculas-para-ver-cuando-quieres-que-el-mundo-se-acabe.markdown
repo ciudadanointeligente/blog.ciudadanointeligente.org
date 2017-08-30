@@ -7,7 +7,7 @@ category: peliculas
 highlighted: false
 single_image:
   - img: "http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg"
-    caption: foto de www.usm.cl 
+    caption: Foto de www.usm.cl 
 ---
 ## Pride
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/bb/Pride_poster.jpg)
