@@ -9,7 +9,6 @@ single_image:
   - img: "https://cdn.pixabay.com/photo/2017/04/15/23/57/film-2233658_960_720.jpg"
     caption: 
 ---
-
 ## Pride
 ![Película](https://cdn.pixabay.com/photo/2017/06/26/17/54/pride-2444576_960_720.jpg)
 
