@@ -13,7 +13,7 @@
   <meta name="twitter:site" content="@ciudadanoi">
   <meta name="twitter:creator" content="@ciudadanoi">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.title %}{{page.content|xml_escape|truncatewords:10}}{% else %}Blog de la Fundación Ciudadano Inteligente{% endif %}">
+  <meta name="twitter:description" content="{% if page.title %}{{page.content|strip_html|truncatewords:10}}{% else %}Blog de la Fundación Ciudadano Inteligente{% endif %}">
   <meta name="twitter:image" content="{% if page.single_image[0].img %}{{page.single_image[0].img}}{% endif %}">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
