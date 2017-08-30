@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'Datos dinero y política'
+title: 'Datos dinero y política'
 intro: "Los pasados sábado 22 y domingo 23 de julio llevamos a cabo nuestro desafío ["Datos, Dinero y Partidos"](http://www.datacampfire.com/challenges/FCI-Chile), una hackathon en el que reunimos a 50 dater@s, diseñadores, periodistas y desarrolladores a trabajar en torno a la información que los partidos políticos de Chile están liberando a raíz de la nueva Ley de Partidos."
-date:   2017-08-29 14:30:00 -0300
+date: 2017-08-29 14:30:00 -0300
 category:
 highlighted: true
 single_image:
