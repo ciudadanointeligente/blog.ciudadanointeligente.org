@@ -2,7 +2,7 @@
 layout: post
 title:  'Ciudadano Inteligente y decisión del SII: "Es una señal lamentable para la ciudadanía"'
 intro: "La Fundación Ciudadano Inteligente mira con preocupación la decisión del Servicio de Impuestos Internos respecto de no tomar acciones penales en casos no investigados de financiamiento ilegal de la política. “Se pierde una oportunidad de demostrar a la ciudadanía que en Chile no hay intocables”, señaló Pablo Collada, director ejecutivo de la organización."
-date:   2017-04-21 14:30:00 -0300
+date: 2017-04-21 14:30:00 -0300
 category: política
 highlighted: false
 single_image:
