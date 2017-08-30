@@ -11,7 +11,7 @@ single_image:
 ---
 
 ## Pride
-![Película](//c1.staticflickr.com/3/2721/4068006454_8e945b93a9_b.jpg)
+![Película](https://cdn.pixabay.com/photo/2017/06/26/17/54/pride-2444576_960_720.jpg)
 
 Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, todos estamos juntos. Alerta de pañuelos desechables, te puede hacer llorar.
 
