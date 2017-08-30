@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cinco películas para ver cuando quieres que el mundo se acabe"
+title: "Cinco películas para ver cuando quieres que el mundo se acabe"
 intro: "Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida."
 date: 2017-04-21 12:00:00 -0300
 category: peliculas
