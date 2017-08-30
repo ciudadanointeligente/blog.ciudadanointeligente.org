@@ -6,8 +6,8 @@ date:   2017-04-21 14:30:00 -0300
 category: política
 highlighted: false
 single_image:
-  - img: "https://cdn.pixabay.com/photo/2016/05/03/22/51/ruble-1370418_960_720.jpg"
-    caption: 
+  - img: "http://www.cnnchile.com/sites/default/files/sii.jpg"
+    caption: Foto de cnnchile
 ---
 A raíz del reportaje publicado este fin de semana por La Tercera, la Fundación Ciudadano Inteligente -querellante en los casos Penta, SQM, y Corpesca- manifiesta su preocupación por la decisión del SII que cerraría nuevas indagatorias de financiamiento ilegal de la política.
 
