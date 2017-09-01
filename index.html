@@ -18,7 +18,8 @@ layout: default
                 <a class="post-link" href="{{ destacada.url | prepend: site.baseurl }}">{{ destacada.title }}</a>
               </h3>
               <p>{{ destacada.intro }}</p>
-              <span class="post-meta">{{ destacada.date | date: "%b %-d, %Y" }}</span>
+              <span class="post-meta">
+                {% include post_date.html date=destacada.date %} </span>
             </div>
           </div>
         </div>
