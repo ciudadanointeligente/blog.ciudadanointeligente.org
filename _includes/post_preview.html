@@ -1,0 +1,36 @@
+<div class="col-sm-4 col-md-4">
+  <div class="panel panel-default">
+    <div class="panel-heading article-news">
+      {% if post.single_image[0].img %}
+      <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+      {% else %}
+      <div class="no-image-header"></div>
+      {% endif %}
+    </div>
+    <div class="panel-body">
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.intro }}</p>
+      <span class="post-meta">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}Enero,
+          {% when '2' %}Febrero,
+          {% when '3' %}Marzo,
+          {% when '4' %}Abril,
+          {% when '5' %}Mayo,
+          {% when '6' %}Junio,
+          {% when '7' %}Julio,
+          {% when '8' %}Agosto,
+          {% when '9' %}Septiembre,
+          {% when '10' %}Octubre,
+          {% when '11' %}Noviembre,
+          {% when '12' %}Diciembre,
+        {% endcase %}
+        {{ post.date | date: "%Y" }}
+      </span>
+    </div>
+  </div>
+</div>
