@@ -8,9 +8,14 @@
       {% endif %}
     </div>
     <div class="panel-body">
-      <h2>
+      {% if post.category %}
+      <div class="label label-default">
+        {{ post.category }}
+      </div>
+      {% endif %}
+      <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      </h3>
       <p>{{ post.intro }}</p>
       <span class="post-meta">
         {% assign m = post.date | date: "%-m" %}
