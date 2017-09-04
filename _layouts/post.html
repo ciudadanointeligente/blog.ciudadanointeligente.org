@@ -8,23 +8,7 @@ layout: default
       <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
       <h1 class="page-header">{{ page.title }}</h1>
       <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign m = page.date | date: "%-m" %}
-        {{ page.date | date: "%-d" }}
-        {% case m %}
-          {% when '1' %}Enero,
-          {% when '2' %}Febrero,
-          {% when '3' %}Marzo,
-          {% when '4' %}Abril,
-          {% when '5' %}Mayo,
-          {% when '6' %}Junio,
-          {% when '7' %}Julio,
-          {% when '8' %}Agosto,
-          {% when '9' %}Septiembre,
-          {% when '10' %}Octubre,
-          {% when '11' %}Noviembre,
-          {% when '12' %}Diciembre,
-        {% endcase %}
-        {{ page.date | date: "%Y" }}
+        {% include post_date.html date=page.date%}
       </time></p>
     </header>
 
@@ -96,23 +80,29 @@ layout: default
     <div>
       <ul class="list-inline text-center">
         <li>
-          <a href="#" onclick="window.open('https://twitter.com/share?url={{ page.url }}&text={{ page.title | smartify }}', 'twitter-share-dialog', 'width=626,height=436');">
+          <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');">
             <i class="fa fa-twitter fa-2x"></i>
           </a>
         </li>
         <li>
-          <a onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
+          <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
             <i class="fa fa-facebook fa-2x"></i>
           </a>
         </li>
+        <li>
+          <a class="visible-xs" href="whatsapp://send?text={{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp fa-2x"></i></a>
+        </li>
       </ul>
     </div>
+
+
 
     <address>
       {% for author in page.authors %}
         {{author.name}}
       {% endfor %}
     </address>
+
 
   </article>
 </div>

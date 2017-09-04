@@ -20,7 +20,7 @@
             <ul class="dropdown-menu">
               {% for category in site.category %}
                   <li class="tag">
-                      <a href="/category/{{ category.tag }}">{{ category.tag }}</a>
+                      <a href="{{ category.permalink }}">{{ category.tag }}</a>
                   </li>
               {% endfor %}
             </ul>
