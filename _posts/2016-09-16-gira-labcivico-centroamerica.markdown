@@ -6,7 +6,8 @@ date: 2016-09-16 14:30:00 -0300
 category:
 highlighted: false
 single_image:
-    caption: "lorem caption ipsum"
+  - img: "https://68.media.tumblr.com/a31b254f214ba4a63d5a03c48ea92e4e/tumblr_inline_ocw9vdR1pY1r9usgg_500.jpg"
+    caption: 
 ---
 Por: Laura Encalada y Marcelo Pérez, Equipo LabCívico.
 
@@ -49,8 +50,6 @@ Al llegar a San José tuvimos la posibilidad de vivir en carne propia el problem
 El laboratorio en Costa Rica se llevó a cabo los días 20 y 21 de agosto en la Casa Emprendedora María  Teresa Obregón (AUGE UCR) en San José. El día sábado 20 comenzamos temprano, nos presentamos a los asistentes y conocimos un poco más respecto de la problemática que afecta a la ciudad de San José. Iniciamos como de costumbre con la caracterización del problema, lo que llevó una gran cantidad de tiempo debido a la alta complejidad del tema y a la diversidad de opiniones presentes en el taller.
 
 Es importante destacar de esta experiencia que todos los asistentes al taller se encontraban profundamente motivados y muy bien informados respecto al tema del transporte público en la ciudad de San José desde sus respectivas disciplinas, lo que decantó en que al segundo día del laboratorio se dividieran en dos grupos temáticos para desarrollar dos proyectos diferentes, pero complementarios.
-
-![](68.media.tumblr.com/a31b254f214ba4a63d5a03c48ea92e4e/tumblr_inline_ocw9vdR1pY1r9usgg_500.jpg)
 
 Sin duda que fue una gira inolvidable, donde nos llevamos enormes aprendizajes y desafíos que solo vendrán a fortalecer el trabajo colectivo y colaborativo que necesitamos en la ciudadanía y en la sociedad civil.
 
