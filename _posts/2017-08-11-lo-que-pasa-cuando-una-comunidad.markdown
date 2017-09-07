@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lo que pasa cuando una comunidad dice basta'
-intro: 'México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas..'
-date: 2017-08-29 14:30:00 -0300
+intro: 'México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas.'
+date: 2017-08-11 14:30:00 -0300
 category:
 highlighted: false
 single_image:
