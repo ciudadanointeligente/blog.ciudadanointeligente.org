@@ -16,7 +16,7 @@
       <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h3>
-      <p>{{ post.intro }}</p>
+      <p>{{ post.intro }}</p><a href="{{ destacada.url | prepend: site.baseurl }}"> Ver más <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
       <span class="post-meta">
         {% include post_date.html date=post.date%}
       </span>
