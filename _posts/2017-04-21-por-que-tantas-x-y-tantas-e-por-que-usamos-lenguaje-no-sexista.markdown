@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Por qué tantas 'x' y tantas 'e': Por qué usamos lenguaje no sexista"
-intro: 
+title:  "Por qué tantas 'x' y tantas 'e'"
+intro: 'Por qué usamos lenguaje no sexista'
 date:   2017-04-21 12:00:00 -0300
 category: sexismo
 highlighted: false
