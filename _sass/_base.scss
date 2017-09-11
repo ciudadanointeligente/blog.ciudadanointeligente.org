@@ -16,7 +16,7 @@ body {
 }
 
 #main {
-    margin-top: 80px;
+    margin-top: 110px;
 }
 
 h1, h2, h3 {
@@ -44,6 +44,18 @@ a {
   &:hover {
     color: darken($magenta, 10%);
   }
+}
+
+// Extras
+
+.text-width {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.text-width p {
+    font-size: 20px;
+    color: #66666f;
 }
 
 .post-meta {
