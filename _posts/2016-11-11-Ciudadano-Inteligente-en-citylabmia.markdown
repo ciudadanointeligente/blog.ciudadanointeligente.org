@@ -7,7 +7,7 @@ category:
 highlighted: false
 single_image:
   - img: "//68.media.tumblr.com/d745f1e3db3ab7e0e951be4dfd0ff244/tumblr_inline_oghksloXeT1uz8ttg_500.png"
-    caption: "lorem caption ipsum"
+    caption: 
 ---
 El pasado 24 y 25 de octubre estuvimos en CityLab Miami, la cuarta versión del encuentro internacional en el que se comparten ideas y soluciones para mejorar las ciudades del futuro. Ahí tuvimos un stand en la feria SandBox a cargo de Manuel Barros, Coordinador de Proyectos de Ciudadano Inteligente, en el que le contamos a los asistentes sobre lo que hacemos y cómo buscamos mejorar la democracia. Manuel señaló:
 

@@ -8,6 +8,8 @@ categories:
 highlighted: false
 video: ebqcMx55qn8
 single_image:
+  - img: "http://i.imgur.com/UBop8Cv.png"
+    caption: 
 ---
 *Por: Laura Encalada, Coordinadora Metodológica de Ciudadano Inteligente*
 
