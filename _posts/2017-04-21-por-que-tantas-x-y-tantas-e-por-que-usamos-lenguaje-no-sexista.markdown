@@ -3,11 +3,13 @@ layout: post
 title:  "Por qué tantas 'x' y tantas 'e'"
 intro: 'Por qué usamos lenguaje no sexista'
 date:   2017-04-21 12:00:00 -0300
-category: sexismo
+categories:
+  - Inclusión
 highlighted: false
+share_message: "Revisa el blog de FCI"
 single_image:
   - img: "https://68.media.tumblr.com/f9ea519555ba39dcb927732dc2155c0d/tumblr_inline_ookiyfdIoP1uz8ttg_500.gif"
-    caption: 
+    caption:
 ---
 Amigues, compañerxs, latinoamericanxs todxs: Sabemos que, a muchas y muchos, esta forma de escribir les molesta. Es rara. ¿Por qué cambiar algo que lleva siglos funcionando? ¿Por qué, si sabemos que el plural masculino incluye a hombres y mujeres, usamos otras formas para expresarnos? Queremos explicar aquí este cambio que estamos aplicando en nuestras comunicaciones, y por qué decidimos implementarlo.
 

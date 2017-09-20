@@ -3,11 +3,12 @@ layout: post
 title: 'Cuando llevamos la transparencia a la práctica'
 intro: 'Los pasados sábado 22 y domingo 23 de julio llevamos a cabo nuestro desafío "Datos, Dinero y Partidos", una hackathon en el que reunimos a 50 dater@s, diseñadores, periodistas y desarrolladores a trabajar en torno a la información que los partidos políticos de Chile están liberando a raíz de la nueva Ley de Partidos.'
 date: 2017-08-29 14:30:00 -0300
-category:
+categories:
 highlighted: false
+share_message: "Revisa el blog de FCI"
 single_image:
   - img: "http://i.imgur.com/12T5sGp.jpg"
-    caption: 
+    caption:
 ---
 Con la colaboración de [Data Campfire](http://www.datacampfire.com) logramos un evento muy entretenido con un resultado espectacular: dos días de intenso trabajo que terminaron en seis proyectos de visualización de información que, con información del CPLT, la Cámara de Diputados y el Servel, no solo abordan de manera brillante muchos de los datos disponibles, sino que los hacen entendibles y amigables para la mayoría de la ciudadanía. ¡El verdadero propósito de la transparencia!
 
