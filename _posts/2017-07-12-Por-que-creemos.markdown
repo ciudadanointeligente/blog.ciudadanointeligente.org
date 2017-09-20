@@ -18,7 +18,7 @@ Las grandes compañías de Internet (que en general proveen también de televisi
 
 De consolidarse, estas prácticas agregarían un nuevo impuesto a casi todos los sectores de la economía estadounidense y mundial. Todos los servicios de internet costarían más, apagando las voces de las start-ups, pequeñas empresas y personas independientes que hoy en día hacen uso de internet para promover o directamente entregar un servicio.
 
-[https://68.media.tumblr.com/a568455d9c187a8a3c041feff45336a2/tumblr_inline_ot0196xFwl1uz8ttg_500.gif]
+![Neutralidad de la Red](https://68.media.tumblr.com/a568455d9c187a8a3c041feff45336a2/tumblr_inline_ot0196xFwl1uz8ttg_500.gif "Neutralidad de la Red")
 
 Tratar de destruir la neutralidad en la red no aporta en ningún sentido al desarrollo de una Internet mejor o más segura, sino que su único fin es inventar una nueva instancia de cobro para que las compañías puedan controlar los accesos a la información, ganando millones en la pasada y abriendo la puerta a la censura en internet.
 
