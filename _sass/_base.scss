@@ -168,6 +168,27 @@ input {
     }
   }
 }
+
+// Newsletter
+
+section#newsletter {
+    padding: 7vw 0;
+}
+
+span.mc-field-group {
+    margin-right: -3px;
+}
+
+#newsletter .btn-primary {
+    padding: 1vw;
+    border-radius: 0px 6px 6px 0px;
+    font-family: 'Karla', sans-serif;
+    border: 2px solid $magenta;
+    background: $magenta;
+}
+
+// Footer
+
 footer {
   background-color: black;
   margin: 20px 0px 0px;
