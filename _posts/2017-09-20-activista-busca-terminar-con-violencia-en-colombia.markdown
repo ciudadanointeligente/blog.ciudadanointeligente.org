@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 'Una activista de 19 años que quiere terminar con la violencia en Colombia'
-intro: 'Gran parte de lo que hacemos en Ciudadano Inteligente es fortalecer a la sociedad civil. Esto significa entregar herramientas a personas y organizaciones para ayudarles a cambiar el mundo. A través del proyecto Escuela de Incidencia hicimos esto con Bibiana Quintero, una joven colombiana que cree que su país ya tuvo suficiente del conflicto armado, y que es hora de transformarlo. 
-'
+intro: 'Gran parte de lo que hacemos en Ciudadano Inteligente es fortalecer a la sociedad civil. Esto significa entregar herramientas a personas y organizaciones para ayudarles a cambiar el mundo. A través del proyecto Escuela de Incidencia hicimos esto con Bibiana Quintero, una joven colombiana que cree que su país ya tuvo suficiente del conflicto armado, y que es hora de transformarlo.'
 date: 2017-09-05 14:30:00 -0300
 categories:
-highlighted: true
-share_message: "Revisa el blog de FCI"
+highlighted: false
+share_message: "Aquí la historia de una activista q no quiere + violencia en Colombia (via @ciudadanoi)"
 single_image:
   - img: "http://i.imgur.com/qegzWFL.jpg"
     caption:
