@@ -19,9 +19,11 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Categorías <span class="caret"></span></a>
             <ul class="dropdown-menu">
               {% for category in site.category %}
+                {% if site.categories[category.tag].size > 0 %}
                   <li class="tag">
                       <a href="{{ category.permalink }}">{{ category.tag }}</a>
                   </li>
+                {% endif %}
               {% endfor %}
             </ul>
           </li>

@@ -16,9 +16,11 @@
         {% endfor %}
       {% endif %}
       <h3>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title | truncate: 42, ""}}
+        </a>
       </h3>
-      <p>{{ post.intro }}</p>
+      <p>{{ post.intro | truncate: 112, ""}}</p>
       <span class="post-meta">
         {% include post_date.html date=post.date%}
       </span>

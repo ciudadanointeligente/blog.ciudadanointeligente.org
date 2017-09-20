@@ -6,7 +6,7 @@ layout: default
   <article>
     <header>
       <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
-      <h1 class="page-header">{{ page.title }}</h1>
+      <h1 class="page-header">{{ page.title | truncate: 42, ""}}</h1>
       <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% include post_date.html date=page.date%}
       </time></p>
