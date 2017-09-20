@@ -8,10 +8,12 @@
       {% endif %}
     </div>
     <div class="panel-body">
-      {% if post.category %}
-      <div class="label label-default">
-        {{ post.category }}
-      </div>
+      {% if post.categories %}
+        {% for category in post.categories %}
+        <span class="label label-default">
+          {{ category }}
+        </span>
+        {% endfor %}
       {% endif %}
       <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
