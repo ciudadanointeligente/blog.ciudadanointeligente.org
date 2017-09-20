@@ -4,8 +4,9 @@ title:  "¡Comparte esto si odias la política! (y si no, también)"
 intro: "Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla"
 date:   2017-04-21 12:00:00 -0300
 categories:
-  - "Política"
+  - Política
 highlighted: false
+share_message: "Revisa el blog de FCI"
 single_image:
   - img: "http://i.imgur.com/JdpO4NT.jpg"
     caption:

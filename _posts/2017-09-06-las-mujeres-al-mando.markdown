@@ -3,11 +3,12 @@ layout: post
 title: 'Las mujeres al mando del código'
 intro: 'Las mujeres ocupan menos del 25% de los empleos en el rubro del desarrollo y la informática, según la BBC. Además, En América Latina, hay estudios que demuestran que las carreras relacionadas con la informática son percibidas por muchas jóvenes como un ámbito "de chicos".'
 date: 2017-09-06 14:30:00 -0300
-category:
+categories:
 highlighted: false
+share_message: "Revisa el blog de FCI"
 single_image:
   - img: "http://i.imgur.com/aSMffn7.jpg"
-    caption: 
+    caption:
 ---
 Las mujeres ocupan menos del 25% de los empleos en el rubro del desarrollo y la informática, según [la BBC](http://www.bbc.com/mundo/noticias/2015/10/151002_finde_tecnologia_mujeres_estudiar_computacion_ciencia_mr). Además, En América Latina, hay estudios que demuestran que las carreras relacionadas con la informática son percibidas por muchas jóvenes como un ámbito "de chicos".
 
@@ -18,4 +19,3 @@ La desarrolladora de Ciudadano Inteligente, Daniela Quiroz,  destacó que “la 
 Django Girls fue posible gracias a los voluntarios que pelearon por traerlas a Santiago de Chile. Este evento, de carácter internacional , ya fue replicado en 400 ocasiones, incluyendo a Ecuador y Brasil, y ya cuenta con 100 versiones agendadas alrededor del mundo. Si te interesa más sobre la programación aquí puedes seguir el tutorial realizado por los organizadores en conjunto con la comunidad.  https://tutorial.djangogirls.org
 
 Te recordamos que para ser parte de esta iniciativa no necesitas tener ningún conocimiento de programación, dado que su desarrollo está hecho en formato, simple, accesible y amigable para todos y todas!
-
