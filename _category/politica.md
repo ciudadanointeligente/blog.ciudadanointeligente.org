@@ -1,4 +1,4 @@
 ---
-tag: politica
+tag: Política
 permalink: "/category/politica"
 ---

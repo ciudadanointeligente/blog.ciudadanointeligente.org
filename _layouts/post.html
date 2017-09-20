@@ -106,5 +106,48 @@ layout: default
 
 
       </div>
-    </article>
+    </div>
+
+    <div>
+      {% capture words %}
+        {{ page.content | number_of_words | minus: 250 }}
+      {% endcapture %}
+
+      {% unless words contains "-" %}
+      <ul class="list-inline list-unstyled">
+          <li><i class="fa fa-clock-o"></i> Tiempo estimado de lectura, {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}</li>
+      </ul>
+      {% endunless %}
+
+      {{ content }}
+    </div>
+
+    <div>
+      <ul class="list-inline text-center">
+        <li>
+          <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.share_message }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');">
+            <i class="fa fa-twitter fa-2x"></i>
+          </a>
+        </li>
+        <li>
+          <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
+            <i class="fa fa-facebook fa-2x"></i>
+          </a>
+        </li>
+        <li>
+          <a class="visible-xs" href="whatsapp://send?text={{ page.share_message }} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp fa-2x"></i></a>
+        </li>
+      </ul>
+    </div>
+
+
+
+    <address>
+      {% for author in page.authors %}
+        {{author.name}}
+      {% endfor %}
+    </address>
+
+
+  </article>
 </div>
