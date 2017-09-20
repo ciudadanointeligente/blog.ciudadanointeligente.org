@@ -3,11 +3,12 @@ layout: default
 ---
 
 <div id="main" class="container">
-  <div class="row">
-    <div class="col-md-12">
+  <div class="intro">
+    <h1>Mini frase que explica qué es blog a landing, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h1>
+  </div>
       {% assign destacadas = site.posts | where:"highlighted",true %}
       {% for destacada in destacadas %}
-      <div class="panel panel-default">
+      <div class="panel panel-default hero">
         <div class="panel-body">
           <div class="row">
             <div class="col-md-6">
@@ -17,16 +18,13 @@ layout: default
               <h3>
                 <a class="post-link" href="{{ destacada.url | prepend: site.baseurl }}">{{ destacada.title }}</a>
               </h3>
-              <p>{{ destacada.intro }}</p>
-              <span class="post-meta">
-                {% include post_date.html date=destacada.date %} </span>
+              <p>{{ destacada.intro }}<a href="{{ destacada.url | prepend: site.baseurl }}"> Ver más <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
+              <span class="post-meta">{% include post_date.html date=destacada.date %} </span>
             </div>
           </div>
         </div>
       </div>
       {% endfor %}
-    </div>
-  </div>
   {% assign counter = 1 %}
     <div class="row">
   {% assign articulos = site.posts | where:"highlighted",false %}

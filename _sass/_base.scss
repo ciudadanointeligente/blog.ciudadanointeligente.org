@@ -1,3 +1,11 @@
+// Colors
+$blue: #080830;
+$lightblue: #74C5CD;
+$yellow: #F8B126;
+$magenta: #D3326F;
+$red: #E8453B;
+$gray: #3B3B3B;
+
 body {
   position: relative;
   min-height: 100%;
@@ -6,12 +14,18 @@ body {
   background: #F8F8F9;
   color: #3B3B3B;
 }
+
 #main {
-  margin-top: 70px;
+    margin-top: 110px;
 }
 
 h1, h2, h3 {
   font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: $magenta;
+    line-height: 5rem;
 }
 
 h3 {
@@ -25,8 +39,31 @@ h3 a {
   color: #3B3B3B;
 }
 
+a {
+  color: $magenta;
+  &:hover {
+    color: darken($magenta, 10%);
+  }
+}
+
+// Extras
+
+.text-width {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.text-width p {
+    font-size: 20px;
+    color: #66666f;
+}
+
 .post-meta {
     color: #b5b5b5;
+}
+
+input {
+  padding: 1vw;
 }
 
 // Label
@@ -46,8 +83,54 @@ h3 a {
 // Nav
 
 .navbar-inverse {
-    background-color: rgba(248, 248, 249, 0.8);
+    background-color: rgba(248, 248, 249, 0.9);
     border-color: #F8F8F9;
+}
+
+.navbar-brand {
+    height: 75px;
+}
+
+.navbar-nav {
+    margin: 23px 0;
+    float: right;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: $magenta;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    color: $magenta;
+    background-color: transparent;
+}
+
+.dropdown-menu {
+    border: none;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: $magenta;
+    background-color: white;
+}
+
+// Hero
+
+.intro {
+    max-width: 800px;
+    margin: 5vw 0;
+}
+
+.hero img {
+    margin: -3vw;
+}
+
+.hero h3 {
+    font-size: 24px;
 }
 
 // Box
@@ -57,6 +140,7 @@ h3 a {
     border-radius: 0px;
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0);
     box-shadow: 0 1px 1px rgba(0,0,0,0);
+    margin-bottom: 30px;
 }
 
 .panel-body {
@@ -84,6 +168,27 @@ h3 a {
     }
   }
 }
+
+// Newsletter
+
+section#newsletter {
+    padding: 7vw 0;
+}
+
+span.mc-field-group {
+    margin-right: -3px;
+}
+
+#newsletter .btn-primary {
+    padding: 1vw;
+    border-radius: 0px 6px 6px 0px;
+    font-family: 'Karla', sans-serif;
+    border: 2px solid $magenta;
+    background: $magenta;
+}
+
+// Footer
+
 footer {
   background-color: black;
   margin: 20px 0px 0px;

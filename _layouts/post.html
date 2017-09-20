@@ -3,106 +3,109 @@ layout: default
 ---
 
 <div id="main" class="container">
-  <article>
-    <header>
-      <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
-      <h1 class="page-header">{{ page.title | truncate: 42, ""}}</h1>
-      <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% include post_date.html date=page.date%}
-      </time></p>
-    </header>
+    <article>
+      <header>
+        <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
+        <h1 class="page-header">{{ page.title | truncate: 42, ""}}</h1>
+        <p class="text-light"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% include post_date.html date=page.date%}
+        </time></p>
+      </header>
 
-    <figure>
-      {% assign img_cnt = page.single_image | size %}
-      {% if img_cnt == 1 %}
-        {% for image in page.single_image %}
-        <img src="{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
-        <figcaption>{{ image.caption }}</figcaption>
-        {% endfor %}
-      {% endif %}
+      <figure>
+        {% assign img_cnt = page.single_image | size %}
+        {% if img_cnt == 1 %}
+          {% for image in page.single_image %}
+          <img src="{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
+          <figcaption>{{ image.caption }}</figcaption>
+          {% endfor %}
+        {% endif %}
 
-      {% if img_cnt >= 2 %}
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            {% for image in page.single_image %}
-            <li data-target="#carousel-example-generic" data-slide-to="0" class="{% if forloop.first %}active{% endif %}"></li>
-            {% endfor %}
-          </ol>
+        {% if img_cnt >= 2 %}
+          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              {% for image in page.single_image %}
+              <li data-target="#carousel-example-generic" data-slide-to="0" class="{% if forloop.first %}active{% endif %}"></li>
+              {% endfor %}
+            </ol>
 
-          <div class="carousel-inner" role="listbox">
-            {% for image in page.single_image %}
-            <div class="item {% if forloop.first %}active{% endif %}">
-              <img src="{{ image.img }}" alt="{{ page.title }}" title="{{ page.title }}">
-              <div class="carousel-caption">
-                {{ image.caption }}
+            <div class="carousel-inner" role="listbox">
+              {% for image in page.single_image %}
+              <div class="item {% if forloop.first %}active{% endif %}">
+                <img src="{{ image.img }}" alt="{{ page.title }}" title="{{ page.title }}">
+                <div class="carousel-caption">
+                  {{ image.caption }}
+                </div>
               </div>
+              {% endfor %}
             </div>
-            {% endfor %}
+
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Anterior</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Siguiente</span>
+            </a>
           </div>
+        {% endif %}
 
-          <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Anterior</span>
-          </a>
-          <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Siguiente</span>
-          </a>
+        {% if img_cnt == 0 %}
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
         </div>
-      {% endif %}
+        {% endif %}
+      </figure>
 
-      {% if img_cnt == 0 %}
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
+      <div class="text-width">
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+        </div>
       </div>
-      {% endif %}
-    </figure>
 
-    <div class="row">
-      <div class="col-sm-12 col-md-12">
+      <div>
+        {% capture words %}
+          {{ page.content | number_of_words | minus: 250 }}
+        {% endcapture %}
+
+        {% unless words contains "-" %}
+        <ul class="list-inline list-unstyled">
+            <li><i class="fa fa-clock-o"></i> Tiempo estimado de lectura, {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}</li>
+        </ul>
+        {% endunless %}
+
+        {{ content }}
+      </div>
+
+      <div>
+        <ul class="list-inline text-center">
+          <li>
+            <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');">
+              <i class="fa fa-twitter fa-2x"></i>
+            </a>
+          </li>
+          <li>
+            <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
+              <i class="fa fa-facebook fa-2x"></i>
+            </a>
+          </li>
+          <li>
+            <a class="visible-xs" href="whatsapp://send?text={{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp fa-2x"></i></a>
+          </li>
+        </ul>
+      </div>
+
+
+
+      <address>
+        {% for author in page.authors %}
+          {{author.name}}
+        {% endfor %}
+      </address>
+
+
       </div>
     </div>
-
-    <div>
-      {% capture words %}
-        {{ page.content | number_of_words | minus: 250 }}
-      {% endcapture %}
-
-      {% unless words contains "-" %}
-      <ul class="list-inline list-unstyled">
-          <li><i class="fa fa-clock-o"></i> Tiempo estimado de lectura, {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}</li>
-      </ul>
-      {% endunless %}
-
-      {{ content }}
-    </div>
-
-    <div>
-      <ul class="list-inline text-center">
-        <li>
-          <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.share_message }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');">
-            <i class="fa fa-twitter fa-2x"></i>
-          </a>
-        </li>
-        <li>
-          <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
-            <i class="fa fa-facebook fa-2x"></i>
-          </a>
-        </li>
-        <li>
-          <a class="visible-xs" href="whatsapp://send?text={{ page.share_message }} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp fa-2x"></i></a>
-        </li>
-      </ul>
-    </div>
-
-
-
-    <address>
-      {% for author in page.authors %}
-        {{author.name}}
-      {% endfor %}
-    </address>
-
-
   </article>
 </div>
