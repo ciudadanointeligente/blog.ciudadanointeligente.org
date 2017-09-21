@@ -63,7 +63,8 @@ a {
 }
 
 input {
-  padding: 1vw;
+  padding: 1.5vw;
+  border: none;
 }
 
 // Label
@@ -180,10 +181,10 @@ span.mc-field-group {
 }
 
 #newsletter .btn-primary {
-    padding: 1vw;
+    padding: 1.5vw;
     border-radius: 0px 6px 6px 0px;
     font-family: 'Karla', sans-serif;
-    border: 2px solid $magenta;
+    border: none;
     background: $magenta;
 }
 
