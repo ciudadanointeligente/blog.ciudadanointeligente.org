@@ -20,7 +20,7 @@
           {{ post.title | truncate: 45, ""}}
         </a>
       </h3>
-      <p>{{ post.intro | truncate: 107, ""}}<a href="{{ destacada.url | prepend: site.baseurl }}"> Ver más <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
+      <p>{{ post.intro | truncate: 107, ""}}<a href="{{ post.url | prepend: site.baseurl }}"> Ver más <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
       <span class="post-meta">
         {% include post_date.html date=post.date%}
       </span>
