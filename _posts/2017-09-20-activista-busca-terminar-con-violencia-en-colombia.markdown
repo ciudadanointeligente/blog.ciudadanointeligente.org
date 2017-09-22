@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Con 19 años, Bibiana lucha contra la violencia'
-intro: 'A través del proyecto Escuela de Incidencia la joven colombiana Bibiana Quintero adquirió herramientas para terminar con la violencia en Cúcuta y su país.'
+title: 'Una joven que lucha contra la violencia'
+intro: 'Con 19 años, Bibiana Quintero trabaja para que la violencia salga de la vida de la ciudadanía colombiana..'
 date: 2017-09-05 14:30:00 -0300
 categories:
 highlighted: false
