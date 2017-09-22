@@ -24,8 +24,12 @@ h1, h2, h3 {
 }
 
 h1 {
-    color: $magenta;
     line-height: 5rem;
+}
+
+h2 {
+    margin-top: 4vw;
+    margin-bottom: 3vw;
 }
 
 h3 {
@@ -48,6 +52,10 @@ a {
 
 // Extras
 
+.magenta {
+  color: $magenta;
+}
+
 .text-width {
   max-width: 800px;
   margin: 0 auto;
@@ -58,8 +66,13 @@ a {
     color: #66666f;
 }
 
-.post-meta {
+.text-light {
+  color: #b5b5b5;
+}
+
+.post-meta, p.post-meta {
     color: #b5b5b5;
+    font-size: 14px;
 }
 
 input {
@@ -186,6 +199,33 @@ span.mc-field-group {
     font-family: 'Karla', sans-serif;
     border: none;
     background: $magenta;
+}
+
+// Post
+
+.share .fa {
+    background: $magenta;
+    color: white;
+    padding: 1vw;
+    border-radius: 2vw;
+    width: 3vw;
+    text-align: center;
+    margin-top: -10px;
+    &:hover {
+      background: darken($magenta, 10%);
+    }
+}
+
+.text-width .post-meta {
+    margin-bottom: 6vw;
+}
+
+.article-img-header {
+  width: 100%;
+}
+
+figcaption {
+    margin-top: 10px;
 }
 
 // Footer
