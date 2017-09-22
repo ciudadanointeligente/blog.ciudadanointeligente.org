@@ -4,7 +4,7 @@ title: 'La elección es nuestra'
 intro: 'Dar un voto a un candidato o candidata por una foto o un slogan ha quedado obsoleto. Hoy los ciudadanos y ciudadanas buscamos ideas y propuestas que nos hagan sentido y nos permitan identificarnos en nuestro diario vivir.'
 date: 2017-09-05 14:30:00 -0300
 categories:
-highlighted: true
+highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
   - img: "http://i.imgur.com/qegzWFL.jpg"
