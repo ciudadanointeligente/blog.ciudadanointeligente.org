@@ -3,7 +3,7 @@ layout:post
 title:'De cuando abrimos los gobiernos locales'
 intro:'La colaboración es clave para la creación de políticas públicas y la Municipalidad de Peñalolén lo sabe.'
 date: 2017-09-22 12:00:00 -0300
-categories:Proyectos
+categories: Proyectos
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
