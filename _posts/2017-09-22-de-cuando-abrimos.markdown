@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 'De cuando abrimos los gobiernos locales'
-intro: 'La colaboración es clave para la creación de políticas públicas y la Municipalidad de Peñalolén lo sabe.'
+layout:post
+title:'De cuando abrimos los gobiernos locales'
+intro:'La colaboración es clave para la creación de políticas públicas y la Municipalidad de Peñalolén lo sabe.'
 date: 2017-09-22 12:00:00 -0300
 categories:Proyectos
 highlighted: false
