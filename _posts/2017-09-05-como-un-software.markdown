@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "¿Cómo un software puede ayudar a la democracia?"
-intro: 'La tecnología debe estar al servicio de la democracia. Linux, el sistema operativo más eficiente del mundo, es gratis, libre y adapatable. Una inspiración en la manera de hacer las cosas, porque juntos somos más. Es momento de empujar la democratización de la era digital.'
+title: "Un software al servicio de la democracia"
+intro: 'Linux es el sistema operativo más eficiente del mundo. Una herramienta que inspira el trabajo colaborativo.'
 date: 2017-09-05 14:30:00 -0300
 categories:
 highlighted: false
