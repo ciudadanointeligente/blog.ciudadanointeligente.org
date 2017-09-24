@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Las mujeres al mando del código'
-intro: 'Sólo el 25% de los trabajos en el rubro de la informática es ocupado por mujeres. Acá destruímos el paradigma.'
+intro: 'Sólo el 25% de los trabajos en el rubro de la informática son ocupados por mujeres. Acá destruímos el paradigma.'
 date: 2017-09-06 14:30:00 -0300
 categories:
 highlighted: false
