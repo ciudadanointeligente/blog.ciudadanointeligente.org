@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'La elección es nuestra'
-intro: 'Dar un voto a un candidato o candidata por una foto o un slogan ha quedado obsoleto. Hoy los ciudadanos y ciudadanas buscamos ideas y propuestas que nos hagan sentido y nos permitan identificarnos en nuestro diario vivir.'
+intro: 'Dar un voto a una foto ha quedado obsoleto. Hoy cambiamos el sistema: la ciudadanía propone los otros escuchan.' 
 date: 2017-09-05 14:30:00 -0300
 categories:
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "http://i.imgur.com/qegzWFL.jpg"
+  - img: "https://i.imgur.com/J2S8dnx.png"
     caption:
 ---
 Es real la apatía y el desencanto que existe dentro de la sociedad respecto de la política. La corrupción tanto en Chile como en Latinoamérica ha sido una constante, dejando tan sólo a un 6% de la población chilena que confía en sus partidos políticos, según el PNUD.
