@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Las mujeres al mando del código'
-intro: 'Las mujeres ocupan menos del 25% de los empleos en el rubro del desarrollo y la informática, según la BBC. Además, En América Latina, hay estudios que demuestran que las carreras relacionadas con la informática son percibidas por muchas jóvenes como un ámbito "de chicos".'
+intro: 'Sólo el 25% de los trabajos en el rubro de la informática es ocupado por mujeres. Acá destruímos el paradigma.'
 date: 2017-09-06 14:30:00 -0300
 categories:
 highlighted: false
