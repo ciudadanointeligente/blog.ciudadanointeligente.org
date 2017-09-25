@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="main" class="container">
   <h1>Entradas antiguas</h1>
-  {% assign postsByYearMonth = site.posts | where:"highlighted",false | shift:9 | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+  {% assign postsByYearMonth = site.posts | where:"highlighted",false | shift:6 | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
   {% for yearMonth in postsByYearMonth %}
   {% assign counter = 1 %}
     <h3>{{ yearMonth.name }}</h3>
