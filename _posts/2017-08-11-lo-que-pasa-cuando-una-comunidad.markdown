@@ -4,10 +4,11 @@ title: 'El periodismo en México conoce la lucha'
 intro: La violencia que vive la prensa debe acabar. Hoy el gremio está más unido que nunca. Acá te lo contamos
 date: 2017-08-11 14:30:00 -0300
 categories:
+  - "Colaboración"
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "https://68.media.tumblr.com/e45961e8ba45b8f1947bc8028721cfff/tumblr_inline_oujgpudwWL1uz8ttg_500.jpg"
+  - img: "https://i.imgur.com/U5Hoxiq.jpg"
     caption:
 ---
 México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas. Si bien 2016 parecía ser el año más violento para la prensa, esa percepción cambió en marzo de este año, cuando comenzó una ola sistemática de agresiones fatales que en tan sólo cuatro meses se ha llevado la vida de ocho periodistas.  
