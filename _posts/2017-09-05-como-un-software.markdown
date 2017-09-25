@@ -4,6 +4,7 @@ title: "Un software al servicio de la democracia"
 intro: 'Linux es el sistema operativo más eficiente del mundo. Una herramienta que inspira el trabajo colaborativo.'
 date: 2017-09-05 14:30:00 -0300
 categories:
+- "Tecnología"
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
