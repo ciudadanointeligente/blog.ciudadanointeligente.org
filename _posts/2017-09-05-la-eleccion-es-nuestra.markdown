@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La elección es nuestra'
-intro: 'Dar un voto a una foto ha quedado obsoleto. Hoy cambiamos el sistema: la ciudadanía propone los otros escuchan.' 
+intro: 'Dar un voto a una foto ha quedado obsoleto. Hoy cambiamos el sistema: la ciudadanía propone, los otros escuchan.' 
 date: 2017-09-05 14:30:00 -0300
 categories:
 highlighted: false
