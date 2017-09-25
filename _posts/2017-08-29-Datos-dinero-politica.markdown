@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La transparencia es sexy y necesaria'
-intro: 'Con dater@s, diseñadores, periodistas y desarrolladores somos capaces de tomar la Ley de Partidos y hacerlo mejor"
+intro: 'Con dater@s, diseñadores, periodistas y desarrolladores somos capaces de tomar la Ley de Partidos y hacerlo mejor'
 date: 2017-08-29 14:30:00 -0300
 categories:
 highlighted: false
