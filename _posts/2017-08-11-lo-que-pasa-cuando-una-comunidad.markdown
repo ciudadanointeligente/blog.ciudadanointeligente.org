@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El periodismo en México conoce la lucha'
+title: 'La batalla del periodismo en México'
 intro: La violencia que vive la prensa debe acabar. Hoy el gremio está más unido que nunca. Acá te lo contamos
 date: 2017-08-11 14:30:00 -0300
 categories:
