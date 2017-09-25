@@ -1,15 +1,17 @@
 ---
 layout: post
-title: 'Cuando llevamos la transparencia a la práctica'
-intro: 'Los pasados sábado 22 y domingo 23 de julio llevamos a cabo nuestro desafío "Datos, Dinero y Partidos", una hackathon en el que reunimos a 50 dater@s, diseñadores, periodistas y desarrolladores a trabajar en torno a la información que los partidos políticos de Chile están liberando a raíz de la nueva Ley de Partidos.'
+title: 'La transparencia es sexy y necesaria'
+intro: 'Con dater@s, diseñadores, periodistas y desarrolladores somos capaces de tomar la Ley de Partidos y hacerlo mejor"
 date: 2017-08-29 14:30:00 -0300
 categories:
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "http://i.imgur.com/12T5sGp.jpg"
+  - img: "https://i.imgur.com/XyT2wYo.jpg"
     caption:
 ---
+Los últimos días de  julio llevamos a cabo nuestro desafío "Datos, Dinero y Partidos", una hackathon en el que reunimos a 50 dater@s, diseñadores, periodistas y desarrolladores a trabajar en torno a la información que los partidos políticos de Chile están liberando a raíz de la nueva Ley de Partidos.
+
 Con la colaboración de [Data Campfire](http://www.datacampfire.com) logramos un evento muy entretenido con un resultado espectacular: dos días de intenso trabajo que terminaron en seis proyectos de visualización de información que, con información del CPLT, la Cámara de Diputados y el Servel, no solo abordan de manera brillante muchos de los datos disponibles, sino que los hacen entendibles y amigables para la mayoría de la ciudadanía. ¡El verdadero propósito de la transparencia!
 
 El proyecto ganador, por ejemplo, realiza una [Radiografía a la Cámara Baja](http://www.socialmirrow.cl/) y presenta información detallada para analizar el rendimiento de cada uno de los diputados y diputadas (con un interesante índice de discolaje). Además hubo un proyectos que analizó el [gasto de los partidos](https://lorelero.github.io/cluster/) y otro que graficó el [cambio geopolítico (electoral) de los municipios](https://davidlaym.gitlab.io/hackaton-DDP/), entre otros.
