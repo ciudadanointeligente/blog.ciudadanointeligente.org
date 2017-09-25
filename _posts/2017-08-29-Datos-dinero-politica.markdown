@@ -4,7 +4,7 @@ title: 'La transparencia es sexy y necesaria'
 intro: 'En 2 días diseñadores, periodistas, desarrolladores y dater@s se unieron para impulsar la transparencia política'
 date: 2017-08-29 14:30:00 -0300
 categories:
--"Tecnología"
+- "Tecnología"
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
