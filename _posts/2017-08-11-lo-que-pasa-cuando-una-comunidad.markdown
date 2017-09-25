@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lo que pasa cuando una comunidad dice basta'
-intro: 'México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas.'
+title: 'El peligro inquieta el periodismo en México'
+intro: La violencia que vive el periodista se acabó. Hoy el gremio está más unido que nunca. Acá te lo contamos
 date: 2017-08-11 14:30:00 -0300
 categories:
 highlighted: false
