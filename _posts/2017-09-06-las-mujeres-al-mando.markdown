@@ -3,7 +3,7 @@ layout: post
 title: 'Las mujeres al mando del código'
 intro: 'Sólo el 25% de los trabajos en el rubro de la informática son ocupados por mujeres. Acá destruímos el paradigma.'
 date: 2017-09-06 14:30:00 -0300
-categories:
+categories: 'Cambia el mundo'
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
