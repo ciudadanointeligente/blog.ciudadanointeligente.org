@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El periodismo en México conoce la lucha'
-intro: La violencia que vive los periodistas se acaba. Hoy el gremio está más unido que nunca. Acá te lo contamos
+intro: La violencia que viven la prensa se acaba. Hoy el gremio está más unido que nunca. Acá te lo contamos
 date: 2017-08-11 14:30:00 -0300
 categories:
 highlighted: false
