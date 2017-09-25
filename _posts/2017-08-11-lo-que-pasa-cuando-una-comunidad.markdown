@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'El peligro inquieta el periodismo en México'
-intro: La violencia que vive el periodista se acabó. Hoy el gremio está más unido que nunca. Acá te lo contamos
+title: 'El periodismo en México conoce la lucha'
+intro: La violencia que vive los periodistas se acaba. Hoy el gremio está más unido que nunca. Acá te lo contamos
 date: 2017-08-11 14:30:00 -0300
 categories:
 highlighted: false
