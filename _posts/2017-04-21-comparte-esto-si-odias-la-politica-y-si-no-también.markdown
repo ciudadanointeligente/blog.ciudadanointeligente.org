@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "¡Comparte esto si odias la política! (y si no, también)"
-intro: "Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla"
+title:  "¡Comparte esto si odias la política!"
+intro: "Y si no la odias, también. Acá te damos cinco argumentos de por qué (en verdad) la política no es tan mala"
 date:   2017-04-21 12:00:00 -0300
 categories:
   - Política
 highlighted: false
-share_message: "Revisa el blog de FCI"
+share_message: "Esto no es broma: la política puede ser buena. Acá te contamos por qué"
 single_image:
   - img: "http://i.imgur.com/JdpO4NT.jpg"
     caption:
 ---
+***Y si no la odias, también. Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla***
+
 ## Porque política no es lo mismo que políticos
 
 Si decimos política probablemente se te vengan a la cabeza ejemplares de la raza humana que dejan mucho que desear. Esos por los cuales los extraterrestres aún no hacen contacto con nosotros. Pero la política es mucho más que algunas personas que se dedican a ella. Por cada presidente, congresista, gobernador, que se ha descubierto robando, faltando a la ley, haciendo lo que no corresponde, hay miles de otros representantes, funcionarios, organizaciones que hacen las cosas como corresponde y luchan por defender el interés de todos. Conversar con amigos o familia de lo que nos preocupa o molesta respecto a la sociedad ya es política, así que si crees que no eres político o política, piénsalo dos veces.
