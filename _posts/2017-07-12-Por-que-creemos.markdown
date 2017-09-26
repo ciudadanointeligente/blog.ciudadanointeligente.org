@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Es hora de luchar por la neutralidad web'
-intro: "Si no se mantiene a Internet libre, va a terminar reproduciendo las desigualdades del mundo offline."
+intro: "Si no se mantiene libre y abierta, la Internet va a terminar reproduciendo las desigualdades del mundo offline."
 date:   2017-07-12 14:30:00 -0300
 categories:
 highlighted: false
@@ -37,13 +37,13 @@ La neutralidad de la red nos ayuda a que todxs tengamos acceso a los mismos cont
 No podemos mostrarnos indiferentes frente a una problemática que afecta a todo un territorio que no reconoce límites, y que es de las pocas instancias libres que han permitido la discusión de ideas donde todos somos pares.
 
 Más información en los siguientes enlaces:
-http://wradio.com.mx/programa/2017/07/11/asi_las_cosas/1499782773_044508.html
-https://www.derechosdigitales.org/11298/en-america-latina-tambien-debemos-defender-la-neutralidad-de-la-red/
-https://www.google.cl/search?q=neutralidad+de+red
-https://es.wikipedia.org/wiki/Neutralidad_de_red
-https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act
-https://es.wikipedia.org/wiki/PROTECT_IP_Act
-https://www.cloudflare.com/apps/net-neutrality
-https://www.eff.org/es/issues/net-neutrality
-https://www.fcc.gov/consumers/guides/open-internet
-https://www.reddit.com/r/blog/comments/6mtgtp/we_need_your_voice_as_we_continue_the_fight_for/
+<http://wradio.com.mx/programa/2017/07/11/asi_las_cosas/1499782773_044508.html>
+<https://www.derechosdigitales.org/11298/en-america-latina-tambien-debemos-defender-la-neutralidad-de-la-red/>
+<https://www.google.cl/search?q=neutralidad+de+red>
+<https://es.wikipedia.org/wiki/Neutralidad_de_red>
+<https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act>
+<https://es.wikipedia.org/wiki/PROTECT_IP_Act>
+<https://www.cloudflare.com/apps/net-neutrality>
+<https://www.eff.org/es/issues/net-neutrality>
+<https://www.fcc.gov/consumers/guides/open-internet>
+<https://www.reddit.com/r/blog/comments/6mtgtp/we_need_your_voice_as_we_continue_the_fight_for/>
