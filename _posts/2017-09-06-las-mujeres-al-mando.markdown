@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/rMsg12y.jpg"
     caption:
 ---
-***¡Las mujeres ocupan menos del 25% de los empleos en el rubro del desarrollo y la informática, según [la BBC](http://www.bbc.com/mundo/noticias/2015/10/151002_finde_tecnologia_mujeres_estudiar_computacion_ciencia_mr). Además, En América Latina, hay estudios que demuestran que las carreras relacionadas con la informática son percibidas por muchas jóvenes como un ámbito "de chicos"!***.
+***Las mujeres ocupan menos del 25% de los empleos en el rubro del desarrollo y la informática, según [la BBC](http://www.bbc.com/mundo/noticias/2015/10/151002_finde_tecnologia_mujeres_estudiar_computacion_ciencia_mr). Además, En América Latina, hay estudios que demuestran que las carreras relacionadas con la informática son percibidas por muchas jóvenes como un ámbito "de chicos"***.
 
 En Ciudadano Inteligente luchamos contra ese estereotipo y quisimos ser parte de la iniciativa de [Django Girls Santiago](https://djangogirls.org/santiago/), un evento que tiene por objetivo inspirar a las mujeres a entrar en el mundo del código,a través de la creación de su propio blog. El encuentro contó con más de 400 postulaciones, donde al final fueron 60 las seleccionadas de entre 14 y 50 años a ser parte de este evento.
 
