@@ -1,19 +1,24 @@
 ---
 layout: post
 title: 'Cinco películas para ver cuando quieres que el mundo se acabe'
-intro: 'Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.'
+intro: 'Los últimos acontecimientos políticos te pueden haber quitado las ganas de vivir. Aquí cómo recuperarlas'
 date: 2017-04-21 12:00:00 -0300
 categories:
+- "Recomendamos"
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
   - img: "http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg"
     caption: 'Foto de www.usm.cl'
 ---
+'Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.'
+
+Donald Trump peleando con Kim Jong-un. Movimientos xenofóbicos que ganan fuerza en Europa. Corrupción escandalosa en Latinoamérica. Podríamos seguir listando. Pero. ¿para qué seguir deprimiéndose? Mejor mira alguna de estas películas para tomar un alto y ganar fuerzas que nos lleven a la acción. 
+
 ## Pride
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/bb/Pride_poster.jpg)
 
-Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, todos estamos juntos. Alerta de pañuelos desechables, te puede hacer llorar.
+Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, la unión es la clave. Alerta de pañuelos desechables, te puede hacer llorar.
 
 Ranking Ciudadano Inteligente en ganas de vivir: 4/5
 
@@ -48,4 +53,4 @@ Ranking Ciudadano Inteligente en ganas de vivir: 5/5
 ## BONUS TRACK: LIBEREN A WILLY
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/b5/Free_willy.jpg)
 
-¡ #TodossomosWilly !
+¡ #TodosytodassomosWilly !
