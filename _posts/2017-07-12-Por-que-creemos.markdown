@@ -4,11 +4,12 @@ title:  'Es hora de luchar por la neutralidad web'
 intro: "Si no se mantiene libre y abierta, la Internet va a terminar reproduciendo las desigualdades del mundo offline."
 date:   2017-07-12 14:30:00 -0300
 categories:
+ - "Tecnología"
 highlighted: false
-share_message: "Revisa el blog de FCI"
+share_message: "¿Por qué la neutralidad web puede afectarnos? @ciudadanoi nos cuenta"
 single_image:
   - img: "https://68.media.tumblr.com/e1046a9c4e5c1df7f381a7eecdea2daf/tumblr_inline_ot017cICMU1uz8ttg_500.jpg"
-    caption:
+    caption:Defendamos la neutralidad en la web
 ---
 ***El 12 de julio es un día importante para Internet. La fecha ha sido escogida por usuarios y comunidades para luchar contra la censura de empresas que quieren terminar con la neutralidad en la red. Servicios como Amazon, Cloudflare, Twitter, Netflix y Reddit hacen un llamado a compartir el mensaje para que la neutralidad en la red siga existiendo.***
 
