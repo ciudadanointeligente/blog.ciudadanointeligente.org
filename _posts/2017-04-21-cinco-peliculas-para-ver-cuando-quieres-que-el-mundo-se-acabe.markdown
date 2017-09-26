@@ -6,14 +6,14 @@ date: 2017-04-21 12:00:00 -0300
 categories:
 - "Recomendamos"
 highlighted: false
-share_message: "Revisa el blog de FCI"
+share_message: "Existen razones para deprimirse, pero películas que nos sacan del hoyo. ¡Míralas aquí!"
 single_image:
   - img: "http://www.usm.cl/assets/img/vida-universitaria-ciclo-de-cine.w700.jpg"
     caption: 'Foto de www.usm.cl'
 ---
 ***Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.***
 
-Donald Trump peleando con Kim Jong-un. Movimientos xenofóbicos que ganan fuerza en Europa. Corrupción escandalosa en Latinoamérica. Podríamos seguir listando. Pero. ¿para qué seguir deprimiéndose? Mejor mira alguna de estas películas para tomar un alto y ganar fuerzas que nos lleven a la acción. 
+Donald Trump peleando con Kim Jong-un. Movimientos xenofóbos que ganan fuerza en Europa. Corrupción escandalosa en Latinoamérica. Podríamos seguir listando. Pero. ¿para qué seguir deprimiéndose? Mejor mira alguna de estas películas para tomar un alto y ganar fuerzas que nos lleven a la acción. 
 
 ## Pride
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/bb/Pride_poster.jpg)
