@@ -37,6 +37,7 @@ La neutralidad de la red nos ayuda a que todxs tengamos acceso a los mismos cont
 No podemos mostrarnos indiferentes frente a una problemática que afecta a todo un territorio que no reconoce límites, y que es de las pocas instancias libres que han permitido la discusión de ideas donde todos somos pares.
 
 Más información en los siguientes enlaces:
+
 [Programa de Radio W sobre neutralidad en la red](http://wradio.com.mx/programa/2017/07/11/asi_las_cosas/1499782773_044508.html)
 
 [Artículo de la ONG chilena Derechos Digitales](https://www.derechosdigitales.org/11298/en-america-latina-tambien-debemos-defender-la-neutralidad-de-la-red/)
