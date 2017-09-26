@@ -11,7 +11,7 @@ single_image:
   - img: "http://i.imgur.com/JdpO4NT.jpg"
     caption:
 ---
-***Y si no la odias, también. Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla***
+***Y si no la odias, también. Porque aunque muchos crean que todos los políticos son ladrones y corruptos, acá te contamos 5 razones de porqué puede cambiar.***
 
 ## Porque política no es lo mismo que políticos
 
