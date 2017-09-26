@@ -37,5 +37,6 @@ A todos nos gusta ganar. Todo el que se ha visto hipotecando propiedades desespe
 
 <!--Algo de amigos, comunidad, malón, mesa de once-->
 
- Porque nos da sentido y razón
-Y ya que estamos listando beneficios, la política también ayuda a darle sentido a nuestras vidas. El individualismo, o la idea de que las necesidades de uno o una son más importantes que las de un colectivo, es la base de muchas de nuestras sociedades, y eso a veces nos puede dejar bastante tristes. Por más Facebook, Whatsapp y conexiones que tengamos, a veces nos sentimos irremediablemente solos. Por suerte, ¡hay salidas! La política te conecta con otros, te saca de la cama, te da motivo y ánimo para luchar. Estudios internacionales han mostrado que la soledad aumenta nuestro riesgo de morir en un 26%. Por eso, ¡vive más, involúcrate en política!
+## Porque nos da sentido y razón
+
+Y ya que estamos listando beneficios, la política también ayuda a darle sentido a nuestras vidas. El individualismo, o la idea de que las necesidades de uno o una son más importantes que las de un colectivo, es la base de muchas de nuestras sociedades, y eso a veces nos puede dejar bastante tristes. Por más Facebook, Whatsapp y conexiones que tengamos, a veces nos sentimos irremediablemente solos. Por suerte, ¡hay salidas! La política te conecta con otros, te saca de la cama, te da motivo y ánimo para luchar. Estudios internacionales han mostrado que la soledad [aumenta nuestro riesgo de morir en un 26%](http://www.semana.com/vida-moderna/articulo/la-soledad-aumenta-riesgo-de-muerte/421884-3). Por eso, **¡vive más, involúcrate en política!**
