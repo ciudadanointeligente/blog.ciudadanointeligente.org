@@ -11,7 +11,7 @@ single_image:
   - img: "https://68.media.tumblr.com/f9ea519555ba39dcb927732dc2155c0d/tumblr_inline_ookiyfdIoP1uz8ttg_500.gif"
     caption:
 ---
-***Nos dimos cuenta que no podemos ser una fundación que lucha por las democracias y usa palabras que discriminan.***
+***Nos dimos cuenta que no podemos ser una fundación que lucha por las democracias y usa palabras que discriminan. Aunque se enoje [la RAE](http://www.rae.es/consultas/los-ciudadanos-y-las-ciudadanas-los-ninos-y-las-ninas).***
 
 Amigues, compañerxs, latinoamericanxs todxs: Sabemos que, a muchas y muchos, esta forma de escribir les molesta. Es rara. ¿Por qué cambiar algo que lleva siglos funcionando? ¿Por qué, si sabemos que el plural masculino incluye a hombres y mujeres, usamos otras formas para expresarnos? Queremos explicar aquí este cambio que estamos aplicando en nuestras comunicaciones, y por qué decidimos implementarlo.
 
