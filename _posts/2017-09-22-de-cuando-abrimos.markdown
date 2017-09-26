@@ -24,4 +24,4 @@ Hace casi un año que buscamos facilitar la apertura a nivel municipal. Hoy vemo
 
 EL proyecto permitió que quienes viven en la comuna pudieran compartir experiencias y opiniones sobre la vida del sector y debatir sobre distintas iniciativas, incluso algunas planteadas en el pasado y otras más actuales. Luego de un mes de levantamiento de propuestas se votaron más de 44 propuestas en el sitio permitiendo a las y los habitantes del sector escoger la idea ganadora que se implementará en la comuna. Al cierre de la votación se llevaron las tres propuestas con más apoyo a un taller de diseño donde la comunidad, junto a representantes de la municipalidad, debatió, reflexionó y aterrizó las ideas a maquetas con el plano del parque. Hoy vemos cómo la ciudadanía se involucra en el proceso de creación, votación y diseño de su espacio público. Es, sin duda, un avance para la democracia. 
 
-¿Te gustaría que tu comuna sea parte de #Abre? Nosotros lo hacemos posible.
+¿Te gustaría que tu comuna sea parte de #Abre? Nosotr@s lo hacemos posible.
