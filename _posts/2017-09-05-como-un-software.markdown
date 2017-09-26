@@ -11,7 +11,7 @@ single_image:
   - img: "https://c1.staticflickr.com/1/745/20971563620_c63878ed00_b.jpg"
     caption:
 ---
-Un sistema operativo desarrollado bajo la lógica del software libre, gratis, y de código abierto: es Linux. ¿Qué quiere decir esto? que cualquier persona puede usar el código, adaptarlo, redistribuirlo y mejorarlo. De esta manera miles de programadores alrededor del mundo contribuyen en el desarrollo activo de Linux, convirtiéndolo el sistema operativo más eficiente y seguro que hoy existe.
+***Un sistema operativo desarrollado bajo la lógica del software libre, gratis, y de código abierto: es Linux. ¿Qué quiere decir esto? que cualquier persona puede usar el código, adaptarlo, redistribuirlo y mejorarlo. De esta manera miles de programadores alrededor del mundo contribuyen en el desarrollo activo de Linux, convirtiéndolo el sistema operativo más eficiente y seguro que hoy existe***.
 
 La historia de Linux comienza en el año 1991, como el proyecto personal de un estudiante finlandés de la Universidad de Helsinki, llamado Linus Torvalds. La iniciativa ofrecía un nuevo sistema operativo libre y gratuito, creando una nueva alternativa, dado que los existentes eran primitivos respecto de su modificación, redistribución y, además, fuera del alcance económico del usuario común. Actualmente, Linux tiene más de 18 millones de líneas de código, 12 mil contribuidores, mil 300 compañías dedicadas a su desarrollo y cientos de proyectos basados en él.
 
