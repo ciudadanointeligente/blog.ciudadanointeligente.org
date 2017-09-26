@@ -34,21 +34,21 @@ Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener na
 
 Recordemos a Mel Gibson antes de los escándalos. Recordémoslo en su mejor momento: como William Wallace, con la cara pintada, corriendo furiosamente hacia la batalla por la liberación de su pueblo. La película es un clásico de fin de semana, que ha envejecido como el vino. Maridaje recomendado: whisky escocés.
 
-Ranking Ciudadano Inteligente en ganas de vivir: 4/5
+*Ranking Ciudadano Inteligente en ganas de vivir: 4/5*
 
 ## The Help
 ![Película](//cdn.pixabay.com/photo/2016/05/11/19/03/man-1386235_960_720.jpg)
 
 Ay, si no lloras con ésta, no sabemos con qué. La historia de la relación entre la periodista blanca “Skeeter” Phelan y su relación con las trabajadoras domésticas afroamericanas Aibileen Clark y Minny Jackson. Amistad. Derechos civiles. Justicia. Esperanza.
 
-Ranking Ciudadano Inteligente en ganas de vivir: 5/5
+*Ranking Ciudadano Inteligente en ganas de vivir: 5/5*
 
 ## Milk
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/b5/Help_poster.jpg)
 
 Harvey Milk fue un político y activista por los derechos homosexuales en Estados Unidos. Alerta de spoiler: Lo mataron. Pero no te enojes, esta película que cuenta su vida es mucho más que el desenlace, y la historia de Milk te hará decir: sí se puede.
 
-Ranking Ciudadano Inteligente en ganas de vivir: 5/5
+*Ranking Ciudadano Inteligente en ganas de vivir: 5/5*
 
 ## BONUS TRACK: LIBEREN A WILLY
 ![Película](https://upload.wikimedia.org/wikipedia/en/b/b5/Free_willy.jpg)
