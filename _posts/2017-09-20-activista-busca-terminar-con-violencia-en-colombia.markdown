@@ -11,7 +11,7 @@ single_image:
     caption:
 ---
 
-*Gran parte de lo que hacemos en Ciudadano Inteligente es fortalecer a la sociedad civil. Esto significa entregar herramientas a personas y organizaciones para ayudarles a cambiar el mundo. A través del proyecto Escuela de Incidencia hicimos esto con Bibiana Quintero, una joven colombiana que cree que su país ya tuvo suficiente del conflicto armado, y que es hora de transformarlo. 
+***Gran parte de lo que hacemos en Ciudadano Inteligente es fortalecer a la sociedad civil. Esto significa entregar herramientas a personas y organizaciones para ayudarles a cambiar el mundo. A través del proyecto Escuela de Incidencia hicimos esto con Bibiana Quintero, una joven colombiana que cree que su país ya tuvo suficiente del conflicto armado, y que es hora de transformarlo.*** 
 
 A sus 19 años, algo le molesta a Bibiana Quintero. Oriunda de Cúcuta, una de las regiones de Colombia más azotadas por el conflicto armado, hay algo que no le hace sentido: ¿Por qué, si nadie quiere violencia, todas y todos la aceptan en su vida cotidiana con tanta naturalidad?* 
 
