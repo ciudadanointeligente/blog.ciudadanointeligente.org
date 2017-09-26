@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/U5Hoxiq.jpg"
     caption:
 ---
-México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas. Si bien 2016 parecía ser el año más violento para la prensa, esa percepción cambió en marzo de este año, cuando comenzó una ola sistemática de agresiones fatales que en tan sólo cuatro meses se ha llevado la vida de ocho periodistas.  
+***México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas. Si bien 2016 parecía ser el año más violento para la prensa, esa percepción cambió en marzo de este año, cuando comenzó una ola sistemática de agresiones fatales que en tan sólo cuatro meses se ha llevado la vida de ocho periodistas.***  
 
 El asesinato al periodista Javier Valdez, conmocionó tanto al gremio como a la opinión pública. Era demasiada la violencia, y había llegado demasiado lejos. Cientos de periodistas mexicanos decidieron que era necesario pasar a la acción y enfrentar directamente las agresiones y la impunidad. Para esto, convocaron al encuentro nacional #AgendaDePeriodistas, del 14 al 16 de junio de 2017 en la Ciudad de México, donde 381 periodistas se juntaron para discutir sobre cómo atacar el problema de raíz y erradicar la violencia hacia la labor periodística y la libertad de expresión.
 
