@@ -11,7 +11,7 @@ single_image:
   - img: "https://68.media.tumblr.com/e1046a9c4e5c1df7f381a7eecdea2daf/tumblr_inline_ot017cICMU1uz8ttg_500.jpg"
     caption:
 ---
-***El 12 de julio es un día importante para Internet. La fecha ha sido escogida por usuarios y comunidades para luchar contra la censura de empresas que quieren terminar con la neutralidad en la red. Servicios como Amazon, Cloudflare, Twitter, Netflix y Reddit hacen un llamado a compartir el mensaje para que la neutralidad en la red siga existiendo.***
+***Si te dijeramos que hay empresas que pueden controlar lo que ves en Internet y qué tan rápido navegas, ¿nos creerías? Es verdad. El 12 de julio es un día importante para Internet, porque la fecha ha sido escogida por usuarios y comunidades para luchar contra la censura de grandes compañías que quieren terminar con la neutralidad en la red.***
 
 Neutralidad en la red (“net neutrality”) es un principio que busca proteger nuestro derecho a la libre expresión en la red. Porque entendemos que Internet es un espacio clave para el desarrollo de la vida pública, es importante que todas y todos tengamos acceso a ella y al debate que ahí se produce sin restricciones legales o de mercado.
 
