@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/gokScGn.png"
     caption:
 ---
-Es real la apatía y el desencanto que existe dentro de la sociedad respecto de la política. La corrupción tanto en Chile como en Latinoamérica ha sido una constante, dejando tan sólo a un 6% de la población chilena que confía en sus partidos políticos, según el PNUD.
+***Es real la apatía y el desencanto que existe dentro de la sociedad respecto de la política. La corrupción tanto en Chile como en Latinoamérica ha sido una constante, dejando tan sólo a un 6% de la población chilena que confía en sus partidos políticos, según el PNUD.***
 
 Sin embargo, desde Ciudadano Inteligente estamos convencid@s de que podemos cambiar este escenario actual, pero con proyectos concretos y no quedarnos sólo en el discurso. Hace 8 años que hacemos el Vota Inteligente en Chile y ya cuenta con 14 versiones en Latinoamérica. Un proyecto que en un comienzo buscaba informar a la ciudadanía sobre los candidatos y candidatas a la presidencia, al Congreso y a los municipios, pero que desde el año pasado (2016) dio un giro para llevar la voz de los ciudadanos y ciudadanas a quienes buscan gobernar, en este caso, a Chile.
 
