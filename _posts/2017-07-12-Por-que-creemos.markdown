@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Por qué creemos en la neutralidad en la red'
-intro: "Hoy 12 de julio es un día importante para Internet. El día ha sido escogido por usuarios y comunidades para luchar contra la censura de empresas que quieren terminar con la neutralidad en la red. Servicios como Amazon, Cloudflare, Twitter, Netflix y Reddit hacen un llamado a compartir el mensaje para que la neutralidad en la red siga existiendo."
+title:  'Es hora de luchar por la neutralidad web'
+intro: "Si no se mantiene a Internet libre, va a terminar reproduciendo las desigualdades del mundo offline."
 date:   2017-07-12 14:30:00 -0300
 categories:
 highlighted: false
@@ -10,6 +10,8 @@ single_image:
   - img: "https://68.media.tumblr.com/e1046a9c4e5c1df7f381a7eecdea2daf/tumblr_inline_ot017cICMU1uz8ttg_500.jpg"
     caption:
 ---
+***El 12 de julio es un día importante para Internet. La fecha ha sido escogida por usuarios y comunidades para luchar contra la censura de empresas que quieren terminar con la neutralidad en la red. Servicios como Amazon, Cloudflare, Twitter, Netflix y Reddit hacen un llamado a compartir el mensaje para que la neutralidad en la red siga existiendo.***
+
 Neutralidad en la red (“net neutrality”) es un principio que busca proteger nuestro derecho a la libre expresión en la red. Porque entendemos que Internet es un espacio clave para el desarrollo de la vida pública, es importante que todas y todos tengamos acceso a ella y al debate que ahí se produce sin restricciones legales o de mercado.
 
 Muchas veces, las grandes compañías que proveen la mayoría de los servicios de red en el mundo enlentecen o bloquean sitios por razones políticas o comerciales (por ejemplo, para crear un cobro extra que te permita acceder o entrar más rápidamente).
