@@ -9,9 +9,9 @@ highlighted: false
 share_message: "La corrupción y la impunidad no son sólo problemas técnicos: requieren soluciones políticas."
 single_image:
   - img: "https://imgur.com/a/k6mlm"
-    caption: 'Nuestra [Escuela de Incidencia](http://escueladeincidencia.org) en Ecuador, un ejemplo de acción colectiva'
+    caption: 'Nuestra Escuela de Incidencia en Ecuador, un ejemplo de acción colectiva'
 ---
-***Quedan pocos días para inscribirse al evento 'Enfoques transfronterizos para los desafíos de transparencia y rendición de cuentas en América Latina', en el que estamos colaborando con [The Engine Room](https://www.theengineroom.org/), [Ojo Público](https://ojo-publico.com/), [TEDIC](https://www.tedic.org/) y [FLIP](http://www.flip.org.co/), entre otros. Mientras esperas, puedes leer nuestra reflexión sobre el estado de la corrupción en América Latina***
+***Quedan pocos días para inscribirse al evento ['Enfoques transfronterizos para los desafíos de transparencia y rendición de cuentas en América Latina'](https://www.theengineroom.org/transparencia-rendicion-cuentas-america-latina-evento/), en el que estamos colaborando con [The Engine Room](https://www.theengineroom.org/), [Ojo Público](https://ojo-publico.com/), [TEDIC](https://www.tedic.org/) y [FLIP](http://www.flip.org.co/), entre otros. Mientras esperas, puedes leer nuestra reflexión sobre el estado de la corrupción en América Latina***
 
 La corrupción es un problema grave en América Latina. Tiene consecuencias económicas, sociales, políticas y culturales. De la mano con la impunidad, la falta de acceso a información, la toma de decisiones a puertas cerradas -y entre unos pocos, usualmente los mismos de siempre- corroe nuestras sociedades y comunidades políticas. Y es que socava algunos de los principios básicos que nos permiten vivir en conjunto.
  
