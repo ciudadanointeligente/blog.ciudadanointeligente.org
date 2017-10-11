@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "¿Dónde está la mujer en los congresos de Latinoamérica?"
 single_image:
-  - img: "https://i.imgur.com/KQOeRWg.jpg"
+  - img: "https://i.imgur.com/Oe5Sotp.png"
     caption: 
 ---
 ***Latinoamérica tiene una gran deuda: la falta de paridad de género en la labor parlamentaria. Según cifras de la [CEPAL](https://www.cepal.org/es) la mujer tiene presencia en los congresos de la región sólo en un 28.8%. Bolivia es el único país América Latina que tiene paridad de género real, dado que su congreso está compuesto por un 51,8% de legisladoras y su población total de mujeres corresponde a un 49,9%.***
