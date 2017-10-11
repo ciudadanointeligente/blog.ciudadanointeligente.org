@@ -5,6 +5,7 @@ intro: 'Sí. De todos los congresos de América Latina la mujer tiene presencia 
 date: 2017-10-06 12:00:00 -0300
 categories:
 - "Política"
+- "Actualidad"
 highlighted: false
 share_message: "¿Dónde está la mujer en los congresos de Latinoamérica?"
 single_image:
