@@ -2,7 +2,7 @@
 layout: post
 title: 'Menos tecnicismos, mais ação coletiva'
 intro: 'Los últimos acontecimientos políticos te pueden haber quitado las ganas de vivir. Aquí cómo recuperarlas'
-date: 2017-04-21 12:00:00 -0300
+date: 2017-10-18 12:00:00 -0300
 categories:
 - "Colaboración"
 highlighted: false
