@@ -1,0 +1,96 @@
+---
+layout: post
+title: 'Menos tecnicismos, mais ação coletiva'
+intro: 'Los últimos acontecimientos políticos te pueden haber quitado las ganas de vivir. Aquí cómo recuperarlas'
+date: 2017-04-21 12:00:00 -0300
+categories:
+- "Colaboración"
+highlighted: false
+share_message: "Menos tecnicismos, mais ação coletiva"
+single_image:
+  - img: "https://i.imgur.com/KQOeRWg.jpg"
+    caption: 'Nossa Escola de Incidência no Equador, um exemplo de ação coletiva'
+---
+***Aquí nuestra reflexión en portugués sobre corrupción y cambio social: 
+Restam poucos dias para se inscrever no evento ‘Enfoques transfronteiriços para os desafios de transparência e rendição de contas na América Latina’, no qual estamos colaborando com The Engine Room, Ojo Público, TEDIC y FLIP, entre outros. Enquanto esperas, podes ler nossa reflexão sobre estes temas.***
+
+A corrupção é um problema grave na América Latina. Tem consequências
+económicas, sociais, políticas e culturais. De mão dada com a impunidade, a
+falta de acesso a informação, a tomada de decisões a portas fechadas – e
+entre poucos, normalmente os mesmos de sempre – corroem nossas
+sociedades e comunidades políticas. E é isso que prejudica alguns dos
+princípios básicos que nos permitem viver juntos.
+Do nepotismo a propina ao policial, dos financiadores de campanhas políticas
+aos contratos públicos, a corrupção encontra muitas formas diferentes, mas
+consiste, sempre, em utilizar algo que é de todos e todas para o benefício
+privado; é uma solução pessoal e privada de problemas comuns, que afetam a
+toda uma comunidade ou a um grupo de pessoas, trai valores que nos
+permitem viver em comunidade: confiar, entregar, ser solidárias e solidários,
+trabalhar em conjunto por uma vida e sociedade melhor.
+A corrupção necessita da impunidade, que é quando quem comete as ações
+que vão contra as regras estabelecemos para conviver não recebem sanção.
+Estabelece-se assim um círculo vicioso que transforma a corrupção em norma:
+sabemos que aqueles que atuam de forma corrupta e ilícita não receberão
+sanção. Desta maneira, a corrupção se expande, transformando-se em um
+problema sistêmico e estrutural, que permite manter o status quo e a
+desigualdade. Deixa assim de ser um caso isolado, e se transforma na forma
+na qual o conjunto opera em todos os níveis da vida social.
+Mesmo que na América Latina os indicadores de corrupção sejam mais ou
+menos similares ao de outras economias emergentes, a situação é muito pior
+se nos comparamos com outras economias avançadas, e há que se levar em
+conta que estes indicadores diluem profundas diferenças ao interior da própria
+região. Além disto, existe uma relação entre corrupção e quem são os mais
+afetados por ela. A Convenção das Nações Unidas reconhece que o fenômeno
+da corrupção afeta as pessoas mais pobres de forma desproporcional,
+desviando fundos destinados ao desenvolvimento. Isso prejudica a capacidade
+dos governos de prestar serviços básicos, alimentando a desigualdade e a
+injustiça.
+A análise dos níveis de impunidade só agrava a situação de acordo com o
+índice Global de Impunidade 2017, quase a metade dos países da América
+
+Latina examinados se encontram nos países com a pior qualificação a nível
+global.
+Muitas vezes a corrupção é entendida como um problema técnico que requer
+de experts que desenham procedimentos e instituições adequadas. Embora
+seja verdade que estes problemas exijam experiência e conhecimento técnico,
+desde a nossa perspectiva estamos, antes de tudo, diante de problemas
+políticos. Para cuidar deles precisamos de ação conjunta e coletiva. O que está
+em jogo é a vida comum e a distribuição de poder.
+No Ciudadano Inteligente cremos que a sociedade civil e cidadania são
+fundamentais para fazer frente a corrupção e a impunidade. Por isso,
+decidimos ser parte ativa nas reclamações de suposto suborno, a fim de punir
+aqueles que haviam defraudado a fé pública nos casos de financiamento
+irregular da política no Chile. Também nos juntamos ao Conselho Anti-
+Corrupção, surgido em 2015 no calor dos escândalos pelo financiamento
+irregular da política no mesmo país. Desta Comissão surgiu o Observatório
+Anti-Corrupção, uma metodologia e plataforma cidadã de seguimento as
+medidas que surgiram do referido Conselho.
+À luz do que está acontecendo em vários países da região, novas
+interrogações e desafios surgem. No caso do Brasil é emblemático: o
+Congresso se apresenta para votar reformas políticas com 238 de seus
+parlamentares respondendo a processos na Corte Suprema do país, num
+contexto onde o atual presidente Michel temer deverá responder a uma
+segunda investigação, depois de utilizar 4 bilhões de reais do erário público
+para pagar deputados para que o liberassem da primeira investigação. Ao
+mesmo tempo, Brasil ocupa o terceiro lugar a nível mundial em população
+carcerária, com mais de 700.000 pessoas vivendo privadas de sua liberdade.
+Não se pode dizer que é um país onde se privilegia a impunidade, mas que a
+impunidade é um fenômeno seletivo, que privilegia as classes mais ricas e
+aqueles que estão no poder, e que podem, inclusive, se utilizar da corrupção
+para se livrarem de sanções.
+As perguntas que surgem então, e que nos abrem a novos desafios, se referem
+a entender a corrupção e a impunidade como problemas políticos, como
+assuntos de ação coletiva e cidadã. Porém, é justamente a cidadania que
+vemos mais desencantada e afastada da política tradicional na hora de
+divulgar, cada vez mais amplamente e com mais evidência, os casos de
+corrupção na região.
+Como promovemos, então, ações coletivas que nos permitam conhecer, dar
+seguimento, exigir, propor e participar? Como convocamos e narramos os
+casos de corrupção fazendo um chamado a não entregar a política a poucos,
+mas insistindo na justa e necessária distribuição do poder? Como combatemos
+a corrupção através das ferramentas que nos oferece a participação
+democrática?
+América Latina necessita uma cidadania ativa e articulada mais que nunca. A
+sociedade civil deve se colocar a serviço desta causa toda a técnica e política
+disponível e por inventar, para encontrar soluções inovadoras e criativas a
+desafios que vão ao centro de nossa vida em grupo.
