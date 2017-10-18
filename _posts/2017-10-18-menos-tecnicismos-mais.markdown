@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Menos tecnicismos, mais ação coletiva'
-intro: 'Los últimos acontecimientos políticos te pueden haber quitado las ganas de vivir. Aquí cómo recuperarlas'
+intro: 'Aquí nuestra reflexión en portugués sobre corrupción y cambio social'
 date: 2017-10-18 12:00:00 -0300
 categories:
 - "Colaboración"
