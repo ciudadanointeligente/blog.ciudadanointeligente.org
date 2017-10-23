@@ -13,7 +13,7 @@ single_image:
 ---
 Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.
 
-**Pride
+### Pride
 
 ![Pride](http://es.web.img3.acsta.net/newsv7/15/03/05/10/12/420891.jpg "Pride")
 
@@ -21,7 +21,7 @@ Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener na
 
 Ranking Ciudadano Inteligente en ganas de vivir: ⅘ 
 
-**Lincoln 
+### Lincoln 
 
 ![Lincoln](http://www.arcoiris.com.co/wp-content/uploads/2013/01/lincoln_pelicula.jpg "Lincoln")
 
@@ -29,7 +29,7 @@ Ranking Ciudadano Inteligente en ganas de vivir: ⅘
 
 Ranking Ciudadano Inteligente en ganas de vivir: ⅗ 
 
-**Corazón Valiente
+### Corazón Valiente
 
 ![Corazón valiente](http://www.mivideoteca.es/wp-content/uploads/2013/04/Leader11-615x345.jpg "Corazón valiente")
 
@@ -37,7 +37,7 @@ Recordemos a Mel Gibson antes de los escándalos. Recordémoslo en su mejor mome
 
 Ranking Ciudadano Inteligente en ganas de vivir: ⅘ 
 
-**The Help 
+### The Help 
 
 ![The Help](http://www.colegioluisvives.es/wp-content/uploads/sites/3/2017/02/The-help-1367469.jpg "The Help")
 
@@ -45,7 +45,7 @@ Ay, si no lloras con ésta, no sabemos con qué. La historia de la relación ent
 
 Ranking Ciudadano Inteligente en ganas de vivir: 5/5
 
-**Milk 
+### Milk 
 
 ![Milk](http://images.eldiario.es/canariasahora/cultura/Cartel-pelicula-Milk_EDIIMA20150519_0848_17.jpg "Milk")
 
@@ -53,7 +53,7 @@ Harvey Milk fue un político y activista por los derechos homosexuales en Estado
 
 Ranking Ciudadano Inteligente en ganas de vivir: 5/5 
 
-**BONUS TRACK: LIBEREN A WILLY 
+### BONUS TRACK: LIBEREN A WILLY 
 
 ![Liberen a Willy](http://s3.amazonaws.com/trendybynick.com-production/wp-content/uploads/2017/01/liberen-a-willy.png "Liberen a Willy")
 ¡ #TodossomosWilly !
