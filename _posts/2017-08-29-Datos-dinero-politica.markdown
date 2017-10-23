@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "https://i.imgur.com/XyT2wYo.jpg"
+  - img: "https://i.imgur.com/wOcuIZf.jpg"
     caption:
 ---
 ***Los últimos días de  julio llevamos a cabo nuestro desafío "Datos, Dinero y Partidos", una hackathon en el que reunimos a 50 dater@s, diseñadores, periodistas y desarrolladores a trabajar en torno a la información que los partidos políticos de Chile están liberando a raíz de la nueva Ley de Partidos.***
