@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "https://i.imgur.com/rMsg12y.jpg"
+  - img: "https://i.imgur.com/sUwRqy6.jpg"
     caption:
 ---
 ***Las mujeres ocupan menos del 25% de los empleos en el rubro del desarrollo y la informática, según [la BBC](http://www.bbc.com/mundo/noticias/2015/10/151002_finde_tecnologia_mujeres_estudiar_computacion_ciencia_mr). Además, En América Latina, hay estudios que demuestran que las carreras relacionadas con la informática son percibidas por muchas jóvenes como un ámbito "de chicos"***.
