@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "La Fundación Ciudadano Inteligente decidió usar lenguaje no sexista. Aquí el porqué"
 single_image:
-  - img: "https://68.media.tumblr.com/f9ea519555ba39dcb927732dc2155c0d/tumblr_inline_ookiyfdIoP1uz8ttg_500.gif"
+  - img: "https://i.imgur.com/p2eKuch.jpg"
     caption:
 ---
 ***Nos dimos cuenta que no podemos ser una fundación que lucha por las democracias y usa palabras que discriminan. Aunque se enoje [la RAE](http://www.rae.es/consultas/los-ciudadanos-y-las-ciudadanas-los-ninos-y-las-ninas).***
