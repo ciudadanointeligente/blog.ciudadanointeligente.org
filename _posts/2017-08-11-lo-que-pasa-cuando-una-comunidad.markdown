@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "https://i.imgur.com/U5Hoxiq.jpg"
+  - img: "https://i.imgur.com/nu5Cqae.jpg"
     caption:
 ---
 ***México es el tercer país más peligroso en el mundo para ser periodista. Según el último reporte de Article 19, el año pasado se reportaron 246 agresiones contra la prensa y 11 asesinatos de periodistas. Si bien 2016 parecía ser el año más violento para la prensa, esa percepción cambió en marzo de este año, cuando comenzó una ola sistemática de agresiones fatales que en tan sólo cuatro meses se ha llevado la vida de ocho periodistas.***  
