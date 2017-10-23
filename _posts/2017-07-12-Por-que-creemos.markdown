@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "¿Por qué la neutralidad web puede afectarnos? @ciudadanoi nos cuenta"
 single_image:
-  - img: "https://68.media.tumblr.com/e1046a9c4e5c1df7f381a7eecdea2daf/tumblr_inline_ot017cICMU1uz8ttg_500.jpg"
+  - img: "https://i.imgur.com/r8WxK50.jpg"
     caption:
 ---
 ***Si te dijeramos que hay empresas que pueden controlar lo que ves en Internet y qué tan rápido navegas, ¿nos creerías? Es verdad. El 12 de julio es un día importante para Internet, porque la fecha ha sido escogida por usuarios y comunidades para luchar contra la censura de grandes compañías que quieren terminar con la neutralidad en la red.***
