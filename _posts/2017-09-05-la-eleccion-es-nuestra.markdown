@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "https://i.imgur.com/gokScGn.png"
+  - img: "https://i.imgur.com/sU7IlmE.jpg"
     caption:
 ---
 ***Es real la apatía y el desencanto que existe dentro de la sociedad respecto de la política. La corrupción tanto en Chile como en Latinoamérica ha sido una constante, dejando tan sólo a un 6% de la población chilena que confía en sus partidos políticos, según el PNUD.***
