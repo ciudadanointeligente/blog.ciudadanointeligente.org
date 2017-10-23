@@ -4,7 +4,7 @@ title: 'Cinco películas para ver cuando quieres que el mundo se acabe'
 intro: 'Los últimos acontecimientos políticos te pueden haber quitado las ganas de vivir. Aquí cómo recuperarlas'
 date: 2017-04-21 12:00:00 -0300
 categories:
-- "Política"
+-  "Política"
 highlighted: false
 share_message: 'Los últimos acontecimientos políticos te pueden haber quitado las ganas de vivir. Aquí cómo recuperarlas'
   - img: "https://i.imgur.com/zy125Oo.png"
@@ -12,7 +12,8 @@ share_message: 'Los últimos acontecimientos políticos te pueden haber quitado 
 ---
 Ganó Trump. El muro va. Reino Unido deja la Unión Europea. Fracasó el referéndum en Colombia. Las razones para deprimirse son muchas, pero hay muchas otras para levantarse. Aquí, las mejores películas para una tarde de autocuidado, y para recordarnos que la esperanza no está perdida.
 
-![Pride](http://es.web.img3.acsta.net/newsv7/15/03/05/10/12/420891.jpg) 
+Pride
+![Alt text](http://es.web.img3.acsta.net/newsv7/15/03/05/10/12/420891.jpg) "Pride"
 Una organización homosexual. Un grupo de mineros en huelga. Parecen no tener nada en común, pero esta película nos muestra que en la lucha por la igualdad y la justicia, todos estamos juntos. Alerta de pañuelos desechables, te puede hacer llorar. 
 
 Ranking Ciudadano Inteligente en ganas de vivir: ⅘ 
