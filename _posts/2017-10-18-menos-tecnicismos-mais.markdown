@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Menos tecnicismos, mais ação coletiva"
 single_image:
-  - img: "https://i.imgur.com/KQOeRWg.jpg"
+  - img: "https://i.imgur.com/fXjE5Pm.png"
     caption: 'Nossa Escola de Incidência no Equador, um exemplo de ação coletiva'
 ---
 ***Aquí nuestra reflexión en portugués sobre corrupción y cambio social: 
