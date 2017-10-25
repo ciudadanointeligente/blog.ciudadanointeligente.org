@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "La corrupción y la impunidad no son sólo problemas técnicos: requieren soluciones políticas."
 single_image:
-  - img: "https://i.imgur.com/KQOeRWg.jpg"
+  - img: "https://i.imgur.com/bgH7xtT.png"
     caption: 'Nuestra Escuela de Incidencia en Ecuador, un ejemplo de acción colectiva'
 ---
 ***Quedan pocos días para inscribirse al evento ['Enfoques transfronterizos para los desafíos de transparencia y rendición de cuentas en América Latina'](https://www.theengineroom.org/transparencia-rendicion-cuentas-america-latina-evento/), en el que estamos colaborando con [The Engine Room](https://www.theengineroom.org/), [Ojo Público](https://ojo-publico.com/), [TEDIC](https://www.tedic.org/) y [FLIP](http://www.flip.org.co/), entre otros. Mientras esperas, puedes leer nuestra reflexión sobre estos temas.***
