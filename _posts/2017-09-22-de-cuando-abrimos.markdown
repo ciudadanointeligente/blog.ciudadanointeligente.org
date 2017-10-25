@@ -7,7 +7,7 @@ categories: Proyectos
 highlighted: false
 share_message: "Revisa el blog de FCI"
 single_image:
-  - img: "https://i.imgur.com/dhZB0gS.jpg"
+  - img: "https://i.imgur.com/UUsZIhI.jpg"
     caption: 
 ---
 ***El Proyecto #Abre es una propuesta de Fundación Ciudadano Inteligente que busca acercar el trabajo del gobierno local a la realidad de sus vecinos y vecinas y poner la colaboración en el centro de la gestión local.*** 
