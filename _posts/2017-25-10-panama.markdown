@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'Ciudadanía y Estado contra la corrupción'
+intro: 'Panamá y su crisis política. La solución es enfrentar la corrupción colectivamente'
+date: 2017-10-18 12:00:00 -0300
+categories:
+- "Política"
+highlighted: false
+share_message: "Ciudadanía y Estado contra la corrupción"
+single_image:
+  - img: "https://i.imgur.com/yJCYhdj.png"
+    caption: 
+---
+***La detención del ex presidente Martinelli, el escándalo Odebrecht y varios procesos judiciales estancados muestran una profunda crisis institucional en Panamá. El gobierno está tomando cartas en el asunto trabajando junto a importantes organizaciones de la sociedad civil, y con el apoyo de Fundación Ciudadano Inteligente, están dando una respuesta clara al problema: la corrupción se enfrenta colectivamente.***
+
+En los últimos años Panamá ha sufrido varios escándalos que han demostrado que la corrupción ha penetrado en diferentes organismos tanto del Estado como del mundo privado. Para hacer frente a este problema el Estado de Panamá ha adquirido compromisos dentro de tres planes de acción de gobierno abierto para así construir en conjunto con la sociedad civil un gobierno más abierto y transparente.   
+
+La Fundación Ciudadano Inteligente viajó hasta Panamá para reunirse con la Fundación para el Desarrollo de la Libertad Ciudadana  (el capítulo Panameño de Transparencia Internacional), con la Autoridad Nacional de Transparencia y Acceso a la Información (ANTAI), y con el Movimiento Independiente (MOVIN). ¿El resultado? Un LabCívico entre el sector privado, académico, desarrolladores y múltiples agentes cívicos afectados por la corrupción. Fue en esta instancia donde se reafirmó la  idea de hacer un observatorio ciudadano anticorrupción que colabore en los procesos de transparencia y fiscalización, complementado con otras medidas que fortalecerán esta instancia.
+
+La directora ejecutiva de Fundación para el Desarrollo de la Libertad Ciudadana, Olga de Obaldía, quien lidera el Capítulo Panameño de Transparencia Internacional, dijo que “estamos en un momento crítico (de la política), porque de la administración anterior hay más de 50 casos de corrupción que están llevados en juicios y hay 97 investigaciones abiertas relacionadas a las coimas de Odebrecht”. La directora también agregó que “tenemos un problema de corrupción profundo a nivel de la asamblea legislativa, también porque nuestros legisladores se eligen en un método de campaña que crea una corrupción que va más allá del Estado”.
+
+Por su parte la Jefa Encargada de Autoridad Nacional de Transparencia y Acceso a la Información (ANTAI), Aida Martínez, explicó que “como autoridad autónoma le proponemos al Ministerio de la Presidencia políticas públicas enfocadas en la transparencia, en presión y lucha contra la corrupción”. Asimismo añadió que “estas políticas públicas las elaboramos de cero con la sociedad civil. No podemos luchar solos [desde el Estado], necesitamos de los otros órganos de control y necesitamos de la ciudadanía. La ciudadanía tiene un papel muy importante porque hacen una presión social muy grande”.
+
+Leah Cedeño Estrada, directora ejecutiva de la organización Movimiento Independiente (MOVIN), señaló que “hay una gran molestia ciudadana general de saber que Odebrecht, a pesar de haber sido encontrado culpable y haber admitido su culpabilidad en Brasil, en Panamá sigue obteniendo contratos con la actual administración”.
+
+Hoy Panamá se encuentra elaborando el tercer plan de acción nacional de gobierno abierto. El plan consta de cinco ejes, tres de los cuales fueron abordados en el LabCívico: anticorrupción, transparencia parlamentaria y contrataciones públicas. Uno de los principales objetivos de la iniciativa, y el cual se complementó con las ideas surgidas en el laboratorio, es la creación del observatorio ciudadano anticorrupción para detener las malas prácticas en el sector público. Es decir, busca fiscalizar y supervisar cómo se manejan los fondos de la asamblea nacional, las contrataciones públicas y las licitaciones para infraestructuras del sector público.
+
+La coordinadora de proyectos de Fundación Ciudadano Inteligente, Margarita Maira, manifestó que esta iniciativa fue una gran ayuda para el gobierno y la sociedad civil de Panamá porque “a través del LabCívico organizaciones y gobierno pudieron pensar en más opciones para atacar los problemas que busca abordar el tercer plan de acción, y a partir de una reflexión sobre sus causas más profundas. Por ejemplo, entre las iniciativas se propuso cambiar el reglamento de la Asamblea Nacional, cosa que no figuraba previamente en el plan de acción. Además, en el laboratorio se pudo ampliar la convocatoria a más organizaciones y agentes clave de la sociedad civil y del Estado que no habían participado en el proceso anterior, lo que enriqueció la discusión con nuevos puntos de vista”.
