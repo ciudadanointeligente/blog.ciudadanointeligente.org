@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Ciudadanía y Estado contra la corrupción"
 single_image:
-  - img: "https://i.imgur.com/yJCYhdj.png"
+  - img: "https://i.imgur.com/Nu3Zg3K.jpg"
     caption: 
 ---
 ***La detención del ex presidente Martinelli, el escándalo Odebrecht y varios procesos judiciales estancados muestran una profunda crisis institucional en Panamá. El gobierno está tomando cartas en el asunto trabajando junto a importantes organizaciones de la sociedad civil, y con el apoyo de Fundación Ciudadano Inteligente, están dando una respuesta clara al problema: la corrupción se enfrenta colectivamente.***
