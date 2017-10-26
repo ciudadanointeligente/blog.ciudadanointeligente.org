@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Esto no es broma: la política puede ser buena. Acá te contamos por qué"
 single_image:
-  - img: "http://i.imgur.com/JdpO4NT.jpg"
+  - img: "https://i.imgur.com/acbGELj.jpg"
     caption:
 ---
 ***Y si no la odias, también. Porque aunque muchos crean que todos los políticos son ladrones y corruptos, acá te contamos 5 razones de porqué puede cambiar.***
