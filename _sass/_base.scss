@@ -1,6 +1,6 @@
 // Colors
 $blue: #080830;
-$lightblue: #74C5CD;
+$cyan: #74C5CD;
 $yellow: #F8B126;
 $magenta: #D3326F;
 $red: #E8453B;
@@ -13,10 +13,16 @@ body {
   font-family: 'Karla', sans-serif;
   background: #F8F8F9;
   color: #3B3B3B;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #main {
     margin-top: 110px;
+}
+
+.sign {
+    margin-top: -20px;
 }
 
 h1, h2, h3 {
@@ -28,7 +34,8 @@ h1 {
 }
 
 h2 {
-    margin-top: 4vw;
+  font-size: 28px;
+  line-height: 38px;
 }
 
 h3 {
@@ -46,14 +53,92 @@ a {
   color: $magenta;
   &:hover {
     color: darken($magenta, 10%);
+    text-decoration: none;
   }
 }
 
-// Extras
+// Colors
 
 .magenta {
   color: $magenta;
 }
+
+.bg-magenta {
+  background-color: $magenta;
+  color: white;
+  & a {
+    color: white;
+  }
+}
+
+.cyan {
+  color: $cyan;
+}
+
+.bg-cyan {
+  background-color: $cyan;
+  color: white;
+  & a {
+    color: white;
+  }
+}
+
+.red {
+  color: $red;
+}
+
+.bg-red {
+  background-color: $red;
+  color: white;
+  & a {
+    color: white;
+  }
+}
+
+.blue {
+  color: $blue;
+}
+
+.bg-blue {
+  background-color: $blue;
+  color: white;
+  & a {
+    color: white;
+  }
+}
+
+.participacion-ciudadana {
+  color: $magenta;
+}
+
+.bg-participacion-ciudadana {
+  background-color: $magenta;
+}
+
+.rinde-cuentas-o-fiscaliza {
+  color: $blue;
+}
+
+.bg-rinde-cuentas-o-fiscaliza {
+  background-color: $blue;
+}
+
+.informa-de-manera-efectiva {
+  color: $red;
+}
+
+.bg-informa-de-manera-efectiva {
+  background-color: $red;
+}
+
+.incidencia-estrategica {
+  color: $cyan;
+}
+
+.bg-incidencia-estrategica {
+  background-color: $cyan;
+}
+
 
 .text-width {
   max-width: 800px;
@@ -93,7 +178,7 @@ input {
     letter-spacing: 1px;
 }
 
-// Nav
+// Header
 
 .navbar-inverse {
     background-color: rgba(248, 248, 249, 0.9);
@@ -124,6 +209,8 @@ input {
     border-radius: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
+    right: 0;
+    left: auto;
 }
 
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
@@ -146,6 +233,31 @@ input {
     font-size: 24px;
 }
 
+// Menu Hero
+
+.menu {
+    margin-bottom: 5vw;
+}
+
+.menu-box {
+    padding: 1vw 2vw;
+    height: 400px;
+}
+
+.list-unstyled {
+    line-height: 28px;
+}
+
+.projects-list {
+  position: absolute;
+  bottom: 27px;
+}
+
+.btn-container {
+  position: absolute;
+  bottom: 47px;
+}
+
 // Box
 
 .panel {
@@ -157,7 +269,9 @@ input {
 }
 
 .panel-body {
-    padding: 3vw;
+    padding: 2vw;
+    height: 400px;
+    position: relative;
 }
 
 .panel-default {
@@ -173,6 +287,9 @@ input {
   &:hover {
     box-shadow: 0px 10px 60px 0px rgba(100, 97, 109, 0.6);
   }
+  &>.panel-heading{
+    border: none;
+  }
   &> .panel-heading.article-news {
     padding: 0px;
     &> .no-image-header{
@@ -182,22 +299,12 @@ input {
   }
 }
 
-// Newsletter
-
-section#newsletter {
-    padding: 7vw 0;
-}
-
-span.mc-field-group {
-    margin-right: -3px;
-}
-
-#newsletter .btn-primary {
-    padding: 1.5vw;
-    border-radius: 0px 6px 6px 0px;
-    font-family: 'Karla', sans-serif;
-    border: none;
-    background: $magenta;
+.btn-primary {
+  border: none;
+  color: white;
+  &:hover {
+    background-color: $gray;
+  }
 }
 
 // Post

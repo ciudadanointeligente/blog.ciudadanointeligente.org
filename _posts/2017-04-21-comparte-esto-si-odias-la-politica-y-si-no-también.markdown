@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "¡Comparte esto si odias la política! (y si no, también)"
-intro: "Que los políticos son corruptos, que son todos ladrones, que aunque vote nada va a cambiar, las razones para perder la esperanza en la política son muchas. Acá te damos cinco argumentos de por qué (en verdad) no es tan mala, y por qué eres fundamental para cambiarla"
+title:  "¡Comparte esto si odias la política!"
+intro: "Y si no la odias, también. Acá te damos cinco argumentos de por qué (en verdad) la política no es tan mala"
 date:   2017-04-21 12:00:00 -0300
 categories:
-  - Política
+  - "Informa de manera efectiva"
 highlighted: false
-share_message: "Revisa el blog de FCI"
+share_message: "Esto no es broma: la política puede ser buena. Acá te contamos por qué"
 single_image:
   - img: "http://i.imgur.com/JdpO4NT.jpg"
     caption:
 ---
+***Y si no la odias, también. Porque aunque muchos crean que todos los políticos son ladrones y corruptos, acá te contamos 5 razones de porqué puede cambiar.***
+
 ## Porque política no es lo mismo que políticos
 
 Si decimos política probablemente se te vengan a la cabeza ejemplares de la raza humana que dejan mucho que desear. Esos por los cuales los extraterrestres aún no hacen contacto con nosotros. Pero la política es mucho más que algunas personas que se dedican a ella. Por cada presidente, congresista, gobernador, que se ha descubierto robando, faltando a la ley, haciendo lo que no corresponde, hay miles de otros representantes, funcionarios, organizaciones que hacen las cosas como corresponde y luchan por defender el interés de todos. Conversar con amigos o familia de lo que nos preocupa o molesta respecto a la sociedad ya es política, así que si crees que no eres político o política, piénsalo dos veces.
@@ -35,5 +37,6 @@ A todos nos gusta ganar. Todo el que se ha visto hipotecando propiedades desespe
 
 <!--Algo de amigos, comunidad, malón, mesa de once-->
 
- Porque nos da sentido y razón
-Y ya que estamos listando beneficios, la política también ayuda a darle sentido a nuestras vidas. El individualismo, o la idea de que las necesidades de uno o una son más importantes que las de un colectivo, es la base de muchas de nuestras sociedades, y eso a veces nos puede dejar bastante tristes. Por más Facebook, Whatsapp y conexiones que tengamos, a veces nos sentimos irremediablemente solos. Por suerte, ¡hay salidas! La política te conecta con otros, te saca de la cama, te da motivo y ánimo para luchar. Estudios internacionales han mostrado que la soledad aumenta nuestro riesgo de morir en un 26%. Por eso, ¡vive más, involúcrate en política!
+## Porque nos da sentido y razón
+
+Y ya que estamos listando beneficios, la política también ayuda a darle sentido a nuestras vidas. El individualismo, o la idea de que las necesidades de uno o una son más importantes que las de un colectivo, es la base de muchas de nuestras sociedades, y eso a veces nos puede dejar bastante tristes. Por más Facebook, Whatsapp y conexiones que tengamos, a veces nos sentimos irremediablemente solos. Por suerte, ¡hay salidas! La política te conecta con otros, te saca de la cama, te da motivo y ánimo para luchar. Estudios internacionales han mostrado que la soledad [aumenta nuestro riesgo de morir en un 26%](http://www.semana.com/vida-moderna/articulo/la-soledad-aumenta-riesgo-de-muerte/421884-3). Por eso, **¡vive más, involúcrate en política!**

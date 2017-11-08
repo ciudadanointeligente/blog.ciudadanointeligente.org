@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  'Por qué creemos en la neutralidad en la red'
-intro: "Hoy 12 de julio es un día importante para Internet. El día ha sido escogido por usuarios y comunidades para luchar contra la censura de empresas que quieren terminar con la neutralidad en la red. Servicios como Amazon, Cloudflare, Twitter, Netflix y Reddit hacen un llamado a compartir el mensaje para que la neutralidad en la red siga existiendo."
+title:  'Es hora de luchar por la neutralidad web'
+intro: "Si no se mantiene libre y abierta, la Internet va a terminar reproduciendo las desigualdades del mundo offline."
 date:   2017-07-12 14:30:00 -0300
 categories:
+ - "Rinde cuentas o fiscaliza"
 highlighted: false
-share_message: "Revisa el blog de FCI"
+share_message: "¿Por qué la neutralidad web puede afectarnos? @ciudadanoi nos cuenta"
 single_image:
   - img: "https://68.media.tumblr.com/e1046a9c4e5c1df7f381a7eecdea2daf/tumblr_inline_ot017cICMU1uz8ttg_500.jpg"
     caption:
 ---
+***Si te dijeramos que hay empresas que pueden controlar lo que ves en Internet y qué tan rápido navegas, ¿nos creerías? Es verdad. El 12 de julio es un día importante para Internet, porque la fecha ha sido escogida por usuarios y comunidades para luchar contra la censura de grandes compañías que quieren terminar con la neutralidad en la red.***
+
 Neutralidad en la red (“net neutrality”) es un principio que busca proteger nuestro derecho a la libre expresión en la red. Porque entendemos que Internet es un espacio clave para el desarrollo de la vida pública, es importante que todas y todos tengamos acceso a ella y al debate que ahí se produce sin restricciones legales o de mercado.
 
 Muchas veces, las grandes compañías que proveen la mayoría de los servicios de red en el mundo enlentecen o bloquean sitios por razones políticas o comerciales (por ejemplo, para crear un cobro extra que te permita acceder o entrar más rápidamente).
@@ -35,13 +38,11 @@ La neutralidad de la red nos ayuda a que todxs tengamos acceso a los mismos cont
 No podemos mostrarnos indiferentes frente a una problemática que afecta a todo un territorio que no reconoce límites, y que es de las pocas instancias libres que han permitido la discusión de ideas donde todos somos pares.
 
 Más información en los siguientes enlaces:
-http://wradio.com.mx/programa/2017/07/11/asi_las_cosas/1499782773_044508.html
-https://www.derechosdigitales.org/11298/en-america-latina-tambien-debemos-defender-la-neutralidad-de-la-red/
-https://www.google.cl/search?q=neutralidad+de+red
-https://es.wikipedia.org/wiki/Neutralidad_de_red
-https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act
-https://es.wikipedia.org/wiki/PROTECT_IP_Act
-https://www.cloudflare.com/apps/net-neutrality
-https://www.eff.org/es/issues/net-neutrality
-https://www.fcc.gov/consumers/guides/open-internet
-https://www.reddit.com/r/blog/comments/6mtgtp/we_need_your_voice_as_we_continue_the_fight_for/
+
+[Programa de Radio W sobre neutralidad en la red](http://wradio.com.mx/programa/2017/07/11/asi_las_cosas/1499782773_044508.html)
+
+[Artículo de la ONG chilena Derechos Digitales](https://www.derechosdigitales.org/11298/en-america-latina-tambien-debemos-defender-la-neutralidad-de-la-red/)
+
+[Página de Wikipedia de la Stop Online Piracy Act](https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act)
+
+[Blog de Reddit sobre neutralidad](https://www.reddit.com/r/blog/comments/6mtgtp/we_need_your_voice_as_we_continue_the_fight_for/)

@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Blog Ciudadano Inteligente
-email: prensa@ciudadanointeligente.org
+title: Herramientas de Ciudadano Inteligente
+email: info@ciudadanointeligente.org
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.ciudadanointeligente.org" # the base hostname & protocol for your site
+url: "https://herramientas.ciudadanointeligente.org/" # the base hostname & protocol for your site
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente
 
