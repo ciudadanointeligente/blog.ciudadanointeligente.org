@@ -11,7 +11,7 @@ single_image:
   - img: https://i.imgur.com/44CDSBj.png
     caption: 
 ---
-***A menos de una semana de las elecciones 2017,  la Fundación Ciudadano Inteligente pone a disposición de la ciudadanía distintas herramientas tecnológicas que potencian la participación ciudadana informada. Vota Inteligente, la #MediaNaranja política e incluso una lista de Spotify para amenizar la votación están entre las alternativas que ofrece la ONG.
+***A menos de una semana de las elecciones 2017,  la Fundación Ciudadano Inteligente pone a disposición de la ciudadanía distintas herramientas tecnológicas que potencian la participación ciudadana informada. Vota Inteligente, la #MediaNaranja política e incluso una lista de Spotify para amenizar la votación están entre las alternativas que ofrece la ONG.***
 
 Son seis las herramientas digitales que la Fundación Ciudadano Inteligente ofrece estas elecciones para hacer el proceso de votaciones más fácil, cercano, y amigable. En un escenario de desconfianza hacia la política,es necesario fomentar una ciudadanía más empoderada e informada que se manifieste con fuerza en las elecciones del domingo 19 de noviembre. En este sentido, la Fundación Ciudadano Inteligente lanza herramientas para potenciar la participación ciudadana.
 
