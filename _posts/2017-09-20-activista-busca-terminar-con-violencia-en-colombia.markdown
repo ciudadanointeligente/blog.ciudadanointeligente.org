@@ -4,7 +4,7 @@ title: 'Una joven que lucha contra la violencia'
 intro: 'Con 19 años, Bibiana Quintero trabaja para que la violencia salga de la vida de la ciudadanía colombiana.'
 date: 2017-09-05 14:30:00 -0300
 categories:
-highlighted: true
+highlighted: false
 share_message: "Conoce aquí la historia de una activista que con 19 años lucha contra la violencia en Colombia (via @ciudadanoi)"
 single_image:
   - img: "https://i.imgur.com/hBajonI.jpg"
