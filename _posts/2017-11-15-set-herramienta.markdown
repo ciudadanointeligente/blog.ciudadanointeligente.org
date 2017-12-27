@@ -5,7 +5,7 @@ intro: 'Fácil. Un pack de herramientas como Vota Inteligente, la #MediaNaranja 
 date: 2017-11-15 12:00:00-0300
 categories:
   - "Política"
-highlighted: true
+highlighted: false
 share_message: 'Potenciamos la participación ciudadana informada. Vota Inteligente, la #MediaNaranja política e incluso una lista de Spotify serán de ayuda'
 single_image:
   - img: https://i.imgur.com/44CDSBj.png
