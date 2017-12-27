@@ -5,7 +5,7 @@ intro: 'Si eres líder y luchas para generar cambios sociales acá lo hacemos re
 date: 2017-12-13 14:30:00 -0300
 categories:
 - "Política"
-highlighted: false
+highlighted: true
 share_message: "Revisa el blog de FCI"
 single_image:
   - img: "https://i.imgur.com/4skfHhw.jpg"
