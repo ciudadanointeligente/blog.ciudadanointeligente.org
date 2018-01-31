@@ -2,7 +2,7 @@
 layout: post
 title: 'Chile debe transparencia presupuestaria'
 intro: 'Aplicamos la Open Budget Survey 2017 en Chile, y vimos cómo la ciudadanía necesita más participación.'
-date: 2017-09-22 12:00:00 -0300
+date: 2018-01-30 12:00:00 -0300
 categories: Proyectos
 highlighted: true
 share_message: "Ciudadano Inteligente aplicó la Encuesta de Presupuesto abierto 2017 en Chile. Estos son los resultados"
