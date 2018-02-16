@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/yxQPtkH.jpg"
     caption:
 ---
-**En las próximas semanas nos dejará nuestro querido director ejecutivo, Pablo Collada, que estuvo con nosotros por más de tres años y transformó de muchas buenas formas a Ciudadano Inteligente. Aquí nos deja algunas palabras de despedida y en el equipo desde ya le agradecemos por coraje, pasión y por creer (en el pensamiento y en la acción) que juntas y juntos somos más fuertes.**
+**En las próximas semanas nos dejará nuestro querido director ejecutivo, Pablo Collada, que estuvo con nosotros por casi cuatro años y transformó de muchas buenas formas a Ciudadano Inteligente. Aquí nos deja algunas palabras de despedida y en el equipo desde ya le agradecemos por coraje, pasión y por creer (en el pensamiento y en la acción) que juntas y juntos somos más fuertes.**
 
 
 
