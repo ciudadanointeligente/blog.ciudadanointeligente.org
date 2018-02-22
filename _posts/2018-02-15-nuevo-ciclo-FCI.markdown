@@ -4,13 +4,14 @@ title: 'Un nuevo ciclo en FCI'
 intro: 'Se va nuestro director ejecutivo, Pablo Collada, y aquí nos deja algunas palabras.' 
 date: 2018-02-15 14:30:00 -0300
 categories:
- - "Proyectos"
+  - "Proyectos"
 highlighted: false
 share_message: "Se abre un nuevo ciclo para la Fundación Ciudadano Inteligente"
 single_image:
   - img: "https://i.imgur.com/G81uF4n.jpg"
-    caption: Luchemos por democracias más fuertes
+    caption: "Luchemos por democracias más fuertes"
 ---
+
 **En las próximas semanas nos dejará nuestro querido director ejecutivo, Pablo Collada, que estuvo con nosotros por casi cuatro años y transformó de muchas buenas formas a Ciudadano Inteligente. Aquí nos deja algunas palabras de despedida y en el equipo desde ya le agradecemos por coraje, pasión y por creer (en el pensamiento y en la acción) que juntas y juntos somos más fuertes.**
 
 Queridas amigas y amigos, 
