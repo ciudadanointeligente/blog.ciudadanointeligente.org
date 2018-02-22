@@ -2,7 +2,7 @@
 layout: post
 title: 'Un nuevo ciclo en FCI'
 intro: 'Se va nuestro director ejecutivo, Pablo Collada, y aquí nos deja algunas palabras.' 
-date: 2017-02-15 14:30:00 -0300
+date: 2018-02-15 14:30:00 -0300
 categories:
  - "Proyectos"
 highlighted: false
