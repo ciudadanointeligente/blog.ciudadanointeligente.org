@@ -5,7 +5,7 @@ intro: 'Se va nuestro director ejecutivo, Pablo Collada, y aquí nos deja alguna
 date: 2017-02-15 14:30:00 -0300
 categories:
  - "Proyectos"
-highlighted: true
+highlighted: false
 share_message: "Se abre un nuevo ciclo para la Fundación Ciudadano Inteligente"
 single_image:
   - img: "https://i.imgur.com/G81uF4n.jpg"
