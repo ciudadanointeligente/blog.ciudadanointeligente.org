@@ -5,7 +5,7 @@ intro: 'La desigualdad de género es uno de los grandes desafíos que enfrenta e
 date: 2018-02-22 12:00:00-0300
 categories:
   - "Actualidad"
-highlighted: false
+highlighted: true
 share_message: 'La desigualdad de género es uno de los grandes desafíos que enfrenta el mundo'
 single_image:
   - img: https://i.imgur.com/Zbjjso3.jpg
