@@ -5,7 +5,7 @@ intro: "Chile se ha estancado en transparencia presupuestaria. Podemos mejorarlo
 date:   2017-01-30 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "¿Por qué la neutralidad web puede afectarnos? @ciudadanoi nos cuenta"
 single_image:
   - img: "https://imgur.com/a/WU7Ta"
