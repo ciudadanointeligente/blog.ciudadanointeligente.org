@@ -11,8 +11,12 @@ single_image:
   - img: "https://i.imgur.com/loaOB2x.png"
     caption: "Comienza un nuevo ciclo para nuestra organización: ¿Quieres ser parte de él?"
 ---
+
+
 Como [ya contábamos en nuestro blog](https://blog.ciudadanointeligente.org/proyectos/2018/02/15/nuevo-ciclo-FCI.html), después de casi cuatro años de intenso trabajo, nos deja Pablo Collada, actual director ejecutivo de Ciudadano Inteligente. Estamos en búsqueda de un nuevo liderazgo que no tema luchar contra la corrupción, que le apasionen las herramientas tecnológicas, y crea firmemente en la misión de mejorar las democracias de nuestra región. 
 
+
 ¿Crees que tienes lo que se necesita?
+
 
 Te invitamos a revisar [aquí el detalle de la convocatoria](http://bit.ly/convocatoriafci). **¡Postulaciones hasta el 11 de marzo!** 
