@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'Buscamos nueva dirección ejecutiva'
+title: 'Buscamos nueva dirección ejecutiva'
 intro: "Necesitamos a una persona apasionada por la democracia que quiera liderar Ciudadado Inteligente. ¿Te atreves?"
-date:   2018-02-24 14:30:00 -0300
+date: 2018-02-24 14:30:00 -0300
 categories:
  - "Proyectos"
 highlighted: true
