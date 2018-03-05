@@ -24,4 +24,4 @@ A tres años del estallido de los casos, el camino no ha sido fácil. Pronto van
 
 Creemos que ni en Chile, ni en el mundo, deben existir intocables frente a la justicia. Por eso le decimos no a la #OperaciónImpunidad. ¡Ayúdanos [compartiendo este video](https://youtu.be/FLVweoK150A)! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLVweoK150A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/FLVweoK150A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
