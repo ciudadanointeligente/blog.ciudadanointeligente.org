@@ -12,6 +12,8 @@ single_image:
     caption: Si ganan los poderosos, pierde la ciudadanía.
 ---
 ***En Chile, recurrimos a la justicia contra representantes políticos que financiaron ilegalmente sus campañas. Exigimos responsabilidades.*** 
+
+
 Hace aproximadamente tres años, algo inédito ocurrió en Chile. Se revelaron los casos de financiamiento ilegal de la política más importantes de las últimas décadas, y el país entero se enteró de que el vínculo entre las empresas, su dinero, y el Congreso chileno era más profundo y oscuro de lo que creíamos. 
 
 En esa coyuntura única (se hablaba de una de las crisis de la democracia más importantes en el país), en Ciudadano Inteligente nos dimos cuenta de que había que hacer algo. No había certeza de que las causas judiciales llegaran a buen puerto y se investigaran en profundidad, y temimos que se podía perder una oportunidad histórica de llegar a la verdad (por un lado) y de hacer cambios reales a la legislación que regula el financiamiento de la política (por otro). 
