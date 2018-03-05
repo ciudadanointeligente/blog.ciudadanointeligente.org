@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'No a la #OperaciónImpunidad'
-intro: 'En Chile, recurrimos a la justicia contra representantes políticos que financiaron ilegalmente sus campañas. Exigimos responsabilidades.'
+intro: 'En Chile, recurrimos a la justicia contra representantes políticos que financiaron ilegalmente sus campañas.'
 date: 2018-03-05 12:00:00-0300
 categories:
   - "Actualidad"
