@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Se abre un nuevo ciclo para la Fundación Ciudadano Inteligente"
 single_image:
-  - img: "https://i.imgur.com/G81uF4n.jpg"
+  - img: "https://i.imgur.com/fsBHWDg.png"
     caption: "Luchemos por democracias más fuertes"
 ---
 
