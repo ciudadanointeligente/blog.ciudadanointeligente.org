@@ -5,7 +5,7 @@ intro: 'En Chile, recurrimos a la justicia contra representantes políticos que 
 date: 2018-03-05 12:00:00-0300
 categories:
   - "Actualidad"
-highlighted: false
+highlighted: true
 share_message: '¿Qué tan cerca estamos de las decisiones de los gobierno?'
 single_image:
   - img: https://i.imgur.com/LKcJ8O5.png
