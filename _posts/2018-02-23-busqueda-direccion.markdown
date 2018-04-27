@@ -5,7 +5,7 @@ intro: "Necesitamos a una persona apasionada por la democracia que quiera lidera
 date: 2018-02-23 14:30:00 -0300
 categories:
  - "Proyectos"
-highlighted: true
+highlighted: false
 share_message: "En la ONG Ciudadano Inteligente buscan director/a ejecutivo/a ¿Crees que tiene lo que se necesita? Pincha aquí"
 single_image:
   - img: "https://i.imgur.com/loaOB2x.png"
