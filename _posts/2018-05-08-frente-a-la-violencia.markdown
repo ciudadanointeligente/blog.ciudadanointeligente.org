@@ -11,7 +11,7 @@ single_image:
   - img: https://i.imgur.com/YdGFGeq.jpg
     caption: Frente a la violencia, impulsamos el cambio social
 ---
-Para generar reales cambios sociales la receta no es compleja:  por un lado añades una fundación experimentada en metodologías de incidencia y súper motivada. Luego agregas líderes emergentes apasionados por una causa, y lo mezclas con un plan de trabajo colaborativo que permita avanzar hacia una solución. No tememos compartir una receta que sí funciona, es por esto que abrimos nuevamente una  convocatoria para la Escuela de Incidencia.
+***Para generar reales cambios sociales la receta no es compleja:  por un lado añades una fundación experimentada en metodologías de incidencia y súper motivada. Luego agregas líderes emergentes apasionados por una causa, y lo mezclas con un plan de trabajo colaborativo que permita avanzar hacia una solución. No tememos compartir una receta que sí funciona, es por esto que abrimos nuevamente una  convocatoria para la Escuela de Incidencia.***
 
 Porque sabemos que el cambio no llega solo, hace un par de años decidimos arriesgarnos y buscar líderes emergentes en Latinoamérica que lucharan por crear mejores sociedades y quisieran transformar las realidades de sus comunidades.  
 
