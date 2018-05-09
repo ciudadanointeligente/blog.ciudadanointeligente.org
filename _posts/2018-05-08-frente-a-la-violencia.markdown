@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frente a la violencia, impulsamos el cambio social'
+title: 'Una nueva fórmula para cambiar el mundo'
 intro: 'La Escuela de Incidencia busca a nuevos líderes que impulsen la acción colectiva y sueñen en grande.'
 date: 2018-05-08 12:00:00-0300
 categories:
