@@ -5,7 +5,7 @@ intro: 'A pesar del escándalo de Cambridge Analytica, Internet sigue siendo una
 date: 2018-05-02 12:00:00-0300
 categories:
   - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: '¿Internet: amenaza o potencia democrática?'
 single_image:
   - img: https://i.imgur.com/nT5iU1Y.jpg
