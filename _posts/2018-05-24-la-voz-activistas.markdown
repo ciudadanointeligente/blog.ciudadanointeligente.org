@@ -8,7 +8,7 @@ categories:
 highlighted: true
 share_message: 'La voz de los activistas no se apagará'
 single_image:
-  - img: https://i.imgur.com/ntfjfdx.jpg
+  - img: https://i.imgur.com/SfczJ2C.jpg
     caption: La voz de los activistas no se apagará
 ---
 
