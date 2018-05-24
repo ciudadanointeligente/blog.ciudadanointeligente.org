@@ -5,7 +5,7 @@ intro: 'La Escuela de Incidencia busca a nuevos líderes que impulsen la acción
 date: 2018-05-08 12:00:00-0300
 categories:
   - "Proyectos"
-highlighted: true
+highlighted: false
 share_message: 'Frente a la violencia, impulsamos el cambio social'
 single_image:
   - img: https://i.imgur.com/YdGFGeq.jpg
