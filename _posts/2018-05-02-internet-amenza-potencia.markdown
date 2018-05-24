@@ -11,7 +11,7 @@ single_image:
   - img: https://i.imgur.com/nT5iU1Y.jpg
     caption: Internet:amenaza o potencia democrática.
 ---
-El 28% de la población mundial tiene cuenta en Facebook, es decir 2,167 mil millones de personas según [We are social y Hootsuite](https://wearesocial.com/blog/2018/01/global-digital-report-2018). Un estudiante del MIT, Hachem Saddiki, explicó que para el 2098 existirán más cuentas de personas muertas que de personas vivas en Facebook. En este contexto, la empresa Cambridge Analytica robó datos de 87 millones de usuarios de Facebook ¿Preocupante? bastante.
+**El 28% de la población mundial tiene cuenta en Facebook, es decir 2,167 mil millones de personas según [We are social y Hootsuite](https://wearesocial.com/blog/2018/01/global-digital-report-2018). Un estudiante del MIT, Hachem Saddiki, explicó que para el 2098 existirán más cuentas de personas muertas que de personas vivas en Facebook. En este contexto, la empresa Cambridge Analytica robó datos de 87 millones de usuarios de Facebook ¿Preocupante? bastante.**
 
 En 2004, en el campus de la Universidad de Harvard nace Facebook, la red social más famosa del mundo. De hecho, es la época en la que aparecen la mayoría de los mastodontes digitales que ocupamos hoy: YouTube en 2005, Twitter en 2006, Instagram en 2010. Esta es la época de la web 2.0, una web distinta que creó la posibilidad de que los seres humanos pudieran interactuar entre sí. Y como en la vida real, las relaciones  humanas no siempre son tranquilas, estas redes tampoco lo son. Grandes debates han generado por el tratamiento masivo y abusivo de datos personales
 
