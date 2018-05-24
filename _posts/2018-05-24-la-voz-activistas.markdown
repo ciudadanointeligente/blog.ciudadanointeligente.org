@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La voz de los activistas no se apagará'
+title: 'La voz de activistas no se apagará'
 intro: 'En 2017, dos de cada tres activistas asesinados en el mundo eran de Latinoamérica. Es hora de que esto termine.'
 date: 2018-05-24 12:00:00-0300
 categories:
