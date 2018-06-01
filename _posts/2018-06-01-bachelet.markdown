@@ -1,0 +1,26 @@
+---
+layout: post
+title: 'Bachelet cumplió 50% de la Cuenta Pública'
+intro: 'Porque  una ciudadanía que fiscaliza y exige rendición de cuentas a sus autoridades crea mejores gobiernos.'
+date: 2018-06-01 12:00:00-0300
+categories:
+  - "Actualidad"
+highlighted: false
+share_message: 'Bachelet cumplió 50% de la Cuenta Pública'
+single_image:
+  - img: https://i.imgur.com/rGiIYSs.jpg
+    caption: Una ciudadanía que fiscaliza crea mejores gobiernos
+---
+**Nuestro estudio [Del Dicho al Hecho](https://deldichoalhecho.cl/) cifró en un 50% el avance del cumplimiento de las promesas hechas por la ex presidenta, Michelle Bachelet,  en su discurso de 2017. De 24 promesas legislativas hechas hace un año, sólo cinco han alcanzado el 100% de cumplimiento.** 
+
+Del Dicho al Hecho es una iniciativa que busca promover la rendición de cuentas de las autoridades públicas y la fiscalización ciudadana. Nuestra coordinadora metodológica, Laura Encalada, explicó que “las promesas enunciadas en el último discurso de rendición de cuentas de Michelle Bachelet fueron pocas y se encontraban alineadas con las prioridades fijadas por el gobierno para sus últimos meses de gestión. Y, si bien en el corto plazo se ven avances relevantes en temas que fueron prioridad del gobierno como educación, una de las grandes promesas del segundo periodo de Bachelet, la nueva constitución, quedó sin avances.”
+
+Los resultados muestran que de 24 promesas legislativas, sólo 5 fueron completadas en su totalidad. Estas son la creación del Ministerio de la Cultura y las Artes, la Despenalización interrupción del embarazo en tres causales, Ley SANNA y la eliminación distinción empleado y obreros en seguro de accidentes.
+ 
+Dentro de las promesas con 0% de avance, destacan la creación del mecanismo para mitigar lagunas en cotizaciones en caso de cesantía, la modernización de Cancillería y el establecimiento de un nuevo sistema de financiamiento estudiantil que reemplace al CAE. 
+
+Además, de los proyectos con avance parcial resaltan la división del SENAME en dos servicios: protección y reinserción, modernización de la dirección del trabajo y el que establece una nueva constitución, entre otros.
+
+“En medio de una de las crisis de confianza más profundas en la política chilena, la palabra empeñada debe valer más que nunca. Una democracia viva es una en la que la ciudadanía fiscaliza y exige la rendición de cuentas, y en la que las autoridades transparentan sus avances, obstáculos y desafíos en prometer lo que han cumplido”, destaca Colombina Schaeffer, subdirectora de Ciudadano Inteligente. 
+
+Los resultados completos y la metodología del estudio están disponibles en [www.deldichoalhecho.cl](https://deldichoalhecho.cl/) 
