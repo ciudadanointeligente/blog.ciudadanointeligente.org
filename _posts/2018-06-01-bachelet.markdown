@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bachelet cumplió 50% de la Cuenta Pública'
-intro: 'Porque  una ciudadanía que fiscaliza y exige rendición de cuentas a sus autoridades crea mejores gobiernos.'
+intro: 'Una ciudadanía que fiscaliza y exige rendición de cuentas a sus autoridades crea mejores gobiernos.'
 date: 2018-06-01 12:00:00-0300
 categories:
   - "Actualidad"
