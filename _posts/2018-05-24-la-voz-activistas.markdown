@@ -5,7 +5,7 @@ intro: 'En 2017, dos de cada tres activistas asesinados en el mundo eran de Lati
 date: 2018-05-24 12:00:00-0300
 categories:
   - "Política"
-highlighted: true
+highlighted: false
 share_message: 'La voz de los activistas no se apagará'
 single_image:
   - img: https://i.imgur.com/SfczJ2C.jpg
