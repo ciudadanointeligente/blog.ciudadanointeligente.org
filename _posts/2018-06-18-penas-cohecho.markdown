@@ -33,4 +33,4 @@ Desde Ciudadano Inteligente proponemos que las penas al cohecho se aumenten cons
 
 La nueva legislación tampoco resuelve una de las principales trabas que ha tenido el Ministerio Público para perseguir los casos Penta, SQM y Corpesca. Esto porque no incorpora una hipótesis de cohecho de mera actividad, es decir, que se puedan sancionar casos sin que sea necesario acreditar que ese pago en particular se hizo con la intención de conseguir alguna ventaja.
 
-Revisa [acá](https://docs.google.com/document/d/15FccD7KDVbK5HpQjMVFN-MV2mAi-M38TWwTLRNHkhw4/edit) nuestro informe y los países evaluados
+Revisa [acá](http://nomascohecho.cl/AnalisisSancionCohechoyCorrupcion.pdf) nuestro informe y los países evaluados
