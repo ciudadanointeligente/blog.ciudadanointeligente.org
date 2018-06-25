@@ -5,7 +5,7 @@ intro: 'Aquí comparamos cómo Chile sanciona el cohecho en relación a 16 país
 date: 2018-06-18 12:00:00-0300
 categories:
   - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: 'Chile: las menores penas al cohecho'
 single_image:
   - img: https://i.imgur.com/86xPwVD.jpg
