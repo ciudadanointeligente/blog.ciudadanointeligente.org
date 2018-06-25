@@ -13,7 +13,7 @@ single_image:
 ---
 **Fue un largo proceso de búsqueda por toda Latinoamérica y el mundo, con candidaturas muy competitivas y apasionadas. Finalmente, tenemos nueva Directora Ejecutiva. La guatemalteca Renata Ávila viene a liderar nuestra organización con una mirada que funde innovación, derechos, tecnología y trabajo internacional para fortalecer democracias.**
 
-Aunque ya está trabajando a toda máquina, nuestra directora, se incorporará desde el 5 de julio a nuestra oficina de Santiago, Chile, desde donde tenderá redes por toda la región y el mundo para seguir avanzando en nuestra misión. Primero, sí, tendrá que aprender a dominar los modismos chilenos, que según aprendió nuestro anterior director (el mexicano Pablo Collada), no son pocos.
+Aunque ya está trabajando a toda máquina, nuestra directora se incorporará desde el 5 de julio a nuestra oficina de Santiago, Chile, desde donde tenderá redes por toda la región y el mundo para seguir avanzando en nuestra misión. Primero, sí, tendrá que aprender a dominar los modismos chilenos, que según aprendió nuestro anterior director (el mexicano Pablo Collada), no son pocos.
 
 Renata es abogada internacional, licenciada de la Universidad Francisco Marroquín en Guatemala, máster en Derecho en Propiedad Intelectual de la Universidad de Turín (Italia), con estudios Derecho Internacional en La Haya.
 
