@@ -15,7 +15,7 @@ single_image:
 
 Aunque ya está trabajando a toda máquina, nuestra directora se incorporará desde el 5 de julio a nuestra oficina de Santiago, Chile, desde donde tenderá redes por toda la región y el mundo para seguir avanzando en nuestra misión. Primero, sí, tendrá que aprender a dominar los modismos chilenos, que según aprendió nuestro anterior director (el mexicano Pablo Collada), no son pocos.
 
-Renata es abogada internacional, licenciada de la Universidad Francisco Marroquín en Guatemala, máster en Derecho en Propiedad Intelectual de la Universidad de Turín (Italia), con estudios Derecho Internacional en La Haya.
+Renata es abogada internacional, licenciada de la Universidad Francisco Marroquín en Guatemala, máster en Derecho en Propiedad Intelectual de la Universidad de Turín (Italia), con estudios en Derecho Internacional en La Haya.
 
 Su trabajo ha estado a la vanguardia en temas de derechos humanos, tecnología, transparencia y justicia social. Lideró, junto al inventor de la Web, Sir Tim Berners-Lee, una campaña para la promoción del respeto a los Derechos Humanos en la Era Digital en más de 75 países, y asesoró a la Web Foundation en temas digitales por cinco años.
 
