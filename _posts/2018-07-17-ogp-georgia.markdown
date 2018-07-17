@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La democracia necesita gobiernos abiertos'
-intro: 'Los Estados sí pueden agilizarse y abrirse, ¡de eso se trata la iniciativa Alianza para el Gobierno Abierto!.'
+intro: 'Los Estados sí pueden agilizarse y abrirse, ¡de eso se trata la iniciativa Alianza para el Gobierno Abierto!'
 date: 2018-07-17 12:00:00-0300
 categories:
   - "Proyecto"
