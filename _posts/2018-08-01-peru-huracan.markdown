@@ -4,7 +4,7 @@ title: 'Perú en el ojo del huracán'
 intro: 'La corrupción no se detiene y arrasa en Perú'
 date: 2018-08-01 12:00:00-0300
 categories:
-  - "Proyecto"
+  - "Actualidad"
 highlighted: false
 share_message: 'La corrupción no se detiene y arrasa en Perú'
 single_image:
