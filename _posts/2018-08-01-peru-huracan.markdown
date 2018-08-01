@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: 'La corrupción no se detiene y arrasa en Perú'
 single_image:
-  - img: https://i.imgur.com/Q1Hug4Z.jpg
+  - img: https://i.imgur.com/gsldypV.jpg
     caption: La corrupción no se detiene y arrada en Perú
 ---
 ***Un nuevo escándalo de corrupción lastima una vez más la confianza de la ciudadanía peruana en sus instituciones.***
