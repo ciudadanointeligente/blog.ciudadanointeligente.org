@@ -26,3 +26,6 @@ En Perú, además,  el caso Odebrecht involucra [a varias otras personalidades p
 El escándalo Odebrecht no se detuvo en la frontera peruana. Hoy están implicados políticos de 12 países, entre ellos 10 son latinoamericanos. El monto de los actos de corrupción que la firma brasileña cometió en dichos países se estima en [788 millones de dólares estadounidenses](https://www.bbc.com/mundo/noticias-38410759). 
 
 Odebrecht, Lava Jato, Penta, SQM… Los casos de corrupción siguen estallando lo que daña gravemente la relación entre la ciudadanía y los poderes públicos de nuestra región. El [último informe de Transparencia Internacional](https://transparencia.org.es/wp-content/uploads/2018/02/america_ipc-2017.pdf) muestra que la mayoría de los países latinoamericanos se encuentran en niveles muy críticos en cuanto a la percepción de la corrupción de sus distintas instituciones. Y en este contexto, tienen mucha razón.
+
+La corrupción atenta contra nuestras democracias, sin embargo, no significa que debamos rendirnos. La indignación popular ya logró cambios históricos. Ahora debemos continuar la lucha porque juntxs somos más fuertes. En FCI seguiremos trabajando para combatir la corrupción y para construir sociedades donde el interés común prime siempre sobre los intereses particulares.
+
