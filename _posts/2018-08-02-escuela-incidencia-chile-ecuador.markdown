@@ -4,7 +4,7 @@ title: 'La incidencia colaborativa'
 intro: 'No basta sólo con fortalecer a activistas, sino que también debemos hacerlo en sector público.'
 date: 2018-08-02 12:00:00-0300
 categories:
-  - "Actualidad"
+  - "Proyecto"
 highlighted: false
 share_message: 'No basta sólo con fortalecer a activistas, sino que también debemos hacerlo en sector público'
 single_image:
