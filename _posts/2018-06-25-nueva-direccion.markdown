@@ -5,7 +5,7 @@ intro: "Llega la abogada guatemalteca Renata Ávila a liderar nuestra Fundación
 date:   2018-06-25 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "La fundación @ciudadanoi tiene nueva directora ejecutiva. ¡Conócela aquí!"
 single_image:
   - img: "https://i.imgur.com/Hgznta8.jpg"
