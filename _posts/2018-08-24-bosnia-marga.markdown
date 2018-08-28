@@ -5,7 +5,6 @@ intro: 'Viajamos hasta Bosnia-Herzegovina para conocer una realidad post-conflic
 date: 2018-08-24 12:00:00-0300
 categories:
   - "Proyecto"
-  - "Viajes"
 highlighted: false
 share_message: 'Un viaje hasta Bosnia-Herzegovina'
 single_image:
