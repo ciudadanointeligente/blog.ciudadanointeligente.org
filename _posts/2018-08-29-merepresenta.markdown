@@ -27,5 +27,3 @@ En Brasil, las mujeres constituyen el 51,8% de la población, pero sólo ocupan 
 Se trata de una situación grave que puede generar desconfianza y rechazo por parte de las poblaciones marginadas de la política. Así, para las elecciones que vienen, el 33% de las mujeres consideran votar blanco y el 8% están indecisas, cifras que sólo alcanzan el 23% y el 2% para los electores hombres, respectivamente. La mala representación es un problema grave para la participación y por ende para la democracia.
 
 Para una democracia en la cual cada uno y cada una se siente formar parte de un proyecto común, la política no puede dar la espalda a lo plural y diversa que es la ciudadanía. [#MeRepresenta](https://merepresenta.org.br) llegó para reconectar las preocupaciones de las y los representantes con las nuestras y luchar por una democracia justa e inclusiva.  
-
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=QtUHmuFFOt8" frameborder="0" allowfullscreen></iframe>
