@@ -5,7 +5,7 @@ intro: 'La movilización en favor del aborto legal en Argentina abre el camino p
 date: 2018-08-09 12:00:00-0300
 categories:
   - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: 'La movilización en favor del aborto legal en Argentina abre el camino para toda Latinoamérica.'
 single_image:
   - img: https://i.imgur.com/mIuV4wg.jpg
