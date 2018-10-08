@@ -4,7 +4,7 @@ title: 'Por unas elecciones que te representen'
 intro: 'Ni la polarización ni los escándalos detienen la participación ciudadana en Brasil con nuestra herramienta #MeRepresenta.'
 date: 2018-08-29 12:00:00 -0300
 categories: Proyectos
-highlighted: true
+highlighted: false
 share_message: "No basta con que pidan tu voto, las candidaturas deben representar. Conoce este proyecto de Ciudadano Inteligente en Brasil."
 single_image:
   - img: "https://i.imgur.com/L7ZAB59.jpg"
