@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/tqMJcIg.jpg"
     caption:
 ---
-Más de 48 millones de personas en Brasil acaban de votar por un ex militar que ha hecho declaraciones racistas, machistas y homofóbicas para que sea su Presidente. La campaña de primera vuelta fue tensa y polarizada. Estas señales nos preocupan por lo que significan para la sociedad brasileña, y la ciudadanía de nuestra región en general. 
+Más de 48 millones de personas en Brasil acaban de votar por un ex militar que ha hecho declaraciones racistas, machistas, homofóbicas y que detendrá cualquier moviemiento activista para que sea su Presidente. La campaña de primera vuelta fue tensa y polarizada. Estas señales nos preocupan por lo que significan para la sociedad brasileña, y la ciudadanía de nuestra región en general. 
 
 La campaña electoral brasileña fue precedida por una horrible alza en la violencia política, sobre todo [contra ciertos grupos desprotegidos](https://www.oas.org/es/cidh/prensa/comunicados/2018/209.asp). El asesinato de Marielle Franco fue la gota que rebalsó el vaso para la sociedad civil organizada, quien actuó para evitar nuevas muertes, pero esto no impidió una ola de polarización, tensión y agresión que dejó sus marcas en la cobertura mediática y en el debate público. La ciudadanía, que ya venía desesperanzada de la política y el sistema democrático en general, se enfrentó así a una de las elecciones más importantes de los últimos años. 
 
