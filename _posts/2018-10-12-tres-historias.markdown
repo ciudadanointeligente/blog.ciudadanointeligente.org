@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/U35ILeF.jpg"
     caption:
 ---
-*Scroll down for post in English 
+*Scroll down for post in English* 
 
 Durante la primavera del hemisferio norte de 2018 Margarita Maira, nuestra coordinadora de proyectos, tuvo la  oportunidad de hacer una residencia de cuatro meses en el National Endowment for Democracy.
 
