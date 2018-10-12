@@ -25,7 +25,7 @@ Para que las democracias del futuro sean más inclusivas y escuchen, entre otros
 
 Para dudas o comentarios no duden en contactar a mmaira@ciudadanointeligente.org
 
-![Three Fearless Youths](https://i.imgur.com/REKtrAd.png)
+![Three Fearless Youths](https://i.imgur.com/f8SASvO.png)
 
 ___________________________________________________________________________________________
 
@@ -41,4 +41,4 @@ So that future democracies are more inclusive and take into account the younger 
 
 For doubts or comments do not hesitate to contact mmaira@ciudadanointeligente.org
 
-![Three Fearless Youths](https://i.imgur.com/PlV584p.png)
+![Three Fearless Youths](https://i.imgur.com/Vz9R1fo.png)
