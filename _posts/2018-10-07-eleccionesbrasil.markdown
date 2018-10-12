@@ -5,7 +5,7 @@ intro: "Los resultados de las elecciones generales requieren que la sociedad civ
 date:   2018-10-07 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "¿Por qué el resultado de las #EleccionesBrasil es peligroso para la democracia? Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: "https://i.imgur.com/tqMJcIg.jpg"
