@@ -37,4 +37,6 @@ During her time as a fellow she dove deep into three cases of youth-led advocacy
 
 So that future democracies are more inclusive and take into account the younger generations, we offer you her piece [Three Fearless Youths](http://bit.ly/FearlessYouths).
 
+For doubts or comments do not hesitate to contact mmaira@ciudadanointeligente.org
+
 ![Three Fearless Youths](https://i.imgur.com/zrwfkTH.png)
