@@ -11,6 +11,8 @@ single_image:
   - img: "https://i.imgur.com/U35ILeF.jpg"
     caption:
 ---
+*Scroll down for post in English 
+
 Durante la primavera del hemisferio norte de 2018 Margarita Maira, nuestra coordinadora de proyectos, tuvo la  oportunidad de hacer una residencia de cuatro meses en el National Endowment for Democracy.
 
 La Hurford Youth Fellowship lleva todos los años a un par de activistas de la democracia de distintas partes del mundo a desarrollar un proyecto propio desde Washington DC. Era una oportunidad que debíamos tomar y estar presentes en una de las capitales mundiales de la política, las organizaciones internacionales y las ONG para entender mejor la participación política de jóvenes. Específicamente, cómo habían logrado casos emblemáticos su éxito, incidiendo en políticas públicas.
