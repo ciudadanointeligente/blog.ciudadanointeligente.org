@@ -23,7 +23,7 @@ Para que las democracias del futuro sean más inclusivas y escuchen, entre otros
 
 Para dudas o comentarios no duden en contactar a mmaira@ciudadanointeligente.org
 
-![Three Fearless Youths](https://i.imgur.com/CgAzF8T.jpg)
+![Three Fearless Youths](https://i.imgur.com/yVBJNT7.png)
 
 ___________________________________________________________________________________________
 
@@ -37,4 +37,4 @@ During her time as a fellow she dove deep into three cases of youth-led advocacy
 
 So that future democracies are more inclusive and take into account the younger generations, we offer you her piece [Three Fearless Youths](http://bit.ly/FearlessYouths).
 
-![Three Fearless Youths](https://i.imgur.com/yzrr43C.jpg)
+![Three Fearless Youths](https://i.imgur.com/zrwfkTH.png)
