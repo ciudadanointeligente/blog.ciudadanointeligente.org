@@ -5,7 +5,7 @@ intro: "Tres historias en tres continentes de jóvenes que cambiaron el mundo."
 date:   2018-10-07 14:30:00 -0300
 categories:
  - "Proyecto"
-highlighted: true
+highlighted: false
 share_message: "Tres historias en tres continentes de jóvenes que cambiaron el mundo. Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: "https://i.imgur.com/U35ILeF.jpg"
