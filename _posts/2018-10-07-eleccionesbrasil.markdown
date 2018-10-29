@@ -22,7 +22,7 @@ La democracia debe ser un sistema de gobierno que reivindica la diferencia, siem
 La respuesta no es fácil ni es simple, pero su abordaje, desde espacios como el nuestro, es urgente, con ocho elecciones en el 2019 y similares tendencias.  Extendemos una invitación a aquellos que quieran explorarla junto a nosotros y actuar desde nuestras capacidades institucionales, una vez entendamos mejor el problema. Cuanto antes, mejor. Cuantos más, más fuertes. 
 
 En las próximas semanas, desde nuestras oficinas en Rio y en Santiago estaremos velando porque la población pueda tener mecanismos transparentes para informarse en su voto en la segunda vuelta  y pedimos formalmente a las autoridades de Brasil así como a la comunidad internacional, a los organismos regionales e internacionales, y a los medios, que adopten las siguientes medidas:
-* Demandar que el el gobierno actual garantice la seguridad de las minorías electas. 
+* Demandar que el gobierno actual garantice la seguridad de las minorías electas. 
 
 * Que se active de inmediato un mecanismo de   monitoreo internacional constante del respeto a los derechos de las mujeres, así como se proteja  el funcionamiento e institucionalidad de quienes luchan por su protección, respetando la prohibición de regresividad en materia de derechos sociales.  
 
