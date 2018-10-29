@@ -15,7 +15,7 @@ single_image:
 
  
 
-La legislación chilena actual castiga con igual severidad el robo del pelaje de un animal que el aceptar dinero de un privado para actuar en su favor, estando en función pública. Un análisis de la [Fundación Ciudadano Inteligente](https://ciudadanointeligente.org/), en el marco de su proyecto [No Más Cohecho](https://nomascohecho.cl/), comparó las penas con las que se castiga el cohecho en nuestro país versus otras naciones de la región y el mundo.
+La legislación chilena actual castiga con igual severidad el robo del pelaje de un animal que el aceptar dinero de un privado para actuar en su favor, estando en función pública. En [Fundación Ciudadano Inteligente](https://ciudadanointeligente.org/) realizado un análisis, en el marco de nuestro proyecto [No Más Cohecho](https://nomascohecho.cl/), y comparamos las penas con las que se castiga el cohecho en nuestro país versus otras naciones de la región y el mundo.
 
  
 
@@ -23,7 +23,7 @@ Nuestro análisis reveló que de 17 países analizados, Chile se encuentra en el
 
  
 
-En caso de que se apruebe el proyecto de ley que hoy se discute en el Congreso, la posición de Chile en el ranking no cambiaría sustancialmente, puesto que sólo subiría al lugar número 15. Para Octavio Del Favero, coordinador legislativo de Ciudadano Inteligente, “el aumento que se propone en el proyecto de ley es absolutamente insuficiente. Los cambios propuestos están lejos de alcanzar los estándares internacionales y de permitir que se obtengan condenas efectivas de acuerdo a nuestro sistema penal”.
+En caso de que se apruebe el proyecto de ley que hoy se discute en el Congreso, la posición de Chile en el ranking no cambiaría sustancialmente, puesto que sólo subiría al lugar número 15. Para Octavio Del Favero, nuestro coordinador legislativo “el aumento que se propone en el proyecto de ley es absolutamente insuficiente. Los cambios propuestos están lejos de alcanzar los estándares internacionales y de permitir que se obtengan condenas efectivas de acuerdo a nuestro sistema penal”.
 
  
 
