@@ -23,7 +23,7 @@ La democracia no debe ser una herramienta por la que discursos de odio llegan al
 
 * **Promover el diálogo ciudadano y la formación cívica digital:** Debemos ejecutar acciones encaminadas a reducir la confrontación, promover el diálogo y reducir la polarización entre la ciudadanía, incluyendo la libertad de expresión, trabajo para mejorar el ecosistema informativo y la formación cívica, especialmente digital. 
 
-* **Apoyar a los nuevos liderazgos políticos electos**, para que éstos, desde la oposición, defiendan los derechos de la población brasileña, e impidan retrocesos de los mismos, así como desmantelamiento institucional. De esta forma se puede ir, de forma gradual, rescatando a los partidos políticos. Es fundamental también garantizar su seguridad.
+* **Apoyar a los liderazgos políticos que defienden los Derechos Humanos**, para que la defensa de derechos de la población brasileña se haga también desde las instituciones formales, se impidan el retroceso de los mismos y el desmantelamiento institucional. De esta forma se puede ir, de forma gradual, rescatando a los partidos políticos. Es fundamental también garantizar su seguridad.
 
 * **Monitorear a la administración de Bolsonaro:** un Observatorio de Derechos y Políticas Públicas que permita vigilar áreas prioritarias, evitar el posible retroceso en temas clave para orientar acciones y movilizaciones para impedir un retroceso de derechos e impulsar una agenda positiva. 
 
