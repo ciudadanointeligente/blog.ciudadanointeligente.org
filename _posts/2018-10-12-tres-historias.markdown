@@ -2,7 +2,7 @@
 layout: post
 title:  'Inspiración de tres rincones del mundo'
 intro: "Tres historias en tres continentes de jóvenes que cambiaron el mundo."
-date:   2018-10-07 14:30:00 -0300
+date:   2018-10-10 14:30:00 -0300
 categories:
  - "Proyecto"
 highlighted: false
