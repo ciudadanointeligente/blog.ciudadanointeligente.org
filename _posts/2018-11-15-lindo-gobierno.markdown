@@ -31,6 +31,7 @@ Los aprendizajes de este proceso son varios, pero queremos compartir dos en espe
 
 * Vale la pena confiar, ceder poder y abrir los gobiernos. La transparencia, la rendición de cuentas y la participación ciudadana no pueden seguir siendo promesas vacías. Ejemplos como este demuestran que la apertura trae consigo resultados provechosos para todas y todos.
 
+
 ### ¿Qué es Abre Peñalolén?
 
 Abre Peñalolén es un proyecto que Ciudadano Inteligente desarrolló en alianza con dicha municipalidad, el cual busca facilitar a los municipios herramientas y canales para abrir desafíos de ideación, diseño e implementación de políticas y programas municipales a la comunidad.
