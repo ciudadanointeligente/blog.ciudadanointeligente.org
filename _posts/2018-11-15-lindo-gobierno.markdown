@@ -9,7 +9,7 @@ highlighted: true
 share_message: "¿Cómo hacemos gobiernos más abiertos? Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: "https://i.imgur.com/jLIqjg4.jpg"
-    caption: créditos a www.flickr.com/mineduc
+    caption: Foto de www.flickr.com/mineduc
 ---
 El pasado 7 de noviembre, la Municipalidad de Peñalolén (comuna del sector oriente de Santiago de Chile, caracterizada por su diversidad cultural y socioeconómica) celebró la ceremonia de premiación del concurso [Proyecto Ciudadano Medioambiental](https://penalolen.tumunicipio.org/problems/4), una iniciativa que reunió propuestas de decenas de colegios de la comuna para abordar el problema de la acumulación de microbasurales en el territorio.
 
