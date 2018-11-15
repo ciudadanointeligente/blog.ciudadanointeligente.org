@@ -2,7 +2,7 @@
 layout: post
 title:  'Brazil Chose Bolsonaro. Now What?'
 intro: "Now citizens play a crucial role in protecting democracy."
-date:   2018-10-26 14:30:00 -0300
+date:   2018-07-20 14:30:00 -0300
 categories:
  - "Actualidad"
 highlighted: false
