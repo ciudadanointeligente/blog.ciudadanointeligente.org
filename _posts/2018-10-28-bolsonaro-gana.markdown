@@ -5,7 +5,7 @@ intro: "Ahora la ciudadanía juega un rol crucial para proteger la democracia."
 date:   2018-10-28 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "¿Por qué el resultado de las #EleccionesBrasil es peligroso para la democracia? Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: "https://i.imgur.com/5yNwVhm.jpg"
