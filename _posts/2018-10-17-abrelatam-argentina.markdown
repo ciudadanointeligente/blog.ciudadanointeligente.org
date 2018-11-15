@@ -4,7 +4,7 @@ title:  'Un viaje por los datos abiertos'
 intro: "Buenos Aires fue el escenario de los datos abiertos y nosotras fuimos parte de todos los encuentros"
 date:   2018-10-17 14:30:00 -0300
 categories:
- - "Actualidad"
+ - "Colaboración"
 highlighted: false
 share_message: "La semana latinomaericana de datos abierto. Aquí te lo cuenta @ciudadanoi"
 single_image:
