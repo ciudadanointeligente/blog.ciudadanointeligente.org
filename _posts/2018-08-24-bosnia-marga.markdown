@@ -4,7 +4,7 @@ title: 'Lenguajes universales'
 intro: 'Viajamos hasta Bosnia-Herzegovina para conocer una realidad post-conflicto y su parecido a Latinoamérica.'
 date: 2018-08-24 12:00:00-0300
 categories:
-  - "Proyecto"
+  - "Colaboración"
 highlighted: false
 share_message: 'Un viaje hasta Bosnia-Herzegovina'
 single_image:
