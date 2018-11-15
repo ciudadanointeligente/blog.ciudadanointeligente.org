@@ -4,7 +4,7 @@ title: 'El poder de la ciudadanía está en la calle'
 intro: 'La movilización en favor del aborto legal en Argentina abre el camino para toda Latinoamérica.'
 date: 2018-08-09 12:00:00-0300
 categories:
-  - "Colaboración"
+  - "Actualidad"
 highlighted: false
 share_message: 'La movilización en favor del aborto legal en Argentina abre el camino para toda Latinoamérica.'
 single_image:
