@@ -5,7 +5,7 @@ intro: "Cuando los gobiernos se atreven a compartir las decisiones con la ciudad
 date:   2018-11-15 14:30:00 -0300
 categories:
  - "Proyecto"
-highlighted: true
+highlighted: false
 share_message: "¿Cómo hacemos gobiernos más abiertos? Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: "https://i.imgur.com/jLIqjg4.jpg"
