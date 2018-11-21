@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Están abduciendo la demcracia'
-intro: "Viajamos hasta Washington D.C y acá la bitácora"
+title:  'Están abduciendo la democracia'
+intro: "Viajamos hasta EEUU con un propósito, pero que terminó mostrando las grietas de la democracia."
 date:   2018-11-15 14:30:00 -0300
 categories:
  - "Proyecto"
