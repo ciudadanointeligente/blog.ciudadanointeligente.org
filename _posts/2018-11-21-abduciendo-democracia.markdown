@@ -11,7 +11,7 @@ single_image:
   - img: "https://i.imgur.com/DG4VkSf.jpg"
     caption: 
 ---
-***Relato escrito por nuestro Coordinador Legislativo, Octavio Del Favero.***
+***Relato escrito por nuestro Coordinador de Incidencia, Octavio Del Favero.***
 
 La democracia es un sistema de gobierno que celebra las diferencias y propone diálogos. Que crea mejores vidas, más justas, con más derechos y que distribuye el poder para que todas las voces sean escuchadas. Con esta convicción viajé en representación de FCI a Washington DC, el centro de la política mundial, donde gobiernos, organismos internacionales, corporaciones y grandes ONGs negocian y debaten el orden mundial, para participar del Digital Trade Training organizado por [Public Citizen](https://www.citizen.org/).
 
