@@ -5,7 +5,7 @@ intro: "Atención Perú y Guatemala: abrimos nuevamente una convocatoria para la
 date:   2018-11-19 14:30:00 -0300
 categories:
  - "Proyecto"
-highlighted: true
+highlighted: false
 share_message: "Abrimos una nueva convocatoria. Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: "https://i.imgur.com/GXY8efc.jpg"
