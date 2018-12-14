@@ -4,7 +4,7 @@ title:  'Una decisión necesaria'
 intro: "En FCI decidimos restarnos del concurso del Gobierno de Chile “Impacta Migraciones 2018”. Acá el porqué."
 date:   2018-12-14 14:30:00 -0300
 categories:
- - "Actualida"
+ - "Actualidad"
 highlighted: false
 share_message: "Decidimos restarnos del concurso del Gobierno de Chile “Impacta Migraciones 2018”. Desde @ciudadanoi el porqué"
 single_image:
