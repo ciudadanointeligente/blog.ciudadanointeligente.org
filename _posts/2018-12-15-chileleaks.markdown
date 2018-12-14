@@ -2,7 +2,7 @@
 layout: post
 title:  '¡Lanzamos ChileLeaks y fue un éxito!'
 intro: "Creamos una plataforma única para denunciar la corrupción de manera anónima y segura."
-date:   2018-12-01 14:30:00 -0300
+date:   2018-12-14 14:30:00 -0300
 categories:
  - "Proyecto"
 highlighted: true
