@@ -5,7 +5,7 @@ intro: "Un nuevo gobierno, un nuevo México que invita y habilita a la ciudadan�
 date:   2018-12-01 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "Un nuevo gobierno, un nuevo México que invita y habilita a la ciudadanía a participar. Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: https://i.imgur.com/LjtvKmF.jpg
