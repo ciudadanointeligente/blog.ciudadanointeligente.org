@@ -5,7 +5,7 @@ intro: "Creamos una plataforma única para denunciar la corrupción de manera an
 date:   2018-12-14 14:30:00 -0300
 categories:
  - "Proyecto"
-highlighted: true
+highlighted: false
 share_message: "Chileleaks:plataforma para denunciar la corrupción de manera anónima y segura. Aquí te lo cuenta @ciudadanoi"
 single_image:
   - img: https://i.imgur.com/KCV09aL.jpg
