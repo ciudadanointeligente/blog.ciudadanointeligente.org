@@ -25,7 +25,7 @@ Además, nuestra directora agregó sobre el nuevo directorio que "me gustaría r
 
 Se viene un año movido para FCI. Durante 2019, nuestra organización estará enfocada no sólo en monitorear y potenciar los procesos electorales de Latinoamérica (9 durante el año), sino que también en explorar soluciones para abordar las amenazas a nuestros sistemas democráticos post electorales como: los discursos de odio, la desigualdad digital, la baja representación de sectores desplazados y la necesidad de trabajar por una ciudadanía del futuro. 
 
-Revisa nuestro video del porqué nos cambiamos de nombre y que cuenta con la música de la cantante y compositora Mariel Villagra, que se presentó en Chile como Mariel y más tarde en México como Mariel Mariel. 
+Revisa nuestro video del porqué nos cambiamos de nombre y que cuenta con la música de la cantante y compositora Mariel Villagra, que se presentó en Chile como Mariel y más tarde en México como [Mariel Mariel](http://marielmariel.com/). 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ptCPZVIjjzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
