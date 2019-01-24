@@ -5,7 +5,7 @@ intro: "Aquí proponemos 3 puntos para garantizar la seguridad de todas las pers
 date:   2019-01-24 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "Tres puntos clave para la crisis en Venezuela.Revisa @ciudadaniai"
 single_image:
   - img: https://i.imgur.com/dBLDBfB.jpg
