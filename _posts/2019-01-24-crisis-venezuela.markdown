@@ -17,5 +17,5 @@ El Estado de Venezuela debe abstenerse de cualquier acción que restrinja el eje
 
 * Los líderes políticos de Venezuela deben agotar **la diplomacia y el diálogo**. Es urgente que, de manera responsable, y con el apoyo ofrecido por países neutrales, encuentren una solución pacífica y democrática a la crisis que el país se encuentra. 
 
-* Pedimos **congruencia y solidaridad** de los países que están preocupados con la crisis venezolana. Su rol primordial debe ser humanitario y facilitador de diálogo, tanto protegiendo los derechos de la población venezolana que ha migrado a sus países , abrir fronteras y agotar los medios pacíficos para evitar una crisis humanitaria de mayores dimensiones. 
+* Pedimos **congruencia y solidaridad** de los países que están preocupados con la crisis venezolana. Su rol primordial debe ser humanitario y facilitador de diálogo; abrir fronteras, protegiendo los derechos de la población venezolana que ha migrado a sus países, y agotar los medios pacíficos para evitar una crisis humanitaria de mayores dimensiones. 
 
