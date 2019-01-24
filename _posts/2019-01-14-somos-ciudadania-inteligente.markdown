@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'SOMOS CIUDADANÍA INTELIGENTE'
+title:  'Somos Ciudadanía Inteligente'
 intro: "Cambiamos nuestro nombre corrigiendo así un sesgo histórico y buscando promover la igualdad de género."
 date:   2019-01-14 14:30:00 -0300
 categories:
