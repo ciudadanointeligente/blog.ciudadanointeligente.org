@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Un laboratorio electoral en Ecuador'
-intro: "Ecuador elige autoridades en marzo. Acá te contamos sobre la nueva versión de nuestra herramienta Ecuador Decide"
+intro: "Ecuador elige autoridades en marzo. Acá te contamos sobre la nueva versión de nuestra herramienta Ecuador Decide."
 date:   2019-01-23 15:00:00 -0300
 categories:
  - "Proyecto"
