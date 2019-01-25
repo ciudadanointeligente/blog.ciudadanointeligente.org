@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'La importancia de la diversidad en democracia'
-intro: "Proponemos 4 puntos para revertir la situación del diputado Jean Wyllys en Brasil."
+title:  'La diversidad en nuestras democracias'
+intro: "Quatro pontos para reverter a situação de Jean Wyllys e da comunidade LGBT + no Brasil."
 date:   2019-01-25 16:00:00 -0300
 categories:
  - "Actualidad"
