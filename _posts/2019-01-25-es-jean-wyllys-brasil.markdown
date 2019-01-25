@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'La diversidad en nuestras democracias'
+title:  'Amenaza a la diversidad en Brasil'
 intro: "Cuatro puntos para revertir la situación de Jean Wyllys y la comunidad LGBT+ en Brasil."
 date:   2019-01-25 16:00:00 -0300
 categories:
