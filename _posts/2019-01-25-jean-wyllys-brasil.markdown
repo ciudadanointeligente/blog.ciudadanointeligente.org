@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Jean Wyllys: La necesidad de defender la diversidad en nuestras democracias'
-intro: "Solidarizamos con el diputado brasileó y proponemos 4 puntos para revertir la situación."
+title:  'Jean Wyllys: La diversidad en democracia'
+intro: "Solidarizamos con el diputado brasilero y proponemos 4 puntos para revertir la situación."
 date:   2019-01-25 16:00:00 -0300
 categories:
  - "Actualidad"
