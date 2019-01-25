@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Jean Wyllys: Defendamos la diversidad en democracia'
-intro: "Solidarizamos con el diputado brasilero y proponemos 4 puntos para revertir la situación."
+title:  'La importancia de la diversidad en democracia'
+intro: "Proponemos 4 puntos para revertir la situación del diputado Jean Wyllys en Brasil."
 date:   2019-01-25 16:00:00 -0300
 categories:
  - "Actualidad"
@@ -32,7 +32,8 @@ O Brasil é um dos países no mundo que mais coleta a morte de pessoas LGBT+ em 
 A FCI presta todo apoio ao parlamentar por assumir, David Miranda, militante LGBT+ negro e atual vereador pelo Rio de Janeiro. É de máxima importância não só das autoridades brasileiras, mas dos partidos, parlamentares e da cidadania a união em defender e garantir que a pluralidade social possa existir, respeitando-se a subjetividade e vida de toda e qualquer pessoa. Acreditamos que uma democracia saudável abraça a diversidade social e respeita a oposição e o debate. 
 
 - - - 
-Texto en español
+
+[Texto en español]
 
 **El pasado miércoles, Brasil fue asolado con la noticia de la renuncia del diputado federal Jean Wyllys (PSOL-RJ), el único representante de la comunidad LGBT+ en el congreso. La reacción del presidente Bolsonaro y su familia tornan preocupante la seriedad con la que su gobierno trata este tipo de cuestiones.**
 
