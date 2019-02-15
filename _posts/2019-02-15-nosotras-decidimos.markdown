@@ -9,7 +9,7 @@ highlighted: false
 share_message: "Nosotras decidimos. Revisa nuestra experiencia en Guatemala"
 single_image:
   - img: https://i.imgur.com/2W3qMXI.jpg
-    caption: Wendy Andrade, Rio de Janeiro 2018
+    caption: Foto de Wendy Andrade, Rio de Janeiro 2018. (http://mulheresnegrasdecidem.org/)
 ---
 En cuatro meses Guatemala decidirá quién ocupará, durante los próximos cuatro años, los cargos electivos del ejecutivo y legislativo en el país. Desde el 2015, cuando miles de personas salieron a las calles para protestar contra la corrupción, el país centroamericano vive en medio de una crisis política. En este contexto nuestra Coordinadora de Incidencia Regional, Ana Carolina Lourenço, viajo hasta la Ciudad de Guatemala para reunir y transferir herramientas de participación para organizaciones de la sociedad civil y activistas feministas. Después de días intensos de trabajo, Ana Carolina volvió esperanzada con la posibilidad de que la ciudadanía, y en especial las mujeres guatemaltecas, puedan asumir el protagonismo de los cambios políticos necesarios para el país.
 
