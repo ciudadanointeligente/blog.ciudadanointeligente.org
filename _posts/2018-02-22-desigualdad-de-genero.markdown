@@ -15,7 +15,7 @@ single_image:
 
 Como Fundación Ciudadanía Inteligente entendemos que las manifestaciones de esta relación asimétrica entre hombres y mujeres, y entre grupos heteronormativos y gays, lesbianas, trans, bisexuales e intersexuales horadan nuestra democracia. Aspirando a una sociedad donde todas las voces tienen cabida, nos parece necesario e imperante atender esta desigualdad que margina a sectores de la sociedad bajo supuestos enteramente infundados.
 
-Esta asimetría nos compete específicamente también, en cuanto toca nuestro trabajo. En Ciudadano Inteligente luchamos por empoderar a la ciudadanía y a la sociedad civil, creyendo en la absoluta paridad de condiciones respecto de aquellos sectores históricamente hegemónicos.
+Esta asimetría nos compete específicamente también, en cuanto toca nuestro trabajo. En Ciudadanía Inteligente luchamos por empoderar a la ciudadanía y a la sociedad civil, creyendo en la absoluta paridad de condiciones respecto de aquellos sectores históricamente hegemónicos.
 
 Parte de nuestra misión es democratizar las reglas del juego y es por esto que tanto en la agenda pública, como en la gubernamental buscamos que todas y todos tengan representación. Además, creemos que el poder debe redistribuirse para terminar con la extrema concentración en altas cúpulas estatales, y al hacerlo, debe reencausarse en igualdad, atendiendo en particular a mujeres y minorías sexuales para comenzar a reparar una postergación histórica. La participación ciudadana realmente activa y vinculante es necesaria, involucrando a todos los sectores de la sociedad.
 
