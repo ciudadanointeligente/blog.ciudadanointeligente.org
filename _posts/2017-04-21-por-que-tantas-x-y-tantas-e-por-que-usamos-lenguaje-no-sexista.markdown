@@ -6,7 +6,7 @@ date:   2017-04-21 12:00:00 -0300
 categories:
   - "La Fundación"
 highlighted: false
-share_message: "La Fundación Ciudadano Inteligente decidió usar lenguaje no sexista. Aquí el porqué"
+share_message: "La Fundación Ciudadanía Inteligente decidió usar lenguaje no sexista. Aquí el porqué"
 single_image:
   - img: "https://i.imgur.com/p2eKuch.jpg"
     caption:
@@ -17,7 +17,7 @@ Amigues, compañerxs, latinoamericanxs todxs: Sabemos que, a muchas y muchos, es
 
 Para partir, tenemos que explicitar nuestro diagnóstico. La desigualdad de género en el mundo es brutal, y el lenguaje no está libre de esta inequidad. Muchas de las formas en las que hablamos y escribimos en español invisibilizan a las mujeres o a quienes no se identifican con los géneros masculino o femenino.
 
-La llegada a la Fundación de [Eglé Flores (nuestra Coordinadora Regional en temas de Herramientas de Facilitación e Incidencia)](https://ciudadanointeligente.org/#sobre-nosotros), quien tiene experiencia en estas materias, nos hizo darnos cuenta de lo urgente que era este cambio: Si somos testigos de una injusticia, lo mínimo que podemos hacer es reconocerla en el lenguaje. Partir por cambiar cómo hablamos y escribimos, para llegar a cambiar cómo actuamos, cómo están diseñadas nuestras instituciones, reglas y culturas.
+[Eglé Flores](https://ciudadaniai.org/board/), parte del directorio y ex coordinadora regional de la Fundación, quien tiene experiencia en estas materias, nos hizo darnos cuenta de lo urgente que era este cambio: Si somos testigos de una injusticia, lo mínimo que podemos hacer es reconocerla en el lenguaje. Partir por cambiar cómo hablamos y escribimos, para llegar a cambiar cómo actuamos, cómo están diseñadas nuestras instituciones, reglas y culturas.
 
 Hacer pequeñas modificaciones en el lenguaje, que no asuman que todos quienes componen un colectivo se identifican con el género masculino, es un paso. Es reconocer, en nuestro discurso y narrativa que hay diversas formas de ser, de identificarse, y que muchas veces exceden el binario masculino-femenino. Es un acto afirmativo, reconocer que nuestras sociedades son diversas, plurales, y que en eso hay un valor. Reivindicar el derecho a autoconstruirse y autodefinirse es una acción profundamente democrática, y por eso nos comprometemos con ello.
 
