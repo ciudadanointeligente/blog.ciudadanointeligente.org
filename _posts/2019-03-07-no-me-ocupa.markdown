@@ -11,7 +11,7 @@ single_image:
   - img: https://i.imgur.com/0rImzAR.jpg
     caption: Le Journal des Alternatives.
 ---
-**Acá compartimos un poema escrito por una de las integrantes de nuestro directorio, Eglé Flores. Una reflexión que se hace más urgente que nunca.
+**Acá compartimos un poema escrito por una de las integrantes de nuestro directorio, Eglé Flores. Una reflexión que se hace más urgente que nunca**.
 
 
 No me quita el sueño si virgen hasta el matrimonio, jamás tocada, reina del poliamor, todas en una. Si cabalga unicornios, espera príncipes, devora princesas o está a dieta. Si nació con pene, sin él, o compró uno con velocidades en la sex shop de confianza.
