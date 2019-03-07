@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'No me ocupa'
-intro: "El 8 de marzo de cada año se conmemora el día internacional de la mujer trabajadora. Acá lo que sentidmos y en un poema."
+intro: "El 8 de marzo de cada año se conmemora el día internacional de la mujer. Acá lo que sentimos en un poema."
 date:  2019-03-07 14:30:00 -0300
 categories:
  - "Actualidad"
