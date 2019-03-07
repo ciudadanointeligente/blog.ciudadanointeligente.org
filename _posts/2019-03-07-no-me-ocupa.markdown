@@ -2,7 +2,7 @@
 layout: post
 title:  'NO ME OCUPA'
 intro: "Un poema escrito por nuestra Eglé Flores (2016)."
-date:   2019-03-07 14:30:00 -0300
+date:  2019-03-07 14:30:00 -0300
 categories:
  - "Actualidad"
 highlighted: false
