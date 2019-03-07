@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'En FCI la huelga feminista también va!'
+title:  'La huelga feminista va, en FCI también'
 intro: "Nuestra postura y por qué este #8M también paramos"
 date:   2019-03-08 00:00:00 -0300
 categories:
