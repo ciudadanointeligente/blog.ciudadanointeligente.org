@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'NO ME OCUPA'
-intro: "Un poema escrito por nuestra Eglé Flores (2016)."
+title:  'No me ocupa'
+intro: "Un poema escrito por nuestra Eglé Flores en el 2016. Hoy para el 8M se hace más presente que nunca."
 date:  2019-03-07 14:30:00 -0300
 categories:
  - "Actualidad"
@@ -9,7 +9,7 @@ highlighted: false
 share_message: "Un poema escrito por nuestra Eglé Flores (2016). Revsísalo aquí en @ciudadania_i"
 single_image:
   - img: https://i.imgur.com/0rImzAR.jpg
-    caption: créditos: Le Journal des Alternatives.
+    caption: Le Journal des Alternatives.
 ---
 No me quita el sueño si virgen hasta el matrimonio, jamás tocada, reina del poliamor, todas en una. Si cabalga unicornios, espera príncipes, devora princesas o está a dieta. Si nació con pene, sin él, o compró uno con velocidades en la sex shop de confianza.
 
