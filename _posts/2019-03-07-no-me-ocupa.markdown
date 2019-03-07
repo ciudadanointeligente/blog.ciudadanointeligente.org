@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  'NO ME OCUPA'
-intro: "Un poema escrito por nuestra © Eglé Flores (2016)."
+intro: "Un poema escrito por nuestra Eglé Flores (2016)."
 date:   2019-03-07 14:30:00 -0300
 categories:
  - "Actualidad"
 highlighted: false
-share_message: "Un poema escrito por nuestra © Eglé Flores (2016). Aquí te lo cuenta @ciudadania_i"
+share_message: "Un poema escrito por nuestra Eglé Flores (2016). Revsísalo aquí en @ciudadania_i"
 single_image:
   - img: https://i.imgur.com/0rImzAR.jpg
     caption: créditos: Le Journal des Alternatives
