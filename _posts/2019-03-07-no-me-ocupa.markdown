@@ -8,7 +8,7 @@ categories:
 highlighted: false
 share_message: "Un poema escrito por nuestra Eglé Flores (2016). Revsísalo aquí en @ciudadania_i"
 single_image:
-  - img: https://i.imgur.com/0rImzAR.jpg
+  - img: https://i.imgur.com/JVPlqJn.jpg
     caption: Le Journal des Alternatives.
 ---
 **Acá compartimos un poema escrito por una de las integrantes de nuestro directorio, Eglé Flores. Una reflexión que se hace más urgente que nunca**.
