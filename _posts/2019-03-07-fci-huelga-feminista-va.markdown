@@ -2,7 +2,7 @@
 layout: post
 title:  'En FCI la huelga también va!'
 intro: "Nuestra postura y por qué este #8M también paramos"
-date:   2019-03-05 18:48:00 -0300
+date:   2019-03-07 18:51:00 -0300
 categories:
  - "Actualidad"
 highlighted: false
