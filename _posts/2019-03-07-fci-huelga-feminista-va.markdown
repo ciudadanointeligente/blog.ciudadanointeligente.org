@@ -9,7 +9,7 @@ highlighted: false
 share_message: "La fundación @ciudadania_i se sumó a la huelga feminista, averigua por qué"
 single_image:
   - img: https://i.imgur.com/zribXKa.jpg
-    caption: Foto de: [Titi Nicola](https://commons.wikimedia.org/wiki/User:TitiNicola)
+    caption: Titi Nicola
 ---
 En el trabajo, en las calles, en las plazas, en las casas y en el lugar que sea. Hoy las mujeres paramos para revolucionar nuestro lugar en el mundo, y nuestra fundación no es la excepción. Como equipo decidimos que este 8 de marzo las mujeres de nuestra organización paran, porque queremos aprovechar el espacio para visibilizar la lucha histórica de las mujeres que dieron su vida por mejoras laborales y la de todas las mujeres que sufren día a día de violencia y discriminación en nuestra región. 
 
