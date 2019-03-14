@@ -2,7 +2,7 @@
 layout: post
 title: 'Quem Mandou Matar Marielle Franco?'
 intro: 'Hoje dizemos com força que as vozes políticas das mulheres não serão silenciadas.'
-date: 2018-08-29 12:00:00 -0300
+date: 2019-03-14 12:00:00 -0300
 categories: Actualidad
 highlighted: false
 share_message: "Hoje dizemos com força que as vozes políticas das mulheres não serão silenciadas @ciudadaniai."
