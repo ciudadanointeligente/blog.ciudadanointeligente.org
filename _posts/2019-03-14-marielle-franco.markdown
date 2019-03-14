@@ -10,6 +10,8 @@ single_image:
   - img: "https://i.imgur.com/z1wQ6lM.jpg"
     caption: 
 ---
+**Texto escrito pela coordenadora de incidência em Brasil, Ana Carolina Lourenço**
+
 Arrepios percorreram a minha espinha quando recebi a notícia do assassinato brutal de minha renomada aliada de luta, a vereadora da cidade Rio de Janeiro Marielle Franco, há um ano, completados nesta semana. Marielle Franco, uma política em ascensão em uma das cidades mais importantes da América Latina. A execução a tiros de uma parlamentar eleita com holofotes e perfil nacional soou como presságio do que poderia acontecer a qualquer um dos defensores dos direitos humanos menos conhecidos e fora dos espaços institucionais do país.
 
 Horas depois do assassinato, ainda na madrugada, eu vi meu celular ser tomado por mensagens que chegavam de todas as partes do mundo. Automaticamente me somei a insistência dos outros ativistas e jornalistas brasileiros que não dormiram naquela noite e produziram um dos maiores protestos depois de um assassinato na história do Brasil. Se desde o primeiro minuto eu acreditava na resiliência da sociedade civil para enfrentar este assassinato, não posso negar que eram restritas as esperanças que houvesse uma investigação exemplar que garantisse que os crimes contra defensores de direitos humanos não se repetiram.  
