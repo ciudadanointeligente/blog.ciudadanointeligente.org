@@ -8,7 +8,7 @@ highlighted: false
 share_message: "Creamos alianzas para transformar las democracias en la era digital. @ciudadaniai."
 single_image:
   - img: "https://i.imgur.com/CsD55z4.jpg"
-    caption: 
+    caption:  En la Cátedra de Transparencia y Gestión de Datos de la UPV
 ---
 Comenzamos el año en grande y adivinen qué: firmamos un convenio de colaboración con la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es/) para diseñar e implementar proyectos en conjunto, fomentar el intercambio de experiencias, realizar formación, así como asesorías de cooperación técnica y de transferencia de tecnología. 
 
