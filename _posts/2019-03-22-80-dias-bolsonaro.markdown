@@ -7,7 +7,7 @@ categories: Actualidad
 highlighted: false
 share_message: "Hoje dizemos com força que as vozes políticas das mulheres não serão silenciadas @ciudadaniai."
 single_image:
-  - img: "https://imgur.com/a/m25oQnk"
+  - img: "https://i.imgur.com/ohZNa1C.jpg"
     caption: 
 ---
 **A raíz de la llegada del presidente Jair Bolsonaro a Chile, hicimos una revisión general de los casi 3 meses de gestión del mandatario y los resultados muestran: 92 declaraciones falsas, 6 ministros envueltos en causas judiciales, 126 femicidios desde que asumió, 5 años más de vigencia de los permisos para que la ciudadanía brasileña tenga armas, entre otras.**
