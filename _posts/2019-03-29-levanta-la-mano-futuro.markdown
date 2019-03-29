@@ -4,8 +4,8 @@ title: 'Levanta la mano por el futuro'
 intro: 'Nos sumamos con nuestras herramientas a los Viernes por el Futuro (Fridays For Future).'
 date: 2019-03-29 12:00:00 -0300)
 categories: Actualidad
-highlighted: f[alse
-share_message: "](https://www.fridaysforfuture.org/Nos sumamos con nuestras herramientas a los Viernes por el Futuro (Fridays For Future) @ciudadaniai."
+highlighted: false
+share_message: "(https://www.fridaysforfuture.org/Nos sumamos con nuestras herramientas a los Viernes por el Futuro (Fridays For Future) @ciudadaniai."
 single_image:
   - img: "https://i.imgur.com/IK62bkb.jpg"
     caption: 
