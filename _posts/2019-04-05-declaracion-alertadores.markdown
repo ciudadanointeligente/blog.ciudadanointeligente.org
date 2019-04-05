@@ -26,5 +26,6 @@ Esta semana firmamos un acuerdo inédito entre organizaciones de todo el mundo p
 ¡El primer paso de muchos para seguir avanzando hacia mejores democracias! 
 
 Acá la declaración en [español](https://drive.google.com/file/d/1_nxoDrK5Zfh9BrYG8gRikhOyLu_Ligjx/view?usp=sharing)
+
 Here the statement in [English](https://drive.google.com/file/d/1MiqdIsDpWaLgXfeWdKxdjt5jhiO5MEP-/view?usp=sharing)
 
