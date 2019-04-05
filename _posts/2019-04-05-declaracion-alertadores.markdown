@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Declaración para la protección efectiva de los alertadores'
+title: 'Declaración para la protección de alertadores'
 intro: 'En Valencia creamos la Declaración de Solidaridad y colaboración entre Europa y América Latina para la protección de quienes alertan.'
 date: 2019-04-05 12:00:00 -0300)
 categories: Proyecto
