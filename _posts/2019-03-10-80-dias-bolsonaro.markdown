@@ -2,7 +2,7 @@
 layout: post
 title: 'Los 80 días de Bolsonaro en cifras'
 intro: '92 declaraciones falsas, 6 ministros en causas judiciales, 5 años más de vigencia de permisos para tener armas.'
-date: 2019-03-22 12:00:00 -0300
+date: 2019-03-10 12:00:00 -0300
 categories: Actualidad
 highlighted: false
 share_message: "Hoje dizemos com força que as vozes políticas das mulheres não serão silenciadas @ciudadaniai."
