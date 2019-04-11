@@ -10,6 +10,8 @@ single_image:
   - img: "https://i.imgur.com/4uveZZa.jpg"
     caption: 
 ---
+*Scroll to review the statement in English*
+
 **Aunque a veces nos parezca que la corrupción gana, somos muchas las organizaciones de la sociedad civil que trabajamos para combatirla.**
 
 Esta semana firmamos un acuerdo inédito entre organizaciones de todo el mundo para apoyar a América Latina en su lucha por proteger una cultura de alerta ciudadana y promover a quienes denuncian casos de corrupción. Revisa aquí esta declaración conjunta de 
