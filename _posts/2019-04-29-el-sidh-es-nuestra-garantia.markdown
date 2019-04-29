@@ -9,6 +9,7 @@ share_message: "El Sistema Interamericano de Derechos Humanos es nuestra garant�
 single_image:
   - img: "https://i.imgur.com/X3wSmrC.jpg"
     caption: photo by @ablante.arts
+---
     
 Latinoamérica cuenta, desde hace más de medio siglo, con el mejor sistema de protección regional de derechos humanos del mundo. El [Sistema Interamericano de Derechos Humanos](http://www.oas.org/es/cidh/mandato/que.asp) ha garantizado no solamente la defensa y avances de los derechos en la región, ha sido también el salvavidas que ha permitido proteger la integridad física de muchas personas y colectivos en riesgo.
 
