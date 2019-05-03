@@ -2,13 +2,13 @@
 layout: post
 title: 'Construyendo transparencia en Panamá'
 intro: 'El 5 de mayo se celebran las elecciones en Panamá. En Ciudadanía Inteligente apoyamos a la sociedad civil.'
-date: 2019-05-03 12:00:00 -0300
+date: 2019-05-03 12:00:00 -0300)
 categories: Actualidad
 highlighted: false
 share_message: "Construyendo transparencia y activismo en Panamá por @ciudadaniai."
 single_image:
   - img: "https://i.imgur.com/sdCKcQG.jpg"
-    caption: Créditos: www.panamatoday.com
+    caption: créditos de www.panamatoday.com
 ---
 ***El 5 de mayo se celebran las elecciones generales en Panamá. En los meses previos al proceso, nuestro equipo trabajó a toda máquina para apoyar  a la sociedad civil local.***
 
