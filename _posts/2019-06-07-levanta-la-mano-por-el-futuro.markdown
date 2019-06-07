@@ -7,7 +7,7 @@ categories: Proyecto
 highlighted: false
 share_message: "Realizamos una nueva versión de levanta la mano por el futuro @ciudadaniai."
 single_image:
-  - img: "https://i.imgur.com/7UAmxIb.jpg"
+  - img: "https://i.imgur.com/6SgfFpd.jpg"
     caption: 
 ---
 **Los [Friday For Future](https://www.fridaysforfuture.org/) llegaron para quedarse, y en un momento decisivo para el medio ambiente. No es casualidad que miles de niñas, niños y jóvenes se organicen en todo el mundo por su futuro y el de nuestro planeta.** 
@@ -22,8 +22,6 @@ En [Ciudadanía Inteligente](https://ciudadaniai.org/) tenemos 10 años de exper
 
 Con nuestra plataforma [Levanta la mano por el futuro](https://votainteligente.cl/levantalamano/]), una herramienta para que jóvenes y niñxs eleven propuestas en torno al cambio climático y las presenten a la COP 25, queremos aportar a la lucha por mantener vivo nuestro planeta. 
 
-El viernes 31 de mayo, junto nuestrxs amigxs de [Trenzando](https://www.trenzando.com/) realizamos el Levanta la mano por el futuro con 38 niños y niñas de quinto básico del Colegio Parroquial San Nicolás de Hijuelas.
+El viernes 31 de mayo, junto a nuestrxs amigxs de [Trenzando](https://www.trenzando.com/) realizamos el Levanta la mano por el futuro con 38 niños y niñas de quinto básico del Colegio Parroquial San Nicolás de Hijuelas.Acá lxs niñxs, lograron identificar los principales problemas medioambientales que afectan a su territorio: sequía, basura, incendios y falta de áreas verdes, e idearon propuestas colectivas para responder a estos problemas, con iniciativas concretas que tanto ellxs como su comunidad podrían implementar. 
 
-Lxs niñxs, lograron identificar los principales problemas medioambientales que afectan a su territorio: sequía, basura, incendios y falta de áreas verdes, e idearon propuestas colectivas para responder a estos problemas, con iniciativas concretas que tanto ellxs como su comunidad podrían implementar. 
-
-Esta experiencia nos llenó de esperanza, de que las niñas, niños y jóvenes del Friday For Future lograrán que los gobiernos del mundo escuchen su voz y de una vez por todas, detengan la crisis climática. 
+Esta experiencia nos llenó de esperanza, de que las niñas, niños y jóvenes del *Friday For Future* lograrán que los gobiernos del mundo escuchen su voz y de una vez por todas, detengamos la crisis climática. 
