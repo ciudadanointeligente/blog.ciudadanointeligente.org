@@ -16,7 +16,7 @@ Si los niveles de emisiones de carbono, las tasas de producción de plástico si
 
 La crisis climática latente, es un problema político, un problema de voluntades de los gobiernos y las empresas, que deben estar que dispuestos a pagar los costos necesarios para  mantener nuestra existencia en el planeta. ¡Es un conflicto de vida o muerte! 
 
-En este escenario devastador el Friday For Future, nos deja esperanza de que podemos hacer algo y que debemos alzar la voz para exigir a nuestros representantes que presenten [NDCs](https://www.sostenibilidad.com/cambio-climatico/que-son-ndcs-importantes-frenar-cambio-climatico/) de alta calidad en la [COP] 26 (https://www.sostenibilidad.com/cambio-climatico/que-son-ndcs-importantes-frenar-cambio-climatico/) del próximo año, para que efectivamente se detenga la crisis climática. Esa es nuestra batalla como sociedad civil.
+En este escenario devastador el Friday For Future, nos deja esperanza de que podemos hacer algo y que debemos alzar la voz para exigir a nuestros representantes que presenten [NDCs](https://www.sostenibilidad.com/cambio-climatico/que-son-ndcs-importantes-frenar-cambio-climatico/) de alta calidad en la [COP](https://www.sostenibilidad.com/cambio-climatico/que-son-ndcs-importantes-frenar-cambio-climatico/) 26  del próximo año, para que efectivamente se detenga la crisis climática. Esa es nuestra batalla como sociedad civil.
 
 En [Ciudadanía Inteligente](https://ciudadaniai.org/) tenemos 10 años de experiencia en incidencia y tecnología cívica, motivando y entregando herramientas a la ciudadanía para ser protagonista de los procesos políticos de sus países en América Latina.
 
