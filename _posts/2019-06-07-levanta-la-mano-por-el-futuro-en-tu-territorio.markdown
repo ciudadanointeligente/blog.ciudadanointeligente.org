@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Levanta la mano por el futuro en tu territorio'
-intro: 'Realizamos nuestra primera versión de levanta la mano por el futuro.'
+intro: 'Realizamos una nueva versión de levanta la mano por el futuro.'
 date: 2019-06-07 12:00:00 -0300)
 categories: Proyecto
 highlighted: false
-share_message: "Realizamos nuestra primera versión de levanta la mano por el futuro @ciudadaniai."
+share_message: "Realizamos una nueva versión de levanta la mano por el futuro @ciudadaniai."
 single_image:
   - img: "https://i.imgur.com/7UAmxIb.jpg"
     caption: 
