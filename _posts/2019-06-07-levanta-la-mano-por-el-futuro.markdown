@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levanta la mano por tu futuro'
+title: 'Levanta la mano por el futuro en tu territorio'
 intro: 'Realizamos nuestra primera versión de levanta la mano por el futuro.'
 date: 2019-06-07 12:00:00 -0300)
 categories: Proyecto
