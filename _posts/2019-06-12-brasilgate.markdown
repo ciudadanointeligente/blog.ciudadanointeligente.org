@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRASILGATE: Sin libertad de prensa no hay democracia'
+title: 'BRASILGATE'
 intro: 'The Intercept hizo públicas conversaciones entre Moro y fiscales durante el juicio LavaJato. Un atentado directo a las elecciones de Brasil.'
 date: 2019-06-07 12:00:00 -0300)
 categories: Actualidad
