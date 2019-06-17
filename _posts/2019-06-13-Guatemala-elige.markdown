@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guatemala elige entre la estabilidad pactada y el colapso del Estado'
+title: 'Guatemala elige sin oferta política'
 intro: 'El próximo fin de semana la economía más grande de Centroamérica, Guatemala, celebra elecciones generales.'
 date: 2019-06-13 12:00:00 -0300)
 categories: Actualidad
