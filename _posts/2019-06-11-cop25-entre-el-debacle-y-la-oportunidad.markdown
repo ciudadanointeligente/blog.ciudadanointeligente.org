@@ -13,7 +13,7 @@ single_image:
 **Columna escrita por:*** 
 ***Ezio Costa, director ejecutivo Fiscalía del Medio Ambiente***
 ***Colombina Schaeffer, subdirectora Fundación Ciudadanía Inteligente***
-***Columna Publicada en [El Mostrador]***
+***Columna Publicada en [El Mostrador](https://www.elmostrador.cl/noticias/opinion/columnas/2019/06/11/cop-25-entre-la-debacle-ambiental-y-la-oportunidad/)***
 
 La sociedad actual está experimentando una crisis climática que pone en juego, como nunca antes, la vida tal y como la conocemos. Sin embargo, al hablar y pensar sobre este tema, rara vez hablamos de otro tipo de cuestiones relacionadas. Por ejemplo, preguntarnos sobre quiénes son las personas que toman las decisiones, ni menos cómo las toman, respecto de tamaño desafío. Tampoco nos preguntamos qué lugar nos cabe, como ciudadanía, en este proceso, si es que nos cabe algún lugar (más allá de acciones individuales de dudoso impacto global si no son masivas y a una escala no vista). Hoy estamos hablando de la crisis climática, pero en el futuro puede ser cualquiera el desafío global que requiera de la acción de todos los actores involucrados a la vez. El clásico problema de la acción colectiva, esta vez a nivel global, con una complejidad no antes vista.
 
