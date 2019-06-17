@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COP 25: Entre el debacle y la oportunidad'
-intro: 'Como ciudadanía tenemos la oportunidad de cambiar el curso de la crisis climática. Una crisis que los gobiernos no se han hecho cargo.'
+intro: 'Los gobiernos del mundo no se han hecho cargo de la crisis climática ¿Qué hacemos?'
 date: 2019-06-07 12:00:00 -0300)
 categories: Actualidad
 highlighted: false
