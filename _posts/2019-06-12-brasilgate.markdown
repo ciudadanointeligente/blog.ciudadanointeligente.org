@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRASILGATE'
-intro: 'The Intercept hizo públicas conversaciones entre Moro y fiscales durante el juicio LavaJato. Un atentado directo a las elecciones de Brasil.'
+intro: 'The Intercept publicó los diálogos entre Moro y los fiscales del juicio LavaJato. Una patada a la democracia.'
 date: 2019-06-12 12:00:00 -0300)
 categories: Actualidad
 highlighted: false
