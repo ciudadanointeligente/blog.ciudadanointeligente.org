@@ -10,7 +10,7 @@ single_image:
   - img: "https://i.imgur.com/2jNiHxE.jpg"
     caption: 
 ---
-**Columna escrita por:*** 
+***Columna escrita por:*** 
 ***Ezio Costa, director ejecutivo Fiscalía del Medio Ambiente***
 ***Colombina Schaeffer, subdirectora Fundación Ciudadanía Inteligente***
 ***Columna Publicada en [El Mostrador](https://www.elmostrador.cl/noticias/opinion/columnas/2019/06/11/cop-25-entre-la-debacle-ambiental-y-la-oportunidad/)***
